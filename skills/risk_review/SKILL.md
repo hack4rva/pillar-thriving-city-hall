@@ -17,8 +17,8 @@ Purpose: Prevent common civic-tech mistakes and enforce guardrails.
 
 ## Process
 1) Check all civic claims for official sources; require links.
-2) Remove/soften eligibility and legal advice; replace with "check official source".
+2) Remove/soften eligibility and legal advice; replace with “check official source”.
 3) Verify Richmond specificity; avoid generalizing across jurisdictions.
-4) Check for A Thriving City Hall-specific risks: wrong routing, API claims, official status claims.
-5) Ensure weekend‑feasible scope; cut features that require new policy or sensitive data.
-6) Summarize fixes and request confirmation to apply changes.
+4) Ensure weekend‑feasible scope; cut features that require new policy or sensitive data.
+5) Summarize fixes and request confirmation to apply changes.
+

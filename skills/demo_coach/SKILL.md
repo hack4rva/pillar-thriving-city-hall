@@ -20,5 +20,5 @@ Purpose: Help teams present effectively and score against the rubric.
 1) Identify the tightest end‑to‑end path to value; remove distractions.
 2) Script a realistic flow with hardcoded data/mocks as needed.
 3) Align talking points to rubric; pre‑answer likely judge questions.
-4) Include the "before and after" contrast that makes City Hall value visible.
-5) Produce a checklist and timing plan.
+4) Produce a checklist and timing plan.
+

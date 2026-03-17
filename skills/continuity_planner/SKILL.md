@@ -15,7 +15,6 @@ Purpose: Identify post-hackathon continuation opportunities and next steps.
 
 ## Process
 1) Identify credible use cases and decision‑makers to engage.
-2) For service navigation: prioritize engagement with Pete Briel / City 311 team.
-3) For procurement: identify City procurement staff champion as first step.
-4) Map needed artifacts and technical hardening tasks.
-5) Propose a lightweight roadmap with risks and dependencies.
+2) Map needed artifacts and technical hardening tasks.
+3) Propose a lightweight roadmap with risks and dependencies.
+
