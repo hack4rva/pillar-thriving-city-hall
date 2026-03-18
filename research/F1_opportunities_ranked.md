@@ -1,3 +1,25 @@
+---
+title: "Richmond City Hall Hackathon — Fastest Paths to High-Impact, Adoptable Tools"
+pillar: thriving-city-hall
+section: F
+problem_statement: general
+tags:
+  - opportunities-ranked
+  - contract-expiry
+  - 311-helper
+  - service-pathway
+  - feasibility
+  - adoption
+summary: "Ranked evaluation of seven City Hall solution spaces on data readiness, 48-hour feasibility, and adoption potential. Recommends Contract Expiry Dashboard as top build; Plain-Language 311 Helper and Service Pathway Mapper as alternatives."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - F2_opportunities_service_nav
+  - F3_opportunities_procurement
+  - H1_mvp_48hr_framework
+---
+
 # Richmond City Hall Hackathon — Fastest Paths to High-Impact, Adoptable Tools
 
 ## Executive Summary

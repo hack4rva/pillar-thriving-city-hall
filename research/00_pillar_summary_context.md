@@ -1,3 +1,24 @@
+---
+title: "Closing Richmond's Civic UX Gap: Faster Service Discovery and Smarter Contract Review"
+pillar: thriving-city-hall
+section: context
+problem_statement: general
+tags:
+  - service-navigation
+  - procurement
+  - rva.gov
+  - RVA311
+  - City Contracts
+  - Socrata
+summary: "Executive overview of both City Hall problem domains: residents cannot navigate rva.gov and RVA311 to find services, and city staff must manually review contracts across four disparate platforms. Establishes key system architecture facts and top hackathon priorities."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - A1_problem_landscape_service_navigation
+  - A2_problem_landscape_procurement_review
+---
+
 # Closing Richmond's Civic UX Gap: Faster Service Discovery and Smarter Contract Review
 
 ## Executive Summary

@@ -1,3 +1,26 @@
+---
+title: "Breaking the Maze: Where Richmond Residents Get Lost in City Services"
+pillar: thriving-city-hall
+section: A
+problem_statement: service-navigation
+tags:
+  - service-navigation
+  - rva.gov
+  - RVA311
+  - information-architecture
+  - call-center
+  - department-centric
+summary: "Detailed problem analysis of resident service navigation failures: department-centric rva.gov architecture, 311 call volume patterns, and category taxonomy fragmentation. Documents where navigation breaks and how it generates avoidable phone calls."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - A2_problem_landscape_procurement_review
+  - A5_problem_landscape_government_ux
+  - B1_users_resident_service_seeker
+  - C1_services_311_landscape
+---
+
 # Breaking the Maze: Where Richmond Residents Get Lost in City Services
 
 ## Executive Summary

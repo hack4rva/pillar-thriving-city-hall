@@ -1,3 +1,25 @@
+---
+title: "RVA311 (2014–2015) Socrata: What’s Usable Now, What’s Not"
+pillar: thriving-city-hall
+section: D
+problem_statement: service-navigation
+tags:
+  - RVA311
+  - Socrata
+  - SeeClickFix
+  - historical-data
+  - vgg4-hjn8
+  - data-schema
+summary: "Field-by-field schema analysis of the RVA311 historical Socrata dataset (vgg4-hjn8): 43,273 SeeClickFix records from Jan 2014–Aug 2015. Documents what is usable for prototypes and why it cannot represent current RVA311 operations."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - D2_data_contracts
+  - D4_data_rvagov_content
+  - C1_services_311_landscape
+---
+
 # RVA311 (2014–2015) Socrata: What’s Usable Now, What’s Not
 
 ## Executive Summary

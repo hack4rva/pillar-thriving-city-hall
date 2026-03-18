@@ -1,3 +1,25 @@
+---
+title: "City Hall Guardrails That Work: Confidence, Citations, and Human Escalation You Can Ship"
+pillar: thriving-city-hall
+section: G
+problem_statement: general
+tags:
+  - guardrails
+  - confidence-ui
+  - inline-citations
+  - human-escalation
+  - procurement-flags
+  - NYC-MyCity
+summary: "Practical guardrail patterns for City Hall AI tools: three-tier confidence UI, inline citations with source chips, 'I'm not sure' escalation, procurement flag routing to human triage, and last-verified date SLAs. Draws on NYC MyCity failure as cautionary baseline."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - G1_risks_wrong_routing
+  - G2_risks_procurement_compliance
+  - G4_risks_data_staleness
+---
+
 # City Hall Guardrails That Work: Confidence, Citations, and Human Escalation You Can Ship
 
 ## Executive Summary

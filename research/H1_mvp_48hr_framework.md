@@ -1,3 +1,26 @@
+---
+title: "48-Hour City Hall MVPs — What You Can Actually Ship, Safely"
+pillar: thriving-city-hall
+section: H
+problem_statement: general
+tags:
+  - 48-hour-mvp
+  - feasibility
+  - City-Contracts
+  - Socrata
+  - PyMuPDF
+  - time-budget
+summary: "48-hour feasibility framework with specific technical guidance: City Contracts Socrata as primary data source, PyMuPDF for PDF extraction, JSON schema enforcement for LLM routing, and Friday/Saturday/Sunday time budget breakdown."
+geography: Richmond, VA
+source: parallel-ai-pro
+status: raw
+related_reports:
+  - H2_mvp_service_navigation
+  - H3_mvp_procurement
+  - H5_mvp_scope_boundaries
+  - F1_opportunities_ranked
+---
+
 # 48-Hour City Hall MVPs — What You Can Actually Ship, Safely
 
 ## Executive Summary
