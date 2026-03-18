@@ -74,7 +74,7 @@ Top 10 claims to verify before the hackathon (March 27, 2026). Assign each to a 
 **How to verify:** Query the SODA API: https://data.richmondgov.com/resource/vgg4-hjn8.json?$select=min(created_at),max(created_at)
 **Impact if false:** May affect how useful the historical data is for understanding current category patterns.
 **Evidence log ID:** E-001
-**Status:** [x] Attempted 2026-03-18 — **CANNOT VERIFY.** The SODA $select query returned HTTP 400 (Bad Request). The date range claim (Jan 2014–Aug 2015) could not be confirmed via API. Alternative: manually check the dataset page at data.richmondgov.com or try a different query format.
+**Status:** [x] Verified 2026-03-18 — **CLAIM IS CONFIRMED (with nuance).** Parallel.ai verification confirms dataset contains ~43.3K rows and 19 columns. Actual date range: January 1, 2014 to August 25, 2015. CORRECTION: Use field name `createddate` in SODA queries — `created_at` returns HTTP 400 error. Source: https://data.richmondgov.com/d/vgg4-hjn8 (Parallel.ai run_id: trun_3cad0ebea15c480e910ea5fa22a1ba8c, 2026-03-18)
 
 ---
 
