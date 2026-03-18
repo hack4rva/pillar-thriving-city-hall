@@ -5,7 +5,7 @@ Richmond faces a critical service navigation challenge: routing residents accura
 
 Recent municipal AI failures, notably NYC's $600,000 chatbot that was canceled in February 2026 for providing illegal advice [2] [3], demonstrate that open-ended LLM generation is too risky for public-facing government routing. Conversely, deterministic decision trees—like GOV.UK's "Smart Answers" [4] [5] —provide the necessary auditability and safety. 
 
-The optimal solution for the hackathon prototype is a **"Wizard-First, Search-Assisted"** approach. This leverages a hard-coded, version-controlled decision tree to guide users who "don't know what they don't know," backed by a lightweight semantic search for users who know exactly what they need. This approach requires no live API, relies on a static taxonomy built from existing rva.gov content, and provides the safety, accuracy, and transparency that stakeholders like Pete Briel will require to greenlight the project post-hackathon.
+The optimal solution for the hackathon prototype is a **"Wizard-First, Search-Assisted"** approach. This leverages a hard-coded, version-controlled decision tree to guide users who "don't know what they don't know," backed by a lightweight semantic search for users who know exactly what they need. This approach requires no live API, relies on a static taxonomy built from existing rva.gov content, and provides the safety, accuracy, and transparency that stakeholders like Pete Breil will require to greenlight the project post-hackathon.
 
 ## Context, Constraints, and Stakes
 Richmond needs a low-risk, low-friction tool that routes accurately without live API dependencies. The operational scale is significant: RVA311 partners with over 20 different City agencies and processed over 83,000 requests in 2024 [1]. 
@@ -85,7 +85,7 @@ To prove viability in a 48-hour hackathon, the team must ship a wizard-first, se
 
 **Success Metric for Demo:** Achieve ≥85–90% top-1 accuracy on a 30–50 query test set covering the top 20 categories, with zero critical misroutes.
 
-## What Pete Briel and 311 Need to Greenlight Post-Hackathon
+## What Pete Breil and 311 Need to Greenlight Post-Hackathon
 Accuracy, safety, maintainability, and a path to scale matter far more than technological novelty. To consider the prototype worth continuing, stakeholders will need to see:
 
 * **Test Results:** A clear confusion matrix showing top-1 and top-3 accuracy, and proof that ambiguous cases are safely handed off to human agents.

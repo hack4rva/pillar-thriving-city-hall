@@ -8,7 +8,7 @@ By anchoring to rva.gov content, Open311 schema, and proxy city structures, a ha
 
 Treat the absence of an API as a design constraint: focus the MVP's value on service discovery, routing, and user guidance rather than analytics. 
 
-The current RVA311 system's data is completely inaccessible publicly. What is visible are aggregate volumes reported by the media: in 2025, the city received 208,216 RVA 311 requests, a massive spike from over 83,000 requests in 2024 [1]. Furthermore, call center agents successfully resolved over 116,000 concerns over the phone without having to create a request for specific departments [1]. Because post-2018 case data and the current category list are inaccessible via API, the team must avoid overpromising accuracy or "live" capabilities. The tool should act as a concierge that routes users to the correct official channels.
+The current RVA311 system's data is completely inaccessible publicly. What is available from verified sources: in 2024, the city received ~203,000 calls and ~75,200 requests created (corrected 2026-03-18 — previously cited 208,216 was incorrect) [1]. Call center agents resolved a large share of concerns over the phone without having to create a request for specific departments [1]. Because post-2018 case data and the current category list are inaccessible via API, the team must avoid overpromising accuracy or "live" capabilities. The tool should act as a concierge that routes users to the correct official channels.
 
 ## Reconstructing Today’s Taxonomy from Public Sources — Combine rva.gov + Open311 + proxy city structures
 
@@ -119,7 +119,7 @@ Measure routing accuracy and user task completion, not case throughput. Track th
 
 All structures and examples are grounded in public sources:
 * **rva.gov:** Public Works pages detailing Potholes, Bulk & Brush (including rules and fees), Graffiti, Trash, and Sidewalks [2] [3] [6] [7].
-* **WRIC (2/20/26):** 208,216 requests in 2025; >116,000 resolved by phone; program volumes and pauses [1].
+* **WRIC:** ~203,000 calls and ~75,200 requests created in 2024 (corrected 2026-03-18); program volumes and pauses [1].
 * **Open311:** GeoReport v2 spec, Service Discovery, and metadata attributes [8] [9] [4].
 * **DataSF:** "311 Cases by Category & Request Type" demonstrating a two-level taxonomy pattern [5].
 

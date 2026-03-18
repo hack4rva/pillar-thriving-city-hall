@@ -42,7 +42,7 @@ Six concepts organized by the two targeted problem statements. Each includes fea
 ## Problem 2 — Helping City Staff Review Procurement Risks and Opportunities
 
 ### Concept D: Contract Expiry Dashboard
-- **What it is:** A data dashboard that pulls from the City Contracts Socrata dataset (CSV download for all 9 columns) and visualizes contracts by expiration date — with filters for department, vendor, and time window.
+- **What it is:** A data dashboard that pulls from the City Contracts Socrata dataset (API or CSV download, both return all 9 columns; corrected 2026-03-18) and visualizes contracts by expiration date — with filters for department, vendor, and time window.
 - **User served:** City procurement staff needing a quick view of upcoming renewals.
 - **48-hour feasibility:** Ingest City Contracts CSV; parse and normalize dates; build a sortable/filterable table or Gantt-style view; highlight contracts expiring within 30/60/90 days.
 - **Data/content:** City Contracts Socrata CSV download (xqn7-jvv2); SAM.gov API for debarment cross-check (stretch goal).

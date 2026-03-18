@@ -1,7 +1,7 @@
 # RVA311 routing reality: cutting misroutes, boosting first-time right
 
 ## Executive Summary
-Online intake is amplifying routing pressure for 311 call centers nationwide. In cities like Los Angeles, 80% of 311-operated service requests now arrive via mobile apps and websites, yet 40% of answered calls still require transfers due to misclassification or specialized needs [1]. For Richmond's RVA311 system, which handles approximately 208,216 requests annually using AvePoint Citizen Services on Dynamics 365, this digital shift presents both a risk of increased manual re-routing and an opportunity for intelligent triage. 
+Online intake is amplifying routing pressure for 311 call centers nationwide. In cities like Los Angeles, 80% of 311-operated service requests now arrive via mobile apps and websites, yet 40% of answered calls still require transfers due to misclassification or specialized needs [1]. For Richmond's RVA311 system, which handles approximately ~203,000 calls and ~75,200 requests created annually (2024; corrected 2026-03-18 — prior figure of 208,216 was incorrect) using AvePoint Citizen Services on Dynamics 365, this digital shift presents both a risk of increased manual re-routing and an opportunity for intelligent triage.
 
 "Right-first-time" routing is measurable and achievable. Industry benchmarks show average First Call Resolution (FCR) rates around 71% [2], with top-performing cities like Tempe hitting 86% Single Point of Contact resolution [3]. Historically, without strong triage, misroutes are costly; pre-311 studies in Minneapolis found 20–30% of calls were misrouted by departments, with up to 60–85% of police-related calls misdirected [4]. By leveraging Richmond's existing Dynamics 365 stack to pilot a plain-language service navigator—starting with highly ambiguous categories like sanitation—RVA311 can significantly reduce avoidable rework, improve Service Level Agreement (SLA) compliance, and boost agent trust.
 
@@ -10,7 +10,7 @@ Online intake is amplifying routing pressure for 311 call centers nationwide. In
 Digital intake is rising, misroutes are measurable and reducible, and existing systems can support "right-first-time" routing with focused configuration and Quality Assurance (QA). 
 
 ### Richmond baseline and goals
-With a known volume of ~208,216 annual requests and a modern technology stack (AvePoint on Dynamics 365), RVA311 is well-positioned to instrument routing accuracy quickly. By establishing baseline metrics for reclassification rates, the city can guide a targeted pilot for a resident service navigation tool championed by 311 Director Pete Briel.
+With a known volume of ~203,000 calls and ~75,200 requests created annually (2024; corrected 2026-03-18) and a modern technology stack (AvePoint on Dynamics 365), RVA311 is well-positioned to instrument routing accuracy quickly. By establishing baseline metrics for reclassification rates, the city can guide a targeted pilot for a resident service navigation tool championed by 311 Director Pete Breil.
 
 ## Staff persona and workflow — "A day in the life" of a RVA311 routing agent
 
@@ -89,13 +89,13 @@ Policy context must be live. NYC suspends missed collection complaints during fu
 While the technology stack (AvePoint/D365) supports rapid internal measurement, public routing-accuracy data for RVA311 is currently limited.
 
 ### Known items
-RVA311 utilizes AvePoint Citizen Services on Dynamics 365 and processes approximately 208,216 requests annually. Pete Briel serves as the Director of 311 and is a key stakeholder for improving resident service navigation.
+RVA311 utilizes AvePoint Citizen Services on Dynamics 365 and handles approximately ~203,000 calls and ~75,200 requests created annually (2024; corrected 2026-03-18). Pete Breil serves as the Director of 311 and is a key stakeholder for improving resident service navigation.
 
 ### Gaps
 This research scan did not surface public reporting on RVA311 staffing levels, specific routing accuracy percentages, or transfer metrics on the rva.gov or RVA311 portals. 
 
 ### Sources to verify
-To establish a true baseline, internal validation is required. Key sources to investigate include internal budget/performance documents, vendor configuration logs, and direct stakeholder interviews with Pete Briel to confirm specific pain points and pilot scope.
+To establish a true baseline, internal validation is required. Key sources to investigate include internal budget/performance documents, vendor configuration logs, and direct stakeholder interviews with Pete Breil to confirm specific pain points and pilot scope.
 
 ## Define the metric — "Right First Type" and companion KPIs
 

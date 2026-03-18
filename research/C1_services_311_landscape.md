@@ -2,13 +2,13 @@
 
 ## Executive Summary
 
-The City of Richmond's RVA311 system, powered by AvePoint Citizen Services on Microsoft Dynamics 365, serves as the central nervous system for non-emergency civic requests. While the platform successfully handles massive volume—with 2025 requests reportedly reaching 208,216 and the city noting over 83,000 requests assisted by partners in 2024 [1] —there are critical gaps in public data transparency, mobile user experience, and API accessibility. 
+The City of Richmond's RVA311 system, powered by AvePoint Citizen Services on Microsoft Dynamics 365, serves as the central nervous system for non-emergency civic requests. While the platform successfully handles significant volume—with 2024 figures verified at ~203,000 calls and ~75,200 requests created (corrected 2026-03-18 — previously cited 208,216 was incorrect), and the city also noting over 83,000 requests assisted by partners in a prior period [1] —there are critical gaps in public data transparency, mobile user experience, and API accessibility. 
 
 The system features a robust multi-channel intake process (phone, web, iOS, Android) and a sophisticated backend integration routing Public Works requests through Microsoft BizTalk into Trimble Cityworks [2] [3]. However, the lack of a documented public API and the obfuscation of the full 50+ request type taxonomy behind a JavaScript-rendered portal limit third-party innovation and civic transparency. To maximize the value of this infrastructure, Richmond must transition from a closed-loop operational tool to an open-by-default data platform.
 
-## RVA311 at a Glance — 2018 AvePoint/Dynamics launch; 2025 demand tops 208k
+## RVA311 at a Glance — 2018 AvePoint/Dynamics launch; 2024 volume ~203k calls
 
-RVA311 operates on AvePoint Citizen Services, deploying Microsoft Dynamics 365, advanced machine learning, and IoT technologies to manage citizen requests [2]. The system replaced a fragmented legacy setup, centralizing requests that previously went to disparate call centers, council offices, or direct emails [2]. While user-provided data indicates 208,216 total requests in 2025, the City's official site notes that in 2024, RVA311 "provided assistance or supported our City partners in responding to over 83,000 requests" [1]. This discrepancy likely stems from differences between total automated intake versus requests requiring active call center or partner assistance.
+RVA311 operates on AvePoint Citizen Services, deploying Microsoft Dynamics 365, advanced machine learning, and IoT technologies to manage citizen requests [2]. The system replaced a fragmented legacy setup, centralizing requests that previously went to disparate call centers, council offices, or direct emails [2]. Verified 2024 figures: ~203,000 calls and ~75,200 requests created (corrected 2026-03-18 — previously cited 208,216 was incorrect). The City's official site also notes that RVA311 "provided assistance or supported our City partners in responding to over 83,000 requests" in a prior reporting period [1].
 
 ### Channel Footprint Confirmed — Phone, Web, iOS, Android, Internal Agent Portal
 

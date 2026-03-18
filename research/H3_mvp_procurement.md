@@ -10,9 +10,9 @@ Approach B (PDF Contract Extractor) is currently blocked due to a lack of sample
 
 Understanding the data landscape is critical to avoiding Day 1 blockers. The current constraints dictate a highly focused approach to data ingestion.
 
-### Socrata CSV is supported; avoid SODA column bug
+### Socrata API and CSV are both supported
 
-The SODA API has a known column bug, making it unsuitable for a fast-paced hackathon. However, Socrata's direct CSV export is officially supported and reliable. Users can download datasets directly from the primer page by selecting the **Export** button and choosing the CSV format [1] [2]. The CSV format handles embedded commas and newlines by wrapping strings in quotes, and escapes internal quotes by doubling them (e.g., `""`) [3]. A robust CSV parser is required to handle these formatting rules without breaking data rows.
+The SODA API returns all 9 columns correctly — no column bug exists (corrected 2026-03-18; prior claim of an 8-column bug was incorrect). Both the SODA API and Socrata's direct CSV export are available and reliable. Users can download datasets directly from the primer page by selecting the **Export** button and choosing the CSV format [1] [2]. The CSV format handles embedded commas and newlines by wrapping strings in quotes, and escapes internal quotes by doubling them (e.g., `""`) [3]. A robust CSV parser is required to handle these formatting rules without breaking data rows.
 
 ### VITA portal has no API (Cobblestone)
 
@@ -28,7 +28,7 @@ The following table evaluates the three proposed approaches based on their depen
 
 | Approach | Core Data | External Dependencies | Est. Build Time | Critical Blockers | Primary Risks | Feasibility Verdict |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **A: Contract Expiry Dashboard** | City Contracts CSV (9 cols) | None; CSV download only | 8–12 hrs | CSV URL/date normalization | CSV parsing/formatting; date anomalies | **Green — MVP-ready** |
+| **A: Contract Expiry Dashboard** | City Contracts API or CSV (9 cols) | None; API or CSV download | 8–12 hrs | Date normalization | CSV/JSON parsing; date anomalies | **Green — MVP-ready** |
 | **B: PDF Contract Extractor** | Contract PDFs | Sample PDFs (>=5 on Day 1); LLM | 10–14 hrs | 0 PDFs currently available | No data; LLM mis-extraction; advisory-only limits | **Red — Blocked** |
 | **C: Cross-Source Finder** | City CSV + SAM.gov + eVA CSV | 1 SAM.gov key; eVA CSV access | 14–18 hrs | Unverified eVA CSV; key lead time | Taxonomy matching; API hiccups | **Yellow — Only if deps ready** |
 
@@ -79,7 +79,7 @@ Before coding begins, the following must be verified:
 
 ## Risk Register & Mitigations
 
-* **SODA column bug:** Mitigated by using direct CSV export only [1].
+* **SODA column availability:** No column bug — the API returns all 9 columns correctly (corrected 2026-03-18). Either the API or CSV may be used.
 * **CSV parsing edge cases:** Socrata CSVs contain embedded commas and newlines [3]. Mitigated by using a robust, standard-compliant CSV parsing library rather than naive string splitting.
 * **Data anomalies:** Mitigated by flagging invalid dates/amounts and excluding them from aggregates.
 * **Credibility gap:** Mitigated by prominent advisory disclaimers and visible calculation provenance.

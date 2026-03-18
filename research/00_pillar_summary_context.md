@@ -68,7 +68,7 @@ City OData, eVA CSV, and the SAM API can be integrated into a unified backend. V
 
 | Source | Format / Access | Key Details & Limitations | URL / Source |
 | :--- | :--- | :--- | :--- |
-| **City Contracts** | Socrata OData (xqn7-jvv2) | 9 columns; updated monthly; last updated Mar 2, 2026 [1]. Known API column bug. | http://data.richmondgov.com/widgets/xqn7-jvv2 [5] |
+| **City Contracts** | Socrata OData (xqn7-jvv2) | 9 columns; updated monthly; last updated Mar 2, 2026 [1]. All 9 columns returned correctly via API (corrected 2026-03-18 — prior "column bug" claim was incorrect). | http://data.richmondgov.com/widgets/xqn7-jvv2 [5] |
 | **eVA (Virginia)** | CSV Export | 2024 dataset: 44 columns, 1,922,754 rows, 1 GiB [2]. | http://data.virginia.gov/dataset/eva-procurement-data-2024 [6] |
 | **SAM.gov (Federal)** | REST API | Requires API key; strict rate limits apply [3] [4]. Attachments via `resourceLinks` [3]. | http://open.gsa.gov/api/get-opportunities-public-api [3] |
 | **VITA (State)** | Web Portal | **No API**. Requires manual scraping or uploads. | vita.cobblestonesystems.com/public/ |
@@ -103,7 +103,7 @@ Teams integrating federal data must plan for SAM.gov rate limits and schema drif
 
 ### Unknowns (What cannot be verified publicly)
 * **RVA311 Export Options:** It is unknown if internal bulk access or an authenticated feed can be provided to teams during the hackathon.
-* **City API Bug:** The exact nature of the "API column bug" on the City Contracts dataset (xqn7-jvv2) is unknown (e.g., which specific fields are affected or mismatched).
+* **City API Bug:** No column bug exists on the City Contracts dataset (xqn7-jvv2) — the API returns all 9 columns correctly (corrected 2026-03-18).
 * **VITA Scraping Tolerance:** It is unknown if the VITA portal has anti-bot controls that would block automated scraping attempts during the event.
 
 ## Opportunity Areas and Solution Concepts: What to build now
@@ -129,7 +129,7 @@ Teams should crawl rva.gov service pages and normalize them into a standard JSON
 ## Implementation Risks and Mitigations
 
 Brittle demos are the biggest risk. Teams must use schema tests, caches, and manual fallbacks to handle rate limits and site changes.
-* **Mitigations:** Implement scheduled nightly pulls rather than live queries; use schema diff tests to catch the xqn7-jvv2 column bug; rely entirely on cached SAM responses for the frontend; and provide a manual CSV upload option for VITA data in case scraping is blocked.
+* **Mitigations:** Implement scheduled nightly pulls rather than live queries; run schema diff tests on xqn7-jvv2 to catch any future changes (no column bug currently; API returns all 9 columns; corrected 2026-03-18); rely entirely on cached SAM responses for the frontend; and provide a manual CSV upload option for VITA data in case scraping is blocked.
 
 ## Measurement and Validation: Prove impact fast
 

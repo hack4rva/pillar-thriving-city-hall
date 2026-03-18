@@ -70,7 +70,7 @@ Note: Journeys include plausible observations based on the problem statements an
 - VITA portal is web-only with no export or API; manual browsing required
 - No automated way to compare City contract prices against VITA or GSA equivalents
 - Risk of missing renewal windows if the procurement officer is out or the process is manual
-- Socrata API returns only 8 of 9 columns due to a known bug — staff using the API may miss data
+- Socrata API returns all 9 columns correctly — no column bug exists; both API and CSV are usable (corrected 2026-03-18)
 
 **User questions at each step:**
 - Which contracts expire in the next 60–90 days?

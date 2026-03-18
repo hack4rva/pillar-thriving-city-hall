@@ -39,7 +39,7 @@ We evaluate the seven proposed solution spaces (A–G) based on documented need,
 ### Richmond-Specific Constraints That Shape Feasibility
 
 Three critical local constraints dictate what can actually be built and adopted in 48 hours:
-* **311 Limitations:** There is no post-2018 public API for 311 data, but there is a strong internal champion (Pete Briel) and an active SRM contract [2].
+* **311 Limitations:** There is no post-2018 public API for 311 data, but there is a strong internal champion (Pete Breil) and an active SRM contract [2].
 * **Contract Data Strengths:** The City Contracts dataset is a clean Socrata CSV with end dates [1]. While it lacks a named "champion" in the prompt, it has clear ownership.
 * **PDF Unavailability:** There are no pre-staged PDF documents available for extraction, and staging is required pre-build to make LLM extraction viable.
 
@@ -95,7 +95,7 @@ Post-hackathon adoption hinges on internal champions. Anchor builds to Citizen S
 
 | Solution | Likely Champion/Owner | Evidence | Adoption Lever | Next Step |
 | :--- | :--- | :--- | :--- | :--- |
-| **A: 311 Helper** | Pete Briel (CSR) | Stated strong champion; active SRM contract [2] | Reduce call load; better self-service | Book day-1 validation |
+| **A: 311 Helper** | Pete Breil (CSR) | Stated strong champion; active SRM contract [2] | Reduce call load; better self-service | Book day-1 validation |
 | **D: Expiry Dash** | Michael Gordon (Procurement) | Listed as dataset owner [1] | Renewal planning; workload smoothing | Share mockups pre-demo |
 | **B/C: Search/Map** | Dept. web owners (PDR, Finance) | Acquia hosting [2]; many guides [4] | Reduce help calls; clearer journeys | Identify 3 content stewards |
 | **F/G: Procurement** | Procurement + Finance | Transparency page exists [6] | Market intelligence; trust | Position unique insights |

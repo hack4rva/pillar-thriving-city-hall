@@ -7,9 +7,9 @@ This document outlines potential pathways for continuing work from the hackathon
 ## Problem 1: Resident Service Navigation
 
 ### Most likely continuation path
-- **Champion contact:** Pete Briel, Director of 311 (Richmond City), is the strongest candidate for a post-hackathon champion on the resident service navigation problem. As of March 2026, his involvement is implicit rather than formally committed.
+- **Champion contact:** Pete Breil, Director of 311 (Richmond City), is the strongest candidate for a post-hackathon champion on the resident service navigation problem. As of March 2026, his involvement is implicit rather than formally committed.
 - **What continuation would require:** A working demo that reduces misrouted requests; evidence of resident confusion from current 311 request patterns; City IT (Office of Information Technology) involvement for any integration with official systems.
-- **Near-term next step:** Request a meeting with Pete Briel and the RVA311 team after the hackathon to present the prototype and gather feedback on routing accuracy.
+- **Near-term next step:** Request a meeting with Pete Breil and the RVA311 team after the hackathon to present the prototype and gather feedback on routing accuracy.
 
 ### Partner organizations
 - **Code for America (Code for Richmond brigade):** Code for America has deep experience with 311 data, service navigation, and government digital services. A local brigade or CfA national could be a technical partner.
@@ -37,7 +37,7 @@ This document outlines potential pathways for continuing work from the hackathon
 
 ### What a continuation would need to maintain
 - Regular refresh of the City Contracts Socrata data
-- Handling of the known API column bug (CSV download workflow)
+- Confirming data schema on each refresh (no column bug exists; API returns all 9 columns; corrected 2026-03-18)
 - Legal review of any tool claiming to help with compliance determination
 - Clear "advisory only" labeling throughout
 

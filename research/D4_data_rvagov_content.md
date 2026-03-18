@@ -42,7 +42,7 @@ The native Drupal search is HTML-only, features pagination, and enforces a minim
 
 When querying the search endpoint (e.g., `/search?search=water`), the system returns HTML results with pagination, displaying metrics like "Displaying 1 - 10 of 337" [6]. The search engine also enforces a strict query length, throwing an error message stating, "You must include at least one keyword to match in the content. Keywords must be at least 3 characters" if the input is too short [7]. 
 
-While the UI implies faceted search capabilities (often using a `business_unit` taxonomy), these facets are not visible as simple query parameters (like `f[0]=business_unit:ID`) in standard scrapes. To recover the 40+ `business_unit` values, your team should inspect the DOM for `data-drupal-facet-item-value` attributes, view the page source for `drupalSettings.facetapi`, or probe the Drupal JSON:API (`/jsonapi/taxonomy_term`) if it is enabled. As a fallback, you can build a custom dictionary mapping departments to slugs based on the homepage and Services hub listings.
+While the UI implies faceted search capabilities (often using a `business_unit` taxonomy), the `business_unit` facet parameter is non-functional for SODA JSON API filtering (corrected 2026-03-18). It is visible in the Drupal search HTML but cannot be used to programmatically filter JSON API results. To extract the 40+ `business_unit` labels for display purposes only, inspect the DOM for `data-drupal-facet-item-value` attributes or view the page source for `drupalSettings.facetapi`. Build a custom dictionary mapping departments to slugs based on the homepage and Services hub listings for use as a display/navigation layer — not as an API filter.
 
 ## Structured Data & Schema.org
 
@@ -82,7 +82,7 @@ Plan to crawl HTML as your primary ingestion method, but probe JSON endpoints op
 | `/common/services` | Live; 11 categories; department blocks [1] | HTML scrape | Seed crawl; parse labels; map services to departments. |
 | `/search?search=...` | Live; 3+ char min; 337 results for "water" [6] [7] | HTML scrape only; JSON not observed | Inspect view-source for `drupalSettings`; try `_format=json`. |
 | `robots.txt` | Unconfirmed in this pass | Text fetch | Verify Disallow, Crawl-delay; note sitemap references. |
-| `sitemap.xml` | Unconfirmed in this pass | XML fetch | Check both hosts (`rva.gov` and `www.rva.gov`); else proceed with nav seeds. |
+| `sitemap.xml` | Returns 404 — does not exist (corrected 2026-03-18) | Not applicable | Proceed directly with nav seeds; do not attempt sitemap-based discovery. |
 | JSON:API (`/jsonapi`) | Unknown | HEAD/GET probe | If enabled, use `taxonomy_term` to list `business_unit` facets. |
 | Department pages | Live; server-rendered [5] | HTML scrape | Extract contact fields; cap depth to 2. |
 
@@ -118,7 +118,7 @@ Run relevance tests using 10 to 15 common citizen tasks (e.g., "water", "permits
 
 A short 48-hour probe cycle will de-risk unknowns before your coding sprints begin.
 
-Your technical lead should immediately fetch `robots.txt` and `sitemap.xml` on both `rva.gov` and `www.rva.gov` to archive the results. Concurrently, execute HEAD/GET requests against `/jsonapi` and `/search?_format=json` to definitively rule out hidden JSON endpoints. If JSON:API is enabled, export the `business_unit` terms. Meanwhile, the engineering team should begin setting up the lightweight crawler and label-based parsers based on the `/common/services` HTML structure.
+Your technical lead should immediately fetch `robots.txt` on `rva.gov` and `www.rva.gov` to archive the results. Note: `sitemap.xml` returns 404 on rva.gov — it does not exist (corrected 2026-03-18); do not rely on it. Concurrently, execute HEAD/GET requests against `/jsonapi` and `/search?_format=json` to definitively rule out hidden JSON endpoints. If JSON:API is enabled, export the `business_unit` terms. Meanwhile, the engineering team should begin setting up the lightweight crawler and label-based parsers based on the `/common/services` HTML structure.
 
 ## References
 

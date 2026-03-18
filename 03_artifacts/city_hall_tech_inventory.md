@@ -14,9 +14,9 @@ All information here is based on publicly available sources and the rubric docum
 - **Developer:** Tech Dynamism (contracted)
 - **Search:** Drupal Search API with Facets module
 - **Search URL pattern:** `https://www.rva.gov/search?search={query}&page={n}&f[0]=business_unit:{id}`
-- **Department facets:** Over 40 department slugs available as facet parameters
+- **Department facets:** Over 40 department slugs visible in UI; `business_unit` facet parameter is non-functional in SODA API — JSON filtering via this parameter does not work (corrected 2026-03-18)
 - **Translation:** Google Translate widget — 36 languages supported
-- **Sitemap:** Existence and structure need verification (see VERIFICATION_TODO.md)
+- **Sitemap:** rva.gov/sitemap.xml returns 404 — does not exist; teams must crawl manually (corrected 2026-03-18)
 - **Structured data:** No confirmed public JSON or XML export of service descriptions
 - **Hackathon access:** Public web crawling and HTTP GET to search API are the primary access patterns
 - **Constraints:** Not an official data API; crawled content may be stale; no authentication required for read access
@@ -25,7 +25,7 @@ All information here is based on publicly available sources and the rubric docum
 - **Platform:** AvePoint Citizen Services
 - **Infrastructure:** Microsoft Dynamics 365 + Azure
 - **Launch date:** June 15, 2018 (replaced SeeClickFix)
-- **Request volume (2025):** 208,216 total requests (reported — unverified; see VERIFICATION_TODO.md)
+- **Request volume (2024):** ~203,000 calls and ~75,200 requests created (corrected 2026-03-18; prior figure of 208,216 was incorrect)
 - **Request types:** ~50+ types across 7 department groups
 - **Channels:** Web portal, mobile app, phone (311)
 - **Public API:** None — AvePoint Citizen Services does not expose a public API
@@ -89,10 +89,10 @@ All information here is based on publicly available sources and the rubric docum
 ### City Contracts Open Data (Socrata)
 - **Role:** Public-facing representation of the City contracts registry
 - **Dataset ID:** xqn7-jvv2
-- **API URL:** `https://data.richmondgov.com/resource/xqn7-jvv2.json` (8 columns — known bug)
+- **API URL:** `https://data.richmondgov.com/resource/xqn7-jvv2.json` (returns all 9 columns correctly; corrected 2026-03-18 — prior "8-column bug" claim was incorrect)
 - **CSV URL:** `https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD` (all 9 columns)
 - **Hackathon access:** Fully public; no authentication required
-- **Notes:** Use CSV download for all columns; API has a known column bug
+- **Notes:** Both the API and CSV download return all 9 columns; no workaround needed
 
 ---
 
@@ -115,7 +115,7 @@ All information here is based on publicly available sources and the rubric docum
 | rva.gov | Yes (web crawl, search API) | No official data export |
 | RVA311 live data | No | AvePoint has no public API |
 | RVA311 historical (pre-2018) | Yes (Socrata vgg4-hjn8) | SeeClickFix era only |
-| City Contracts (Socrata) | Yes (CSV download) | API has column bug; use CSV |
+| City Contracts (Socrata) | Yes (API + CSV download) | All 9 columns available via both API and CSV (corrected 2026-03-18) |
 | ArcGIS City layers | Partially | Specific layer IDs need verification |
 | SAM.gov | Yes (free API key) | Key registration required |
 | eVA procurement | Yes (CSV on data.virginia.gov) | URL needs verification |

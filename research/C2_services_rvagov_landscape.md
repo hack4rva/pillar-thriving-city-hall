@@ -4,7 +4,7 @@
 
 The City of Richmond's official website, RVA.gov, presents a classic challenge for civic technology: it is structured around the city's organizational chart rather than the tasks citizens actually need to perform. While the site features a modern Drupal-based architecture hosted on Acquia [1], its information architecture heavily favors department-first navigation, surfacing over 30 distinct departments in its primary menus [2] [3]. 
 
-For a hackathon team building a unified search layer, the primary objective is to invert this model. By leveraging the site's native Drupal Search API facets (specifically the `business_unit` parameter), scraping decentralized content across multiple subdomains, and applying custom relevance tuning for task-oriented verbs, you can create a "Virtual City Hall" experience that prioritizes citizen needs over bureaucratic boundaries.
+For a hackathon team building a unified search layer, the primary objective is to invert this model. By scraping decentralized content across multiple subdomains and applying custom relevance tuning for task-oriented verbs, you can create a "Virtual City Hall" experience that prioritizes citizen needs over bureaucratic boundaries. Note: the `business_unit` facet parameter is non-functional for programmatic JSON filtering (corrected 2026-03-18); it is visible in the Drupal UI but cannot filter API responses.
 
 ## What We’re Building — A citizen-task-first search over RVA.gov’s distributed ecosystem
 
@@ -14,7 +14,7 @@ Success for this project means unifying department content, external application
 
 The RVA.gov platform is built on a robust, enterprise-grade content management stack. The city contracted with Tech Dynamism, a technology consulting firm, to develop the site, utilizing Acquia's cloud-based web content management platform to ensure high capacity and speed [4] [1]. 
 
-This architecture relies on Drupal 8+ and utilizes the Drupal Search API combined with the Facets module. This provides a solid foundation for programmatic interaction, as the search endpoints accept predictable URL parameters (e.g., `f[0]=business_unit:{id}`) that can be leveraged to map and filter content dynamically.
+This architecture relies on Drupal 8+ and utilizes the Drupal Search API combined with the Facets module. Note: the `business_unit` facet parameter (`f[0]=business_unit:{id}`) is non-functional in the SODA API — JSON filtering via this parameter does not work (corrected 2026-03-18). It is visible in the Drupal search UI but cannot be used for programmatic JSON filtering.
 
 ## Information Architecture
 
@@ -38,13 +38,13 @@ The native search runs on Drupal Search API with the Facets module, which native
 
 ## Sitemap, Crawling, and Page Discovery
 
-RVA.gov's sitemap status is ambiguous, meaning a standard `sitemap.xml` ingestion may not yield complete results. Instead, the most reliable discovery method is to seed your crawler from established hub pages and paginate through the native search results.
+rva.gov/sitemap.xml returns 404 — the sitemap does not exist (corrected 2026-03-18). Teams must crawl manually using hub pages and search pagination as entry points.
 
 | Discovery Method | Target URLs | Strategy |
 | :--- | :--- | :--- |
 | **Hub Crawling** | `/departments`, `/press-releases-and-announcements/news` [5]. | Extract all child links to map the department hierarchy and recent news. |
 | **Search Pagination** | `/search?search=a&page={n}` | Iterate through search result pages to enumerate indexed content. |
-| **Robots.txt** | `/robots.txt` | Check for official sitemap directives, but do not rely on them exclusively. |
+| **Robots.txt** | `/robots.txt` | Check for official crawl directives; do not expect a sitemap reference. |
 
 ## Multi-Domain Content Integration
 
@@ -59,7 +59,7 @@ A true "city search" cannot be limited to the `www.rva.gov` domain. Critical cit
 
 ## Department Facets Inventory
 
-To build a functional filtering system, you must extract the `business_unit` identifiers used by the Drupal Facets module. By scraping the search results page for anchor tags containing `f[0]=business_unit:`, you can build a live JSON map linking internal IDs to human-readable department names (e.g., mapping an ID to "Animal Care and Control" or "Public Works") [3].
+To build a functional filtering system, you can observe `business_unit` identifiers in the Drupal Facets UI. However, the `business_unit` facet parameter is non-functional for programmatic JSON filtering via the SODA API (corrected 2026-03-18). For content discovery, scrape the search results page HTML for anchor tags containing `f[0]=business_unit:` to build a mapping of internal IDs to human-readable department names — but use this mapping for UI display only, not for API filtering [3].
 
 ## Content Freshness & Governance
 
@@ -90,7 +90,7 @@ To execute this search layer within a 48-72 hour hackathon, focus on the followi
 
 | Limitation | Impact | Mitigation Strategy |
 | :--- | :--- | :--- |
-| **No Reliable Sitemap** | Incomplete content discovery. | Rely on search pagination scraping and hub-based crawling. |
+| **No Sitemap (returns 404)** | Incomplete content discovery. | Rely on search pagination scraping and hub-based crawling (corrected 2026-03-18). |
 | **Fragmented Domains** | Users sent to unfamiliar URLs. | Clearly label external domains (e.g., "External Portal") in search results. |
 | **Legacy Links** | Broken links or staging URLs (e.g., `rvagov.prod.acquia-sites.com`) [9]. | Implement automatic broken-link checks and canonicalize environment URLs during ingestion. |
 | **Machine Translation** | Inaccurate translation of legal/service terms. | Display disclaimers; boost official Spanish-language pages. |
@@ -106,7 +106,7 @@ To prove the value of the new search layer, track the following KPIs during user
 
 * **Key Hubs:** Homepage [2], Open Data [7], Forms [6], News [5].
 * **Tech Stack Evidence:** Acquia and Tech Dynamism confirmation [4] [1].
-* **Scripting Targets:** Target `https://www.rva.gov/search?search=a` to scrape `f[0]=business_unit:{id}` for the department facet inventory.
+* **Scripting Targets:** Target `https://www.rva.gov/search?search=a` to scrape HTML for `f[0]=business_unit:{id}` facet labels — for display mapping only; this parameter is non-functional for SODA JSON API filtering (corrected 2026-03-18).
 
 ## References
 

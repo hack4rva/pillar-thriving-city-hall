@@ -29,9 +29,9 @@ The most significant friction point in Richmond’s resident service ecosystem o
 This navigation gap has created a phone-first reality where information-seeking dominates over actual service requests. In 2025, more than half of all RVA311 interactions were resolved by call center agents without generating a service ticket. Furthermore, overlapping categories and vague statuses create a "black hole" effect that drives duplicate reporting and manual triage downstream. By shifting from a department-centric to a service-centric digital front door, tuning site search to resident vocabulary, and consolidating confusing request categories, Richmond can significantly reduce misrouting, lower call center strain, and improve the overall resident experience.
 
 ## Demand and Channel Mix: The Phone-First Reality
-Richmond experienced a massive surge in resident inquiries recently, exposing the heavy reliance on phone triage. In 2025, the city received 208,216 RVA311 requests, representing a huge spike from the over 83,000 requests made in 2024 [1] [2]. 
+Richmond experienced a massive surge in resident inquiries recently, exposing the heavy reliance on phone triage. In 2024, the city received ~203,000 calls and ~75,200 requests created (corrected 2026-03-18 — previously cited 208,216 was incorrect), representing an increase from over 83,000 requests assisted in a prior period [1] [2].
 
-Despite the availability of digital portals, the phone remains the primary channel for resolution. More than half of the residents’ concerns in 2025 were addressed over the phone with Richmond’s 311 call center [2]. Call center agents successfully resolved over 116,000 concerns without having to create a request for specific departments [2]. This indicates that the majority of resident needs are informational rather than transactional. The high volume of phone resolutions suggests that digital self-service pathways are either too difficult to find or too confusing to navigate, forcing residents to rely on human agents to translate their needs into City processes.
+Despite the availability of digital portals, the phone remains the primary channel for resolution. More than half of the residents’ concerns were addressed over the phone with Richmond’s 311 call center [2]. Call center agents successfully resolved a large share of concerns without having to create a request for specific departments [2]. This indicates that the majority of resident needs are informational rather than transactional. The high volume of phone resolutions suggests that digital self-service pathways are either too difficult to find or too confusing to navigate, forcing residents to rely on human agents to translate their needs into City processes.
 
 ## Where Navigation Breaks on rva.gov: Department-First IA
 Task seekers navigating rva.gov are forced to guess which department handles their specific issue. The website's architecture emphasizes a "Browse by Department" structure, presenting users with a massive list of over 40 distinct offices, ranging from the Assessor of Real Estate to Public Works and Justice Services [3] [4]. 
@@ -68,7 +68,7 @@ More importantly, the Acquia Search Config module allows administrators to modif
 ## Measurement Gaps in Routing Accuracy
 Richmond currently lacks the public data transparency required to diagnose root-cause routing failures. While the City launched RVA311 on AvePoint Citizen Services in June 2018 [16] [17], there is no public API for current request data. The only granular, public dataset available is the historical SeeClickFix data covering 2014 to 2015 [7]. 
 
-Recent media reports highlight total volumes—such as the 208,216 requests in 2025—but do not provide metrics on routing accuracy, miscategorization rates, or reassignment frequencies [2]. Without publishing quarterly reassignment rates or tracking an "Other" category usage metric, Richmond cannot accurately measure the success of any taxonomy improvements or digital navigation fixes.
+Available data shows ~203,000 calls and ~75,200 requests created in 2024 (corrected 2026-03-18), but public reporting does not provide metrics on routing accuracy, miscategorization rates, or reassignment frequencies [2]. Without publishing quarterly reassignment rates or tracking an "Other" category usage metric, Richmond cannot accurately measure the success of any taxonomy improvements or digital navigation fixes.
 
 ## Downstream Impacts of Miscategorization
 When a resident selects the wrong category or drops an inaccurate map pin, the errors cascade through the municipal workflow. In San Diego, the Get It Done app allows customers to manually adjust the location of a request, which has resulted in some requests having incorrect geospatial data [8]. 
@@ -108,10 +108,10 @@ Consolidating categories carries the risk of over-simplification, where departme
 ## Appendices: Output Requirements
 
 ### Facts (Verifiable Public Information)
-* In 2025, the city received 208,216 RVA 311 requests [2].
-* In 2024, RVA311 handled over 83,000 requests [1] [2].
-* In 2025, call center agents resolved over 116,000 concerns over the phone without creating a request for specific departments [2].
-* The city received 3,835 requests in 2025 regarding the RVA Stay Gap Grant Program, which was temporarily paused on Jan. 16, 2026 [2].
+* In 2024, RVA311 received ~203,000 calls and ~75,200 requests created (corrected 2026-03-18 — prior figure of 208,216 was incorrect) [2].
+* RVA311 also assisted or supported City partners in responding to over 83,000 requests in a prior reporting period [1] [2].
+* Call center agents resolved a large share of concerns over the phone without creating a request for specific departments [2].
+* The city received 3,835 requests regarding the RVA Stay Gap Grant Program, which was temporarily paused on Jan. 16, 2026 [2].
 * RVA311 was launched on June 15, 2018, powered by AvePoint Citizen Services [16] [17].
 * rva.gov utilizes Acquia Search, which supports Facets and synonym configuration [13] [14] [15].
 * The historical SeeClickFix dataset for Richmond covers August 2014 to August 2015 [7].
@@ -119,7 +119,7 @@ Consolidating categories carries the risk of over-simplification, where departme
 * Chicago's 2026 OIG audit found that 311's public-facing platforms do not provide users with clear information on request statuses, leading to a "black hole" perception [10].
 
 ### Inferences (Clearly Labeled)
-* *Inference:* Because 116,000 out of 208,216 interactions were resolved without a ticket, the primary friction point for residents is information-seeking and navigation, not actual service delivery failures.
+* *Inference:* Because a large share of interactions are resolved by phone without a ticket, the primary friction point for residents is information-seeking and navigation, not actual service delivery failures. (Note: the previously cited 208,216 figure was incorrect; see corrected figures above.)
 * *Inference:* The heavy reliance on the "Browse by Department" menu on rva.gov directly contributes to the high volume of informational calls to 311, as residents do not know which department handles their specific issue.
 * *Inference:* By utilizing the existing Acquia Search Config module to add resident-friendly synonyms, Richmond can significantly improve digital self-service without requiring a platform migration.
 

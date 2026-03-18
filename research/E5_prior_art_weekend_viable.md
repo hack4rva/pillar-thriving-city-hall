@@ -51,7 +51,7 @@ Without schema-consistent PDFs and strict guardrails, LLM extraction errors will
 
 ## City Website Crawl + Search — Feasibility Checkpoints
 
-Building a crawler and search layer for a municipal site (like rva.gov) is conditionally feasible if teams avoid scale pitfalls. Success hinges on respecting `robots.txt` and `sitemap.xml` allowances and staying within static indexing. 
+Building a crawler and search layer for a municipal site (like rva.gov) is conditionally feasible if teams avoid scale pitfalls. Success hinges on respecting `robots.txt` allowances and staying within static indexing. Note: rva.gov/sitemap.xml returns 404 and does not exist — teams must use hub crawling and search pagination instead (corrected 2026-03-18).
 
 Judges favor completion and immediate usefulness [7]. Attempting to crawl an entire city domain will likely result in an unfinished, buggy demo. Instead, teams should limit the crawl to a constrained subtree (e.g., only procurement policies or specific service pages), fetch sitemap URLs, index titles and snippets locally, and wrap it in a simple search UI.
 
