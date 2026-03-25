@@ -18,8 +18,56 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ---
 
+## The Challenge
+
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+
+### Problem 1: Helping Residents Find the Right City Service or Next Step — 27/32 — Strong
+
+> How might we use technology to help Richmond residents quickly determine the right next step when interacting with City services so that issues are routed correctly the first time?
+
+Build toward: Resident service navigation tool (plain language → right department) · 311 category guide or chatbot · City website plain-language search helper · Staff-facing triage tool
+
+⚠ Post-2018 RVA311 data does not exist in any public API. The AvePoint platform has no API. The historical Socrata dataset (2014–2015 only) is not representative of current request types.
+
+---
+
+### Problem 2: Helping City Staff Review Procurement Risks and Opportunities — 22/32 — Needs work
+
+> How might we use technology to help Richmond staff identify valid, compliant, and cost-effective purchasing contracts across City, state, and federal sources with less manual review?
+
+Build toward: Procurement contract risk dashboard · Contract PDF key-term extractor · Multi-source contract explorer · Staff decision-support tool
+
+⚠ The City Contracts Socrata API has a known bug — use the CSV download instead. VITA contract portal has no API. Sample procurement PDFs must be sourced before building.
+
+---
+
+### Top Blue Sky: Making Fiscal Responsibility More Visible — 21/27 — Strong
+
+> How might we use technology to make Richmond's fiscal decisions, contract awards, and budget spending more visible and understandable to residents and oversight bodies?
+
+Strong data foundation: City Contracts Socrata, SAM.gov, eVA, VITA are all publicly available. A transparency explorer is directly buildable. Label everything as exploratory — not official City financial reporting.
+
+---
+
+### Pillar Award Rubric
+
+| Category | Weight | Dominant question |
+|----------|--------|-------------------|
+| **Impact** | **5** | Does this directly address one of the two problems above? |
+| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
+| Feasibility | 3 | Could this be piloted by a City department or 311 team within a year? |
+| Innovation | 3 | Fresh thinking on service navigation or procurement transparency? |
+| Execution | 3 | Does a working demo exist? Is the flow coherent? |
+| Equity | 3 | Does it reach residents who struggle most with City service navigation? |
+
+Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+
+---
+
 ## Table of Contents
 
+0. [The Challenge](#the-challenge)
 1. Quick Start
 2. Repo Map
 3. Guardrails
@@ -41,7 +89,8 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 Do these first 15–30 minutes to get moving:
 
-1) Read: `QUICKSTART.md`
+1) Read: `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md)
+2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
