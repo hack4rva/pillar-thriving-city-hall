@@ -35,6 +35,23 @@ Residents come to rva.gov or RVA311 with a real need but don't know which depart
 - **Historical Socrata 311 dataset (vgg4-hjn8):** SeeClickFix data only, January 2014–August 2015. Not representative of current request types or volume.
 - **2025 volume:** ~208,000 RVA311 requests across 50+ categories in 7 department groups
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — judges score from [`RUBRIC.md`](../../RUBRIC.md), not this list.
+
+- **Impact:** Help residents reach the **right** next step (info vs request type vs department) without inventing City answers.
+- **User Value:** A resident or 311-facing flow where miscategorized requests would plausibly drop.
+- **Feasibility:** Work with verified City sources; no fake RVA311 API; say “don’t know” when data is missing.
+- **Innovation:** Plain-language routing, triage aids, or search that beats raw site search alone.
+- **Execution:** Demo path is credible and labeled when static or mock.
+- **Equity and inclusion:** Reach residents who struggle most with digital City navigation.
+
+**What often works well:** Navigation helper, category guide, or staff triage support grounded in real rva.gov / public facts.
+
+**What to avoid:** Claiming official City status, confident answers you cannot verify, or implying live 311 integration you don’t have.
+
+*Try asking yourself:* Could someone stuck on the wrong form find the right channel without us guessing policy?
+
 ---
 
 ### Problem 2: Helping City Staff Review Procurement Risks and Opportunities
@@ -71,6 +88,23 @@ City staff rely on multiple contract sources — City contracts, VITA state cont
 - No named departmental champion has committed to this problem
 - VITA portal has no API — scraping or manual extraction required
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — [`RUBRIC.md`](../../RUBRIC.md) is authoritative for judges.
+
+- **Impact:** Reduce manual hunting across contracts (expirations, terms, risk signals) while **supporting** staff judgment.
+- **User Value:** A procurement or finance role with a concrete saved step (e.g. expiring list, PDF field extraction demo).
+- **Feasibility:** Public data only; no automated legal/compliance **decisions**; scope matches a weekend.
+- **Innovation:** Cross-source views, risk surfacing, or extraction UX that’s honest about PDF messiness.
+- **Execution:** Working slice on real Socrata CSV or a small real PDF set.
+- **Equity and inclusion:** Transparency angles that help oversight and residents understand spending **without** misrepresenting official reporting.
+
+**What often works well:** Contract dashboard from Socrata, compare or triage UI, careful PDF prototype with disclaimers.
+
+**What to avoid:** Legal determinations, award recommendations, or pretending full multi-source automation is production-ready.
+
+*Try asking yourself:* Could staff trust this as a **starting point** for review, not a verdict?
+
 ---
 
 ## The Blue Sky Vision
@@ -88,25 +122,29 @@ Build a public-facing transparency explorer using the Socrata contracts dataset,
 
 The blue sky is the ceiling. Problem 2 (Procurement Risks) is the practical floor. A team that builds a staff-facing procurement tool and adds a public-facing transparency layer will have a strong pitch for both the Pillar Award and the Moonshot Award.
 
+**Rubric connection (blue sky):** Aligns with **Problem 2** (contracts, spending visibility) and public accountability framing. Use the Problem 2 participant guide; add resident-readable layers only with clear “exploratory / not official reporting” labels.
+
 ---
 
-## How Your Solution Will Be Judged (Pillar Award)
+## Pillar Award: official scoring mechanics
 
-The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+**Authoritative rubric:** [`RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
 
-| Category | Weight | What judges are asking |
-|----------|--------|------------------------|
-| **Impact** | **5** | Does this directly address one of the two problem statements above? |
-| **User Value** | 4 | Is there a specific, real user? Does the prototype improve their experience? |
-| **Feasibility** | 3 | Could this be piloted by a City department or 311 team within a year? |
-| **Innovation** | 3 | Does the team bring fresh thinking to service navigation or procurement transparency? |
-| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
-| **Equity** | 3 | Does the solution reach residents who struggle most with City service navigation? |
+**Participant guides** under each problem are optional team prompts — **not** binding on judges.
+
+| Category | Weight |
+|----------|--------|
+| **Impact** (targeted civic problem) | **5** |
+| **User Value** | 4 |
+| **Feasibility** / implementability | 3 |
+| **Innovation** / originality | 3 |
+| **Execution** / prototype quality | 3 |
+| **Equity and inclusion** | 3 |
+
+Read **`RUBRIC.md`** for full definitions and anchors.
 
 **Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
 
 **Tiebreaker:** User Value score.
 
-**What wins here:** A prototype that helps residents find the right City service faster, or helps staff navigate procurement complexity more efficiently, using real public data.
-
-**What loses here:** Tools claiming to integrate with RVA311 or City licensing systems, solutions making legal or eligibility determinations, or chatbots confidently answering questions they cannot verify.
+**General tips** (full detail in `RUBRIC.md`): Civic usefulness over complexity; flag fragile assumptions; slides-only → low Execution; unverified integrations → lower Feasibility.
