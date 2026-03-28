@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # MVP Shapes — A Thriving City Hall
 
 Five buildable shapes for this pillar. Choose the one that matches your team's skills and the problem you've selected.

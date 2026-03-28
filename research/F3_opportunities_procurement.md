@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond's Fastest Path to Procurement Value: A Contract Expiry Dashboard That Wins Champions
 
 ## Executive Summary

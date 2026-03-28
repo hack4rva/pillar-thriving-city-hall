@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond-ready procurement data stack — SAM.gov, USAspending, eVA mapped to a cross-source comparison MVP
 
 ## Executive Summary — What to use when: a Richmond-focused procurement data playbook

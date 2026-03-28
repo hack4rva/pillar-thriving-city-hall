@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Post-Hackathon Continuation Plan — A Thriving City Hall
 
 This document outlines potential pathways for continuing work from the hackathon. Nothing here is a commitment — it describes opportunities that would require formal engagement with City staff and partners.

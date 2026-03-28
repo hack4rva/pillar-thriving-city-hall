@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Demo Advice — A Thriving City Hall
 
 How to present City Hall tools effectively to judges in 3–5 minutes.

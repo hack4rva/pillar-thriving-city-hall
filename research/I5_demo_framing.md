@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # This Helps X Do Y: City Hall Demo Framing That Wins Trust
 
 ## Executive Summary

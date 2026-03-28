@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Closing Richmond's Contract Risk Gap: From Manual Review to Data-Driven Procurement Control
 
 ## Executive Summary

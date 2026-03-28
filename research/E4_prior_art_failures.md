@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Exhibit E4 - Prior-Art Failures
 
 *Compiled 2026 - All dates are expressed as YYYY-MM or YYYY where the exact day is not disclosed.*

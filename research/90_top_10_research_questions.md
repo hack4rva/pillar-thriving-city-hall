@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Build-Ready Plan for a Thriving City Hall: Data, Dependencies, and Guardrails for Richmond's Service Navigation
 

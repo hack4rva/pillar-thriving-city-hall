@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # B2 Users – 311 Staff Personas
 *Prepared for internal UX and service-design teams – 2026* 
 

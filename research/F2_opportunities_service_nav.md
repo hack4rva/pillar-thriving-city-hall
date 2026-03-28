@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond 311 Navigation — Wizard-First, Search-Assisted, Risk-Managed
 
 ## Executive Summary

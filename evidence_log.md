@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Evidence Log — A Thriving City Hall
 
 Track all factual claims here. Flip status from Unverified to Verified only when you have an official source URL and date.

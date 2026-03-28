@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Residents, Real Needs: Designing Plain-Language Service Navigation That Works
 
 ## Executive Summary

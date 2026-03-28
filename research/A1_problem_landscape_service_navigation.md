@@ -21,6 +21,8 @@ related_reports:
   - C1_services_311_landscape
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Breaking the Maze: Where Richmond Residents Get Lost in City Services
 
 ## Executive Summary

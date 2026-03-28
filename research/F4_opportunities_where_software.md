@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Right Tech, Right Place: A practical boundary map for city service automation
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Building Around Blind Spots — Practical Workarounds for a Thriving Richmond City Hall Hackathon
 

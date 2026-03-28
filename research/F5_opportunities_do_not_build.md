@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # F5 – Opportunities **Do Not Build** (2026)
 
 *Prepared 24 Mar 2026 – based on publicly-available F5 data (press releases, investor filings, and official blog posts). All placeholders have been replaced with substantiated information and impossible dates have been corrected.*

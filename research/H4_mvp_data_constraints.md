@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # No-API, No Problem: Building a Credible RVA311 Navigator
 
 ## Executive Summary — A navigation-first MVP can be credible without live RVA311 data

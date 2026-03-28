@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # A3 Problem Landscape – Comparative Statements
 
 *Version 2.0 – 2026-03* 

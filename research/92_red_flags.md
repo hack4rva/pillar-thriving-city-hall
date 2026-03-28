@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 92 Red Flags – TSA Behavior-Detection (SPOT) Checklist
 
 *Compiled from the leaked "Spot Referral Report" (2009 – rev. 02/23/2009) and subsequent reporting by The Intercept (2015-03-27) and the ACLU (2017). All items are presented in the order they appear in the original checklist.*

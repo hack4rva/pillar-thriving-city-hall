@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # City Hall Tech Inventory — Richmond Systems Landscape
 
 This document describes the technical systems that underpin Richmond City Hall operations, including programmatic access points and constraints relevant to hackathon builders.

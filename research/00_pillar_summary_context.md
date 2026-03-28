@@ -19,6 +19,8 @@ related_reports:
   - A2_problem_landscape_procurement_review
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Closing Richmond's Civic UX Gap: Faster Service Discovery and Smarter Contract Review
 
 ## Executive Summary

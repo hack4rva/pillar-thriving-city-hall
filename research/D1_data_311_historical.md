@@ -20,6 +20,8 @@ related_reports:
   - C1_services_311_landscape
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # RVA311 (2014–2015) Socrata: What’s Usable Now, What’s Not
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Data Index — A Thriving City Hall
 
 This index summarizes the key datasets and data sources available for this pillar. Always verify access and schema before building.

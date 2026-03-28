@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Unlocking rva.gov for Service Navigation: Crawl, Structure, and API Reality Check
 
 ## Executive Summary

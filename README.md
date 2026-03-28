@@ -1,8 +1,10 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 <div align="center">
 
-# A Thriving City Hall — Decision Funnel
+# A Thriving City Hall: Decision Funnel
 
-Richmond Civic Hackathon • March 27–29, 2026
+Richmond Civic Hackathon • March 27-29, 2026
 
 [![Pillar](https://img.shields.io/badge/Pillar-A_Thriving_City_Hall-4c68d7)](#)
 [![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)
@@ -10,7 +12,7 @@ Richmond Civic Hackathon • March 27–29, 2026
 
 </div>
 
-This is a guided decision environment for teams working on the A Thriving City Hall pillar. It's designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP—and avoid fantasy software.
+This is a guided decision environment for teams working on the A Thriving City Hall pillar. It's designed to help you quickly choose a credible, source‑linked, weekend‑buildable MVP, and avoid fantasy software.
 
 Journey stages: Land → Orient → Choose → Research → Compare MVPs → Lock Scope → Build → Validate → Demo → Hand‑off
 
@@ -20,48 +22,41 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else. It covers the two problems, the top blue sky vision, data constraints, and optional per-problem prompts that relate to [`RUBRIC.md`](../RUBRIC.md) for teams preparing their pitch (those prompts are not judge instructions).
 
-### Problem 1: Helping Residents Find the Right City Service or Next Step — 27/32 — Strong
+### Problem 1: Helping Residents Find the Right City Service or Next Step
 
 > How might we use technology to help Richmond residents quickly determine the right next step when interacting with City services so that issues are routed correctly the first time?
 
 Build toward: Resident service navigation tool (plain language → right department) · 311 category guide or chatbot · City website plain-language search helper · Staff-facing triage tool
 
-⚠ Post-2018 RVA311 data does not exist in any public API. The AvePoint platform has no API. The historical Socrata dataset (2014–2015 only) is not representative of current request types.
+⚠ Post-2018 RVA311 data does not exist in any public API. The AvePoint platform has no API. The historical Socrata dataset (2014-2015 only) is not representative of current request types.
 
 ---
 
-### Problem 2: Helping City Staff Review Procurement Risks and Opportunities — 22/32 — Needs work
+### Problem 2: Helping City Staff Review Procurement Risks and Opportunities
 
 > How might we use technology to help Richmond staff identify valid, compliant, and cost-effective purchasing contracts across City, state, and federal sources with less manual review?
 
 Build toward: Procurement contract risk dashboard · Contract PDF key-term extractor · Multi-source contract explorer · Staff decision-support tool
 
-⚠ The City Contracts Socrata API has a known bug — use the CSV download instead. VITA contract portal has no API. Sample procurement PDFs must be sourced before building.
+⚠ The City Contracts Socrata API has a known bug ,  use the CSV download instead. VITA contract portal has no API. Sample procurement PDFs must be sourced before building.
 
 ---
 
-### Top Blue Sky: Making Fiscal Responsibility More Visible — 21/27 — Strong
+### Top Blue Sky: Making Fiscal Responsibility More Visible
 
 > How might we use technology to make Richmond's fiscal decisions, contract awards, and budget spending more visible and understandable to residents and oversight bodies?
 
-Strong data foundation: City Contracts Socrata, SAM.gov, eVA, VITA are all publicly available. A transparency explorer is directly buildable. Label everything as exploratory — not official City financial reporting.
+Strong data foundation: City Contracts Socrata, SAM.gov, eVA, VITA are all publicly available. A transparency explorer is directly buildable. Label everything as exploratory ,  not official City financial reporting.
 
 ---
 
-### Pillar Award Rubric
+### Rubric reference
 
-| Category | Weight | Dominant question |
-|----------|--------|-------------------|
-| **Impact** | **5** | Does this directly address one of the two problems above? |
-| User Value | 4 | Is there a specific real user? Does the prototype improve their experience? |
-| Feasibility | 3 | Could this be piloted by a City department or 311 team within a year? |
-| Innovation | 3 | Fresh thinking on service navigation or procurement transparency? |
-| Execution | 3 | Does a working demo exist? Is the flow coherent? |
-| Equity | 3 | Does it reach residents who struggle most with City service navigation? |
+Hackathon judges use the category framework in [`../RUBRIC.md`](../RUBRIC.md). Optional prompts in [`CHALLENGE.md`](CHALLENGE.md) help teams prepare their story; they are not instructions to judges.
 
-Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
+A single-file Markdown handout (same content as `CHALLENGE.md` plus a short cover note) is at [`docs/PARTICIPANT_HANDOUT.md`](docs/PARTICIPANT_HANDOUT.md).
 
 ---
 
@@ -78,7 +73,7 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
    - Phase 3: Research Spin‑Up
    - Phase 4: Opportunity Framing
    - Phase 5: Scope Lock
-   - Phases 6–9: Build → Validate → Demo
+   - Phases 6-9: Build → Validate → Demo
 5. Verification Workflow
 6. Hackbot Helper
 7. Appendix: Pillar Context & Rubric
@@ -87,15 +82,15 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
 
 ## Quick Start
 
-Do these first 15–30 minutes to get moving:
+Do these first 15-30 minutes to get moving:
 
-1) Read: `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
+1) Read: `CHALLENGE.md`  -  the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
 2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5‑bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
-   - Path A — already have a rough problem: jump to Phase 2 and Phase 4
-   - Path B — need help choosing: start at Phase 1 and proceed in order
+   - Path A  -  already have a rough problem: jump to Phase 2 and Phase 4
+   - Path B  -  need help choosing: start at Phase 1 and proceed in order
 
 ---
 
@@ -134,14 +129,14 @@ Do these first 15–30 minutes to get moving:
 - Avoid eligibility/legal determinations and policy/integration dependencies.
 - Always cite official sources. Log every claim in `evidence_log.md`.
 - Keep AI constrained to explanation, retrieval, comparison, and guidance.
-- Never claim post-2018 RVA311 data is accessible via API — it is not.
+- Never claim post-2018 RVA311 data is accessible via API  -  it is not.
 
 ---
 
 ## Decision Phases
 
 <details open>
-<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+<summary><strong>Phase 0  -  Landing & Framing</strong></summary>
 
 Goal: understand what this repo is and how to use it without "exploring" for two hours.
 
@@ -165,7 +160,7 @@ Call to action: choose Path A or Path B.
 </details>
 
 <details open>
-<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
+<summary><strong>Phase 1  -  Rapid Orientation (20-30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 - `QUICKSTART.md`
@@ -177,7 +172,7 @@ Filter for:
 - user groups; pain points; what the City actually cares about
 - problems that are software‑shaped vs policy‑shaped
 
-Team checkpoint — Working Direction (use `99_templates/working_direction_note.md`):
+Team checkpoint  -  Working Direction (use `99_templates/working_direction_note.md`):
 
 ```
 ## Working Direction
@@ -192,7 +187,7 @@ Team checkpoint — Working Direction (use `99_templates/working_direction_note.
 </details>
 
 <details>
-<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
+<summary><strong>Phase 2  -  Problem Selection (30-45 min)</strong></summary>
 
 Files:
 - `01_problem_space/01_bluesky_problem_statements.md`
@@ -200,7 +195,7 @@ Files:
 - `00_core/04_solution_patterns.md`
 - `05_prompts/01_problem_selection_prompt.md`
 
-Decision rule — choose only if the problem has:
+Decision rule  -  choose only if the problem has:
 - a real user and understandable workflow
 - a plausible public data/document base
 - a demoable artifact by Sunday
@@ -218,7 +213,7 @@ Output: Decision Memo (`99_templates/decision_memo.md`)
 </details>
 
 <details>
-<summary><strong>Phase 3 — Research Spin‑Up (60–90 min)</strong></summary>
+<summary><strong>Phase 3  -  Research Spin‑Up (60-90 min)</strong></summary>
 
 Goal: gather just enough evidence to avoid fantasy software.
 
@@ -244,7 +239,7 @@ Tip: parse URLs from API metadata; don't ask for URLs in prompt text.
 </details>
 
 <details>
-<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
+<summary><strong>Phase 4  -  Opportunity Framing (45-60 min)</strong></summary>
 
 Compare at least two MVP shapes before choosing.
 
@@ -269,7 +264,7 @@ Output:
 </details>
 
 <details>
-<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
+<summary><strong>Phase 5  -  Scope Lock (45-60 min)</strong></summary>
 
 Pin down must‑haves, mockables, data, AI role, limits, and demo path.
 
@@ -283,7 +278,7 @@ Key sentence:
 </details>
 
 <details>
-<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
+<summary><strong>Phases 6-9  -  Build → Validate → Demo</strong></summary>
 
 Build:
 - Break work into FE/BE/data/content; assign source verification and demo owner.
@@ -343,16 +338,10 @@ Notes:
 Prepared by: Pillar Committee et al. (March 13, 2026)
 
 Pillar Committee & Working Session
-- Session: March 13, 2026, 12:30 PM – 2:30 PM
-- Pillar: 1 — A Thriving City Hall
+- Session: March 13, 2026, 12:30 PM - 2:30 PM
+- Pillar: 1  -  A Thriving City Hall
 
-Rubric Score Summary
-| Statement                        | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band       |
-|----------------------------------|----|----|----|----|----|----|----|----|-------|------------|
-| Resident Service Navigation      |    |    |    |    |    |    |    |    | 27    | Strong     |
-| Procurement Risk Review          |    |    |    |    |    |    |    |    | 22    | Needs work |
-
-Dimension key: D1 Clarity | D2 Scope | D3 Data readiness | D4 Champion | D5 Population & impact | D6 Operating environment | D7 Success criteria | D8 Accessibility
+**Workshop comparison (internal):** Committee notes referenced dimensions such as clarity, scope, data readiness, champions, population impact, operating environment, success criteria, and accessibility. See `CHALLENGE.md` and `01_problem_space/` for wording teams should use.
 
 Quick‑kill flags:
 - Both targeted statements lack an explicit continuation pathway.
@@ -361,11 +350,11 @@ Quick‑kill flags:
 - Sample procurement PDFs are not pre-staged.
 - 311 routing decision logic is undocumented.
 
-Targeted Statement 1: Helping Residents Find the Right City Service or Next Step (Score 27/32 — Strong)
+Targeted Statement 1: Helping Residents Find the Right City Service or Next Step
 - Problem, context, constraints, success, data constraints are in `01_problem_space/02_targeted_problem_statements.md`.
 - Key champion contact: Pete Briel, Director of 311 (not yet formally committed).
 
-Targeted Statement 2: Helping City Staff Review Procurement Risks and Opportunities (Score 22/32 — Needs work)
+Targeted Statement 2: Helping City Staff Review Procurement Risks and Opportunities
 - Problem, context, constraints, success, data sources are in `01_problem_space/02_targeted_problem_statements.md`.
 - Lacks named champion; sample PDFs not staged; procurement workflow undocumented.
 
@@ -374,7 +363,7 @@ Blue Sky Statements
 
 Prioritized Actions Before March 27, 2026
 1) Name departmental champion (Pete Briel for Resident Service Navigation)
-2) Pre-stage sample procurement PDFs (5–10 representative contracts)
+2) Pre-stage sample procurement PDFs (5-10 representative contracts)
 3) Document the 311 routing decision logic
 4) Specify output types for each problem statement
 5) Verify rva.gov sitemap and structured data availability

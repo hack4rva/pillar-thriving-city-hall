@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # User Journey Maps — A Thriving City Hall
 
 Note: Journeys include plausible observations based on the problem statements and system descriptions in this repository. Each friction point should reference an `evidence_log.md` entry when verified with an official source.

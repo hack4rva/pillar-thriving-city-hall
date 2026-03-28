@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Win the Room in 4 Minutes: Richmond-ready 311 Service Navigation Demo Playbook
 

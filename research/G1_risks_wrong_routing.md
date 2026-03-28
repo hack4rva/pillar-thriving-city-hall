@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Stopping Confidently Wrong 311 Routing in Richmond: Guardrails for High-Stakes Service Navigation
 
 ## Executive Summary

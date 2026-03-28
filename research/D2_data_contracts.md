@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond City Contracts (xqn7-jvv2) — What’s Reliable Now, What to Fix Fast for an Expiry Dashboard
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Bridging RVA's Service Gaps: How 311, Departments, and Partners Can Stop Residents Falling Through the Cracks
 
 ## Executive Summary — RVA's service "gap zones" are predictable and fixable with triage, transparency, and controls

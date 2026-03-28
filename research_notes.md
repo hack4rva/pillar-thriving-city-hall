@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 # Research Notes — A Thriving City Hall
 
 Note: All facts in this section are marked [Unverified] unless confirmed with an official source and logged in `evidence_log.md`. This document should be updated as research is completed.

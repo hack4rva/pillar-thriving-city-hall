@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Procurement Risk Review MVP: Fastest Credible Path with Lowest Dependencies
 
 ## Executive Summary

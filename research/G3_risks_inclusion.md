@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Integrating Inclusion into AI Risk Management — A Cross‑Framework Playbook for 2026
 
 ## 1. Executive Summary

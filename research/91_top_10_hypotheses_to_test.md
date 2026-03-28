@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # De-risking Richmond’s 311 and Procurement MVP: Evidence and Actions
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Verification Research Results
 
 Pillar: Thriving City Hall (government service delivery, RVA311, procurement, Richmond, VA)

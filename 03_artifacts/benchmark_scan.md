@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Benchmark Scan — National Comparables
 
 A Thriving City Hall — prior art in resident service navigation and government procurement tools.

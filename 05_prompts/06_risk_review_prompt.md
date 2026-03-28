@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Risk Review Prompt — A Thriving City Hall
 
 Use this prompt before finalizing your demo script, product copy, or any public-facing claims.

@@ -21,6 +21,8 @@ related_reports:
   - F1_opportunities_ranked
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 48-Hour City Hall MVPs — What You Can Actually Ship, Safely
 
 ## Executive Summary

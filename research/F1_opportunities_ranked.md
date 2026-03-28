@@ -20,6 +20,8 @@ related_reports:
   - H1_mvp_48hr_framework
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond City Hall Hackathon — Fastest Paths to High-Impact, Adoptable Tools
 
 ## Executive Summary

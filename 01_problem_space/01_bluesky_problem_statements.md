@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Blue Sky Problem Statements — A Thriving City Hall
 
 These broader framings are useful for inspiration and long-term thinking. Teams should narrow them before building — a blue sky statement alone is not a weekend-buildable project.

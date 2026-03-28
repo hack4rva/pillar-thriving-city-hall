@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Winning Civic-Tech Hackathon Demos: A Credibility Playbook for 2026 City-Hall Projects
 
 ## Executive Summary

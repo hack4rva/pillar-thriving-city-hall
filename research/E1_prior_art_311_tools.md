@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # From Menus to Meaning: Prior Art that Turns 311 Plain Language into the Right City Request
 
 ## Executive Summary

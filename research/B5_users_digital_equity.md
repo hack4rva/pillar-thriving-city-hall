@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Designing Equitable 311 Access for Richmond’s Mobile, Multilingual, and Low-Literacy Residents
 
 ## Executive Summary

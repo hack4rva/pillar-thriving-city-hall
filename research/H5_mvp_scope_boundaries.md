@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Buildable-by-Weekend Boundaries for Thriving City Hall MVPs
 
 ## Executive Summary

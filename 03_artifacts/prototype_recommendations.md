@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Prototype Recommendations — A Thriving City Hall
 
 Six concepts organized by the two targeted problem statements. Each includes feasibility notes for a 48-hour hackathon window.
