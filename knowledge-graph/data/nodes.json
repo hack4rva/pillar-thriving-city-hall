@@ -23,7 +23,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:city-contracts-csv-full-download",
@@ -49,7 +49,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:city-contracts-socrata-xqn7-jvv2",
@@ -75,7 +75,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:eva-virginia-procurement",
@@ -101,7 +101,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:richmond-open-data-portal",
@@ -127,7 +127,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:rva-gov-drupal-search-api",
@@ -153,7 +153,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:rva311-historical-socrata-vgg4-hjn8",
@@ -179,7 +179,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:sam-gov-api",
@@ -205,7 +205,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:usaspending-gov-api",
@@ -231,7 +231,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:dataset:vita-statewide-contracts",
@@ -257,7 +257,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -279,7 +279,7 @@
    "url": "https://data.richmondgov.com/d/vgg4-hjn8",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -301,7 +301,7 @@
    "url": "https://www.avepoint.com/case-studies/rva311",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -323,7 +323,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -345,7 +345,7 @@
    "url": "https://richmondva.legistar.com/View.ashx?GUID=C050E3F8-7CC4-4663-BA8F-362608460B56&ID=13777233&M=F",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -367,7 +367,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -389,7 +389,7 @@
    "url": "https://www.rva.gov/?search=permits",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -411,7 +411,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -433,7 +433,7 @@
    "url": "https://data.richmondgov.com/Procurement/City-Contracts/xqn7-jvv2",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -455,7 +455,7 @@
    "url": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -477,7 +477,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-011",
@@ -499,7 +499,7 @@
    "url": "https://www.rva.gov/citizen-service-and-response",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-012",
@@ -521,7 +521,7 @@
    "url": "https://www.avepoint.com/case-studies/rva311",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-013",
@@ -543,7 +543,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-014",
@@ -565,7 +565,7 @@
    "url": "https://open.gsa.gov/api/entity-api/",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-015",
@@ -587,7 +587,7 @@
    "url": "https://www.rva.gov/search?search=permits",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-016",
@@ -609,7 +609,7 @@
    "url": "https://www.rva.gov/sitemap.xml",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-017",
@@ -631,7 +631,7 @@
    "url": "https://www.rva.gov/?search=a",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:evidence:e-018",
@@ -653,7 +653,7 @@
    "url": "https://data.virginia.gov/dataset/570f4ddb-7dca-4e2f-a329-ffad0e295e7a",
    "source": null
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:a-significant-gap-in-home-broadband-access-exists-disproportionately-affecting-l",
@@ -691,7 +691,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:a-significant-trust-barrier-for-immigrant-communities-is-the-fear-that-personal-",
@@ -729,7 +729,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:deploying-ai-in-civic-engagement-presents-significant-risks-and-challenges-that-",
@@ -767,7 +767,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:residents-with-limited-english-proficiency-lep-encounter-substantial-barriers-wh",
@@ -805,7 +805,7 @@
    "confidence": "medium",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:seeclickfix-sample-data-aug-2014-to-aug-2015",
@@ -833,7 +833,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:systemic-and-organizational-challenges-within-government-create-a-difficult-envi",
@@ -871,7 +871,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:the-adoption-of-new-procurement-technologies-is-frequently-impeded-by-significan",
@@ -909,7 +909,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:the-primary-reasons-civic-tech-solutions-fail-and-the-main-barriers-to-their-ado",
@@ -947,7 +947,7 @@
    "confidence": "medium",
    "citationCount": 10
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:problem:the-research-into-the-procurement-technology-of-these-nine-mid-sized-cities-high",
@@ -985,7 +985,7 @@
    "confidence": "medium",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:proposal:parallel-research",
@@ -1005,7 +1005,7 @@
    "origin": "post-event research",
    "project": "_parallel-research"
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:city-tree-map",
@@ -1033,7 +1033,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:code-enforcement-cases",
@@ -1061,7 +1061,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:list-of-towed-vehicles",
@@ -1089,7 +1089,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:neighborhood-mapper",
@@ -1117,7 +1117,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:parcel-mapper",
@@ -1145,7 +1145,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:pavement-conditions-index",
@@ -1173,7 +1173,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:permit-portal-energov",
@@ -1201,7 +1201,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:property-search",
@@ -1229,7 +1229,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:public-works-services-finder",
@@ -1257,7 +1257,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:speed-tables-planned",
@@ -1285,7 +1285,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:vision-zero-dashboard",
@@ -1313,7 +1313,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  },
  {
   "id": "n:service:zoning-mapper",
@@ -1341,6 +1341,6 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T19:59:51.280Z"
+  "extractedAt": "2026-08-02T21:03:22.976Z"
  }
 ]
