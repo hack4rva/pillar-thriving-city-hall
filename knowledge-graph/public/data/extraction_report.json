@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T10:11:50.916Z",
+ "generatedAt": "2026-08-02T10:51:43.138Z",
  "repo": "pillar-thriving-city-hall",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -14,8 +14,8 @@
  },
  "warnings": [],
  "metrics": {
-  "totalNodes": 28,
-  "totalEdges": 9,
+  "totalNodes": 50,
+  "totalEdges": 30,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -34,7 +34,7 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 0,
+  "reportedButUnverifiedRelationships": 21,
   "brokenReferences": 0,
   "duplicateCandidates": 0,
   "reviewQueueSize": 0,

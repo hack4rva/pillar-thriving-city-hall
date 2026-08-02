@@ -1,7 +1,7 @@
 {
  "meta": {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-08-02T10:11:50.916Z",
+  "generatedAt": "2026-08-02T10:51:43.138Z",
   "repos": [
    "pillar-thriving-city-hall"
   ],
@@ -9,8 +9,8 @@
   "shortName": "A Thriving City Hall",
   "description": "Evidence and source graph for the A Thriving City Hall pillar, built from the repository's evidence log and source inventory. This corpus contains no financial dataset, so there is no funding layer.",
   "counts": {
-   "nodes": 28,
-   "edges": 9,
+   "nodes": 50,
+   "edges": 30,
    "financialFlows": 0
   }
  },
@@ -39,7 +39,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:city-contracts-csv-full-download",
@@ -65,7 +65,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:city-contracts-socrata-xqn7-jvv2",
@@ -91,7 +91,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:eva-virginia-procurement",
@@ -117,7 +117,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:richmond-open-data-portal",
@@ -143,7 +143,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:rva-gov-drupal-search-api",
@@ -169,7 +169,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:rva311-historical-socrata-vgg4-hjn8",
@@ -195,7 +195,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:sam-gov-api",
@@ -221,7 +221,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:usaspending-gov-api",
@@ -247,7 +247,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:dataset:vita-statewide-contracts",
@@ -273,7 +273,7 @@
     "keyFields": "",
     "available": true
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-001",
@@ -295,7 +295,7 @@
     "url": "https://data.richmondgov.com/d/vgg4-hjn8",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-002",
@@ -317,7 +317,7 @@
     "url": "https://www.avepoint.com/case-studies/rva311",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-003",
@@ -339,7 +339,7 @@
     "url": null,
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-004",
@@ -361,7 +361,7 @@
     "url": "https://richmondva.legistar.com/View.ashx?GUID=C050E3F8-7CC4-4663-BA8F-362608460B56&ID=13777233&M=F",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-005",
@@ -383,7 +383,7 @@
     "url": null,
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-006",
@@ -405,7 +405,7 @@
     "url": "https://www.rva.gov/?search=permits",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-007",
@@ -427,7 +427,7 @@
     "url": null,
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-008",
@@ -449,7 +449,7 @@
     "url": "https://data.richmondgov.com/Procurement/City-Contracts/xqn7-jvv2",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-009",
@@ -471,7 +471,7 @@
     "url": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-010",
@@ -493,7 +493,7 @@
     "url": null,
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-011",
@@ -515,7 +515,7 @@
     "url": "https://www.rva.gov/citizen-service-and-response",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-012",
@@ -537,7 +537,7 @@
     "url": "https://www.avepoint.com/case-studies/rva311",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-013",
@@ -559,7 +559,7 @@
     "url": null,
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-014",
@@ -581,7 +581,7 @@
     "url": "https://open.gsa.gov/api/entity-api/",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-015",
@@ -603,7 +603,7 @@
     "url": "https://www.rva.gov/search?search=permits",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-016",
@@ -625,7 +625,7 @@
     "url": "https://www.rva.gov/sitemap.xml",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-017",
@@ -647,7 +647,7 @@
     "url": "https://www.rva.gov/?search=a",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "n:evidence:e-018",
@@ -669,7 +669,695 @@
     "url": "https://data.virginia.gov/dataset/570f4ddb-7dca-4e2f-a329-ffad0e295e7a",
     "source": null
    },
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:a-significant-gap-in-home-broadband-access-exists-disproportionately-affecting-l",
+   "type": "Problem",
+   "label": "A significant gap in home broadband access exists, disproportionately affecting lower-i…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 28-28",
+     "excerpt": "A significant gap in home broadband access exists, disproportionately affecting lower-income households. According to a 2021 analysis, approximately 43% of adults with lower incomes do not have home broadband services. This lack of reliable, high-speed internet at home creates a major barrier to accessing online government services, which often require stable connections for complex applications or information retrieval."
+    },
+    {
+     "sourceDoc": "https://www.pewresearch.org/short-reads/2021/06/22/digital-divide-persists-even-as-americans-with-lower-incomes-make-gains-in-tech-adoption/",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "The digital lives of Americans with lower and higher incomes remain markedly different, according to a Pew Research Center survey of US adults."
+    },
+    {
+     "sourceDoc": "https://www.mdpi.com/2076-3387/12/3/112",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "This study investigates the digital divide in Canada related to access to online government services. Since digital equity can have welfare implications,"
+    },
+    {
+     "sourceDoc": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "To better understand Americans' smartphone and broadband adoption, Pew Research Center surveyed 5,022 U.S. adults from Feb. 5 to June 18, 2025. SSRS conducted"
+    }
+   ],
+   "description": "A significant gap in home broadband access exists, disproportionately affecting lower-income households. According to a 2021 analysis, approximately 43% of adults with lower incomes do not have home broadband services. This lack of reliable, high-speed internet at home creates a major barrier to accessing online government services, which often require stable connections for complex applications or information retrieval.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "digital_divide_barriers",
+    "confidence": "medium",
+    "citationCount": 8
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:a-significant-trust-barrier-for-immigrant-communities-is-the-fear-that-personal-",
+   "type": "Problem",
+   "label": "A significant trust barrier for immigrant communities is the fear that personal informa…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 51-51",
+     "excerpt": "A significant trust barrier for immigrant communities is the fear that personal information provided to access city services could be shared with federal immigration enforcement agencies. This concern discourages engagement with government digital portals and services, as individuals worry that their data might be used against them or their families in immigration proceedings. Building trust requires clear data use limitations and explicit policies against sharing information for immigration enforcement purposes."
+    },
+    {
+     "sourceDoc": "https://www.sciencedirect.com/science/article/pii/S2666623524000643",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "by AY Haro-Ramos · 2024 · Cited by 4 — Combating misinformation about what constitutes a public charge requires governmental resources to ensure that immigrants feel comfortable using resources they"
+    },
+    {
+     "sourceDoc": "https://www.boston.gov/sites/default/files/file/2024/07/People-Powered-Gen-AI-pre-publication.pdf?ref=technologist.mit.edu",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Given these risks, we argue that the successful integration\nof Gen AI for civic engagement must be powered by people who use their judgment to validate\noutputs, mitigate potential errors, contextualize results, and build trust between the government\nand the community."
+    },
+    {
+     "sourceDoc": "https://datasmart.hks.harvard.edu/residents-algorithms-see-different-problems",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "The uncomfortable reality is that 311 participation is not evenly distributed. Research has consistently shown that civic technology engagement correlates with"
+    }
+   ],
+   "description": "A significant trust barrier for immigrant communities is the fear that personal information provided to access city services could be shared with federal immigration enforcement agencies. This concern discourages engagement with government digital portals and services, as individuals worry that their data might be used against them or their families in immigration proceedings. Building trust requires clear data use limitations and explicit policies against sharing information for immigration enforcement purposes.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "trust_barriers_in_immigrant_communities",
+    "confidence": "medium",
+    "citationCount": 6
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:deploying-ai-in-civic-engagement-presents-significant-risks-and-challenges-that-",
+   "type": "Problem",
+   "label": "Deploying AI in civic engagement presents significant risks and challenges that can und…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 178-178",
+     "excerpt": "Deploying AI in civic engagement presents significant risks and challenges that can undermine public trust and create inequities. A primary concern is the accuracy of AI-powered tools, as demonstrated by the NYC MyCity chatbot, which produced 'hallucinations' and confidently gave incorrect and even illegal advice, creating legal exposure and harming residents. This erodes public trust. Another major challenge is algorithmic bias, which can arise from the data used to train these systems. For instance, over-relying on 311 complaint data can reinforce existing inequalities, as complaint behavior is socio-spatially uneven, leading to resource misallocation that favors higher-resource neighborhoods. This is compounded by the digital divide; app-first or web-centric tools can exclude lower-income individuals, those with lower educational attainment, and the elderly, who are less likely to have home broadband and more likely to be smartphone-only users, making complex online tasks difficult. Furthermore, these tools often fail to meet accessibility standards (like WCAG 2.1 AA) and language access requirements (mandated by laws like Title VI and local ordinances), effectively excluding users with disabilities and residents with limited English proficiency. Trust is a further barrier, particularly for immigrant communities who may fear that their data could be used for immigration enforcement, leading to avoidance of essential services. Effective implementation requires robust governance, including clear accountability, sustained leadership to overcome inter-departmental resistance, and significant human-in-the-loop oversight to validate AI outputs and manage high-risk queries. Without addressing these technical, data, design, and governance challenges, AI tools risk failing their mission and harming the communities they are meant to serve."
+    },
+    {
+     "sourceDoc": "https://www.envive.ai/post/case-study-nycs-mycity-chatbot",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Mayor Adams' response to the chatbot failures is revealing. He compared the problems to \"the early days of MapQuest,\" suggesting errors were acceptable growing"
+    },
+    {
+     "sourceDoc": "https://datasmart.hks.harvard.edu/residents-algorithms-see-different-problems",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "The uncomfortable reality is that 311 participation is not evenly distributed. Research has consistently shown that civic technology engagement correlates with"
+    },
+    {
+     "sourceDoc": "https://www.sciencedirect.com/science/article/abs/pii/S2210670720307216",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "This paper examines bias in resident-reported data by analyzing socio-spatial disparities in '311' complaint behavior in Kansas City, Missouri."
+    }
+   ],
+   "description": "Deploying AI in civic engagement presents significant risks and challenges that can undermine public trust and create inequities. A primary concern is the accuracy of AI-powered tools, as demonstrated by the NYC MyCity chatbot, which produced 'hallucinations' and confidently gave incorrect and even illegal advice, creating legal exposure and harming residents. This erodes public trust. Another major challenge is algorithmic bias, which can arise from the data used to train these systems. For instance, over-relying on 311 complaint data can reinforce existing inequalities, as complaint behavior is socio-spatially uneven, leading to resource misallocation that favors higher-resource neighborhoods. This is compounded by the digital divide; app-first or web-centric tools can exclude lower-income individuals, those with lower educational attainment, and the elderly, who are less likely to have home broadband and more likely to be smartphone-only users, making complex online tasks difficult. Furthermore, these tools often fail to meet accessibility standards (like WCAG 2.1 AA) and language access requirements (mandated by laws like Title VI and local ordinances), effectively excluding users with disabilities and residents with limited English proficiency. Trust is a further barrier, particularly for immigrant communities who may fear that their data could be used for immigration enforcement, leading to avoidance of essential services. Effective implementation requires robust governance, including clear accountability, sustained leadership to overcome inter-departmental resistance, and significant human-in-the-loop oversight to validate AI outputs and manage high-risk queries. Without addressing these technical, data, design, and governance challenges, AI tools risk failing their mission and harming the communities they are meant to serve.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "challenges_in_ai_implementation_for_public_services",
+    "confidence": "medium",
+    "citationCount": 7
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:residents-with-limited-english-proficiency-lep-encounter-substantial-barriers-wh",
+   "type": "Problem",
+   "label": "Residents with Limited English Proficiency (LEP) encounter substantial barriers when tr…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 44-44",
+     "excerpt": "Residents with Limited English Proficiency (LEP) encounter substantial barriers when trying to access civic services, largely due to inadequate language support in both traditional and digital channels. A primary challenge is the inconsistent or complete lack of translation for vital documents and interpretation services, which persists despite legal mandates requiring them. This gap between policy and practice effectively blocks LEP individuals from understanding and obtaining necessary services. The increasing reliance on digital and mobile-first solutions, such as 311 apps, exacerbates this exclusion. These platforms are often designed with an 'English-centric' approach, favoring tech-savvy, native-language speakers and failing to provide multilingual entry points or content. Common design failures include text-heavy interfaces that are difficult for users with low literacy to navigate and a general lack of multilingual training data for AI-powered tools. Consequently, LEP residents are often left behind by the so-called 'app revolution' in civic tech, unable to navigate complex government systems and report issues as effectively as their English-speaking counterparts."
+    },
+    {
+     "sourceDoc": "https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/index.html",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Jul 18, 2025 — There are two federal laws that require these programs to provide language access services (LAS) free of charge: Title VI of the Civil Rights Act of 1964 (Title"
+    },
+    {
+     "sourceDoc": "https://cultureandlanguage.net/ccc-resources/language-access-laws/",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Nov 18, 2024 — In the US, these are laws passed to help ensure the equal access to public services by individuals with Limited English Proficiency."
+    },
+    {
+     "sourceDoc": "https://www.ojp.gov/program/civil-rights-office/limited-english-proficient-lep",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Jun 2, 2023 — Under Title VI (and the Safe Streets Act), recipients are required to provide LEP individuals with meaningful access to their programs and services."
+    }
+   ],
+   "description": "Residents with Limited English Proficiency (LEP) encounter substantial barriers when trying to access civic services, largely due to inadequate language support in both traditional and digital channels. A primary challenge is the inconsistent or complete lack of translation for vital documents and interpretation services, which persists despite legal mandates requiring them. This gap between policy and practice effectively blocks LEP individuals from understanding and obtaining necessary services. The increasing reliance on digital and mobile-first solutions, such as 311 apps, exacerbates this exclusion. These platforms are often designed with an 'English-centric' approach, favoring tech-savvy, native-language speakers and failing to provide multilingual entry points or content. Common design failures include text-heavy interfaces that are difficult for users with low literacy to navigate and a general lack of multilingual training data for AI-powered tools. Consequently, LEP residents are often left behind by the so-called 'app revolution' in civic tech, unable to navigate complex government systems and report issues as effectively as their English-speaking counterparts.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "language_access_barriers_for_lep_communities",
+    "confidence": "medium",
+    "citationCount": 9
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:seeclickfix-sample-data-aug-2014-to-aug-2015",
+   "type": "Problem",
+   "label": "SeeClickFix Sample Data Aug 2014 to Aug 2015",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 222-222",
+     "excerpt": "SeeClickFix Sample Data Aug 2014 to Aug 2015"
+    },
+    {
+     "sourceDoc": "https://data.richmondgov.com/d/vgg4-hjn8",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Data Last Updated\nSeptember 2, 2015"
+    }
+   ],
+   "description": "SeeClickFix Sample Data Aug 2014 to Aug 2015 — Impact: The data is over a decade old and does not reflect current 311 operations, service request types, or departmental performance. It is unsuitable for real-time analysis, trend monitoring, or integration with current city service systems. Its utility is limited to historical research of the 2014-2015 period.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "data_source_limitations",
+    "confidence": "medium",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:systemic-and-organizational-challenges-within-government-create-a-difficult-envi",
+   "type": "Problem",
+   "label": "Systemic and organizational challenges within government create a difficult environment…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q3-equity.md",
+     "sourceLocation": "lines 23-23",
+     "excerpt": "Systemic and organizational challenges within government create a difficult environment for adopting new procurement technologies. A major barrier is the presence of outdated legacy IT infrastructure and a lack of interoperability standards. Procurement offices are often siloed and disconnected from policy and IT departments, making integrated digital transformation difficult [4]. This is compounded by a lack of comprehensive, well-supported, and documented APIs for procured software, which creates significant barriers to connecting different vendor solutions and programmatically using data [5].\n\nThe very process of acquiring new technology is often a barrier itself. Many governments use non-competitive pathways like “piggybacking” on other jurisdictions' contracts or using “cooperative purchasing” agreements. These methods often allow governments to bypass competitive solicitations and crucial contract negotiations. As a result, AI-specific terms related to data rights, fairness, and performance are not included, and cities find they lack leverage with vendors [6, 8]. This practice entrenches an ecosystem of traditional government contractors and deepens vendor lock-in [5].\n\nData governance is another systemic weakness. The lack of a shared understanding among users on how data should be entered and the reliance on free-text fields leads to uneven data quality. This fundamentally limits the effectiveness of automated tools and AI, which depend on systematic, structured data to function reliably [2].\n\nFinally, convoluted and paper-based procurement processes create systemic equity gaps. Opaque processes, unreadable documentation, and the sheer effort required to participate in paper-based bidding disproportionately affect smaller, local, and minority/women-owned businesses (MBE/MWBE/SWaM), discouraging them from competing [3, 9]. Slow payment cycles further disadvantage these firms, which have less capital to absorb delays, making government contracts less appealing [3]."
+    },
+    {
+     "sourceDoc": "https://files.thegovlab.org/a-snapshot-of-ai-procurement-challenges-june2023.pdf",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Logistical and operational issues with data organization, maintenance\nand ownership can lead to over-reliance or lock-in with a vendor, even if its\nsolutions are not fit for purpose."
+    },
+    {
+     "sourceDoc": "https://dl.acm.org/doi/full/10.1145/3715275.3732049",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "At minimum, contracts specify an agreed price for the city to pay over a specified time period, raising concerns of vendor \"lock-in\"  [6 ] where cities are hesitant to break existing contracts."
+    },
+    {
+     "sourceDoc": "https://www.urban.org/research/publication/removing-barriers-participation-local-and-state-government-procurement",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "by B Theodos · Cited by 10 — This research highlights the untapped power of government procurement to promote and foster equity for MBEs and all small businesses."
+    }
+   ],
+   "description": "Systemic and organizational challenges within government create a difficult environment for adopting new procurement technologies. A major barrier is the presence of outdated legacy IT infrastructure and a lack of interoperability standards. Procurement offices are often siloed and disconnected from policy and IT departments, making integrated digital transformation difficult [4]. This is compounded by a lack of comprehensive, well-supported, and documented APIs for procured software, which creates significant barriers to connecting different vendor solutions and programmatically using data [5].\n\nThe very process of acquiring new technology is often a barrier itself. Many governments use non-competitive pathways like “piggybacking” on other jurisdictions' contracts or using “cooperative purchasing” agreements. These methods often allow governments to bypass competitive solicitations and crucial contract negotiations. As a result, AI-specific terms related to data rights, fairness, and performance are not included, and cities find they lack leverage with vendors [6, 8]. This practice entrenches an ecosystem of traditional government contractors and deepens vendor lock-in [5].\n\nData governance is another systemic weakness. The lack of a shared understanding among users on how data should be entered and the reliance on free-text fields leads to uneven data quality. This fundamentally limits the effectiveness of automated tools and AI, which depend on systematic, structured data to function reliably [2].\n\nFinally, convoluted and paper-based procurement processes create systemic equity gaps. Opaque processes, unreadable documentation, and the sheer effort required to participate in paper-based bidding disproportionately affect smaller, local, and minority/women-owned businesses (MBE/MWBE/SWaM), discouraging them from competing [3, 9]. Slow payment cycles further disadvantage these firms, which have less capital to absorb delays, making government contracts less appealing [3].",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "organizational_and_systemic_barriers",
+    "confidence": "high",
+    "citationCount": 6
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:the-adoption-of-new-procurement-technologies-is-frequently-impeded-by-significan",
+   "type": "Problem",
+   "label": "The adoption of new procurement technologies is frequently impeded by significant human…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q3-equity.md",
+     "sourceLocation": "lines 15-15",
+     "excerpt": "The adoption of new procurement technologies is frequently impeded by significant human-centric barriers among government staff. A primary obstacle is a general resistance to change, coupled with specific fears about the impact of automation. Staff may fear job displacement as tasks become automated, or they may be risk-averse and fear the personal and professional consequences of a failed technology implementation [4]. There is also a documented fear of “radical transparency,” where new digital systems might expose past mistakes or current inefficiencies, leading to reluctance from those accustomed to more opaque processes [4].\n\nBeyond psychological resistance, there are practical barriers related to skills and existing workflows. Procurement professionals may lack the digital skills necessary to operate new systems effectively. The introduction of AI tools creates an even wider expertise gap, as staff may not be equipped to audit or monitor the algorithms, and the added oversight requirements can erase the promised “efficiency” gains [4, 5]. Insufficient training and inadequate change management are implied as major contributors to this challenge.\n\nFurthermore, deeply ingrained paper-first practices create significant friction that slows down buy-in and participation from both internal users and external vendors. When processes still require bids to be submitted in sealed envelopes, physically delivered, and logged by hand, it creates a logistical burden that discourages participation and makes a transition to a fully digital workflow difficult. This inertia of traditional processes can undermine the value proposition of new digital tools, as the pace of work remains dictated by physical logistics rather than digital urgency [9]."
+    },
+    {
+     "sourceDoc": "https://www.prnewswire.com/news-releases/procureabilitys-2026-cpo-report-reveals-the-top-barriers-to-ai-adoption-among-procurement-organizations-302666226.html",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Jan 21, 2026 — ProcureAbility's 2026 CPO Report Reveals the Top Barriers to AI Adoption Among Procurement Organizations ... The following top priorities are implementing AI-"
+    },
+    {
+     "sourceDoc": "https://www.forethought.org/research/the-ai-adoption-gap",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Apr 1, 2025 — Insufficient funding and convoluted procurement processes. Outdated IT infrastructure and interoperability issues, along with high security needs. Poorly"
+    },
+    {
+     "sourceDoc": "https://cdt.org/wp-content/uploads/2025/03/CDT-Civic-Tech-Brief-032425-final.pdf",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "24 Mar 2025 · States are trying to guide their agencies' deployment of AI by creating review processes for potential. AI uses or requiring agencies to proactively consider"
+    }
+   ],
+   "description": "The adoption of new procurement technologies is frequently impeded by significant human-centric barriers among government staff. A primary obstacle is a general resistance to change, coupled with specific fears about the impact of automation. Staff may fear job displacement as tasks become automated, or they may be risk-averse and fear the personal and professional consequences of a failed technology implementation [4]. There is also a documented fear of “radical transparency,” where new digital systems might expose past mistakes or current inefficiencies, leading to reluctance from those accustomed to more opaque processes [4].\n\nBeyond psychological resistance, there are practical barriers related to skills and existing workflows. Procurement professionals may lack the digital skills necessary to operate new systems effectively. The introduction of AI tools creates an even wider expertise gap, as staff may not be equipped to audit or monitor the algorithms, and the added oversight requirements can erase the promised “efficiency” gains [4, 5]. Insufficient training and inadequate change management are implied as major contributors to this challenge.\n\nFurthermore, deeply ingrained paper-first practices create significant friction that slows down buy-in and participation from both internal users and external vendors. When processes still require bids to be submitted in sealed envelopes, physically delivered, and logged by hand, it creates a logistical burden that discourages participation and makes a transition to a fully digital workflow difficult. This inertia of traditional processes can undermine the value proposition of new digital tools, as the pace of work remains dictated by physical logistics rather than digital urgency [9].",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "staff_adoption_barriers",
+    "confidence": "high",
+    "citationCount": 4
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:the-primary-reasons-civic-tech-solutions-fail-and-the-main-barriers-to-their-ado",
+   "type": "Problem",
+   "label": "The primary reasons civic tech solutions fail and the main barriers to their adoption a…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 5-5",
+     "excerpt": "The primary reasons civic tech solutions fail and the main barriers to their adoption are multifaceted, spanning technical, data, design, governance, and trust issues.\n\n*   **Technical Failures and Unreliability**: AI-powered tools have demonstrated significant reliability issues. The most notable example is NYC's MyCity chatbot, which 'hallucinated' and provided users with confident but incorrect and even unlawful guidance, such as advising businesses to break labor laws. This illustrates risks of inadequate authoritative grounding, insufficient guardrails, and a lack of human review, ultimately leading to legal exposure and reputational damage.\n*   **Data Bias**: A core failure mode is the over-reliance on resident-initiated 311 complaint data as a proxy for community need. Research shows this data is not neutral; complaint behavior is socio-spatially uneven, with higher-resource, more tech-savvy neighborhoods often overrepresented. This creates feedback loops that can lead to the misallocation of city services, systematically underserving lower-income and minority communities.\n*   **Design, Usability, and Accessibility Barriers**: Many solutions are designed with a digitally advantaged user in mind. 'App-first' strategies favor English speakers with modern smartphones and data plans. Text-heavy interfaces are hostile to smartphone-only users and those with low literacy. Furthermore, many government web and mobile tools fail to comply with accessibility standards like WCAG 2.1 AA, effectively excluding users with disabilities who rely on screen readers, keyboard navigation, and other assistive technologies.\n*   **Governance and Operational Barriers**: The success of integrated service navigation tools depends on overcoming internal governmental silos. Audits, such as one by the LA Controller, highlight that achieving a 'no wrong door' approach is often stymied by cross-departmental resistance to unified contact management and a lack of sustained executive leadership. Without clear accountability and a customer-first mandate, adoption and performance stagnate.\n*   **Lack of Trust**: Trust is a critical and fragile component. Visible failures, like the NYC chatbot, quickly erode public confidence. For immigrant communities, a significant barrier is the fear that data provided to government portals could be used for immigration enforcement or affect their public charge status. This 'chilling effect' leads to avoidance of necessary services, even when individuals are eligible."
+    },
+    {
+     "sourceDoc": "https://www.envive.ai/post/case-study-nycs-mycity-chatbot",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Mayor Adams' response to the chatbot failures is revealing. He compared the problems to \"the early days of MapQuest,\" suggesting errors were acceptable growing"
+    },
+    {
+     "sourceDoc": "https://controller.lacity.gov/audits/311",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "At its best, 311 is more than an easy-to-remember telephone number; it offers a “no wrong door” approach to helping residents find the right information and services that they need from their local government. Realizing 311’s benefits for the residents of Los Angeles requires sustained leadership and support to ensure its full implementation throughout the City."
+    },
+    {
+     "sourceDoc": "https://www.sciencedirect.com/science/article/abs/pii/S2210670720307216",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "This paper examines bias in resident-reported data by analyzing socio-spatial disparities in '311' complaint behavior in Kansas City, Missouri."
+    }
+   ],
+   "description": "The primary reasons civic tech solutions fail and the main barriers to their adoption are multifaceted, spanning technical, data, design, governance, and trust issues.\n\n*   **Technical Failures and Unreliability**: AI-powered tools have demonstrated significant reliability issues. The most notable example is NYC's MyCity chatbot, which 'hallucinated' and provided users with confident but incorrect and even unlawful guidance, such as advising businesses to break labor laws. This illustrates risks of inadequate authoritative grounding, insufficient guardrails, and a lack of human review, ultimately leading to legal exposure and reputational damage.\n*   **Data Bias**: A core failure mode is the over-reliance on resident-initiated 311 complaint data as a proxy for community need. Research shows this data is not neutral; complaint behavior is socio-spatially uneven, with higher-resource, more tech-savvy neighborhoods often overrepresented. This creates feedback loops that can lead to the misallocation of city services, systematically underserving lower-income and minority communities.\n*   **Design, Usability, and Accessibility Barriers**: Many solutions are designed with a digitally advantaged user in mind. 'App-first' strategies favor English speakers with modern smartphones and data plans. Text-heavy interfaces are hostile to smartphone-only users and those with low literacy. Furthermore, many government web and mobile tools fail to comply with accessibility standards like WCAG 2.1 AA, effectively excluding users with disabilities who rely on screen readers, keyboard navigation, and other assistive technologies.\n*   **Governance and Operational Barriers**: The success of integrated service navigation tools depends on overcoming internal governmental silos. Audits, such as one by the LA Controller, highlight that achieving a 'no wrong door' approach is often stymied by cross-departmental resistance to unified contact management and a lack of sustained executive leadership. Without clear accountability and a customer-first mandate, adoption and performance stagnate.\n*   **Lack of Trust**: Trust is a critical and fragile component. Visible failures, like the NYC chatbot, quickly erode public confidence. For immigrant communities, a significant barrier is the fear that data provided to government portals could be used for immigration enforcement or affect their public charge status. This 'chilling effect' leads to avoidance of necessary services, even when individuals are eligible.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "key_failure_modes_and_barriers",
+    "confidence": "medium",
+    "citationCount": 10
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:problem:the-research-into-the-procurement-technology-of-these-nine-mid-sized-cities-high",
+   "type": "Problem",
+   "label": "The research into the procurement technology of these nine mid-sized cities highlights …",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q1-regional.md",
+     "sourceLocation": "lines 446-446",
+     "excerpt": "The research into the procurement technology of these nine mid-sized cities highlights several common challenges and limitations that hinder modernization, particularly in the context of cross-jurisdictional contract discovery:\n\n*   **Data Fragmentation and Silos:** The primary challenge is the severe fragmentation of procurement data. Each city operates its own e-procurement system (e.g., OpenGov, Bonfire, Workday, BRASS), which is inherently siloed. These platforms are not designed to interoperate with systems from neighboring cities, counties, or state and federal agencies, making a unified search impossible with current tools.\n\n*   **Systemic Gaps in Functionality:** There is a fundamental gap between the procurement staff's need to find external, compliant contracts and the capabilities of the implemented software. The existing platforms are designed for internal process management—posting bids, managing vendor registration, and processing purchase orders—not for external market intelligence or contract discovery.\n\n*   **Disjointed Compliance Management:** The need for separate, third-party compliance systems, as seen with B2Gnow in Richmond and Baltimore, demonstrates that core procurement and ERP platforms often lack robust, integrated modules for tracking supplier diversity and compliance. This forces procurement and compliance officers to work across multiple, disconnected systems, increasing administrative burden and the risk of data inconsistencies.\n\n*   **Inferred Budget and Resource Constraints:** The complete absence of publicly documented AI-powered analysis tools, aggregation dashboards, or advanced OCR projects suggests that mid-sized cities likely face significant budget and resource constraints. They appear to prioritize foundational e-procurement capabilities over investing in more advanced, and often costly, intelligence and analytics technologies."
+    },
+    {
+     "sourceDoc": "https://procurement.opengov.com/portal/embed/rva/project-list?departmentId=all&status=all",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. All. Search Advanced Search. Search by Category. Select."
+    },
+    {
+     "sourceDoc": "https://procurement.opengov.com/portal/embed/pittsburghpa/project-list",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. Active. Search Advanced Search. Search by Category. Select."
+    },
+    {
+     "sourceDoc": "https://procurement.opengov.com/portal/embed/norfolk/project-list",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Skip to main content. Procurement. Procurement Portal. ProjectsCalendar. All Departments. Active. Search Advanced Search. Search by Category. Select."
+    }
+   ],
+   "description": "The research into the procurement technology of these nine mid-sized cities highlights several common challenges and limitations that hinder modernization, particularly in the context of cross-jurisdictional contract discovery:\n\n*   **Data Fragmentation and Silos:** The primary challenge is the severe fragmentation of procurement data. Each city operates its own e-procurement system (e.g., OpenGov, Bonfire, Workday, BRASS), which is inherently siloed. These platforms are not designed to interoperate with systems from neighboring cities, counties, or state and federal agencies, making a unified search impossible with current tools.\n\n*   **Systemic Gaps in Functionality:** There is a fundamental gap between the procurement staff's need to find external, compliant contracts and the capabilities of the implemented software. The existing platforms are designed for internal process management—posting bids, managing vendor registration, and processing purchase orders—not for external market intelligence or contract discovery.\n\n*   **Disjointed Compliance Management:** The need for separate, third-party compliance systems, as seen with B2Gnow in Richmond and Baltimore, demonstrates that core procurement and ERP platforms often lack robust, integrated modules for tracking supplier diversity and compliance. This forces procurement and compliance officers to work across multiple, disconnected systems, increasing administrative burden and the risk of data inconsistencies.\n\n*   **Inferred Budget and Resource Constraints:** The complete absence of publicly documented AI-powered analysis tools, aggregation dashboards, or advanced OCR projects suggests that mid-sized cities likely face significant budget and resource constraints. They appear to prioritize foundational e-procurement capabilities over investing in more advanced, and often costly, intelligence and analytics technologies.",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "systemic",
+    "section": "challenges_in_procurement_modernization",
+    "confidence": "medium",
+    "citationCount": 11
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:proposal:parallel-research",
+   "type": "Proposal",
+   "label": " Parallel-Research",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "proposed",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q1-regional.md",
+     "sourceLocation": "lines 1-1",
+     "excerpt": "The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized b"
+    }
+   ],
+   "description": "The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized by the adoption of dedicated e-procurement portals for managing solicitations and vendor relationships. Platforms such as OpenGov, Bonfire (Euna), and Workday are prevalent, supplemented by city-specific portals like New Orleans' BRASS system. A significant and universal finding is the absence of technology designed to help staff identify and validate contracts across different jurisdictions (city, state, federal). There is no public evidence that any of these cities have implemented AI-powered contract analysis, OCR-based data extraction, or procurement intelligence dashboards for aggregating external contract sources. While most cities offer some level of searchability for their own contracts, these functions are confined to their internal systems. Vendor compliance checking is addressed in a minority of cases through specialized third-party systems like B2Gnow (used by Richmond and Baltimore), indicating that this function is often separate from the core procurement platform. All identified systems are currently live and operational.",
+   "attrs": {
+    "origin": "post-event research",
+    "project": "_parallel-research"
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:city-tree-map",
+   "type": "Service",
+   "label": "City Tree Map",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 261-261",
+     "excerpt": "City Tree Map"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[City Tree Map](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=3dda2aa7521941d8a48dc91f5014a5c8) |Interactive tree inventory which was conducted on all public right of way trees.\nFor public informational purposes only.\nUse the interactive mapping application to zoom in to areas of interest and inspect City maintained tree's information. |Department of Public Works Urban Forestry Division |"
+    }
+   ],
+   "description": "City Tree Map",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "medium",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:code-enforcement-cases",
+   "type": "Service",
+   "label": "Code Enforcement Cases",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 341-341",
+     "excerpt": "Code Enforcement Cases"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Code Enforcement Cases](https://energov.richmondgov.com/EnerGov_Prod/selfservice#/search) |Link to online portal where users can look up status of code enforcement cases. |Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Code Enforcement Cases",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "medium",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:list-of-towed-vehicles",
+   "type": "Service",
+   "label": "List of Towed Vehicles",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 245-245",
+     "excerpt": "List of Towed Vehicles"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[List of Towed Vehicles](https://apps.richmondgov.com/applications/towviewing) |Listing of vehicles towed within the city of Richmond, and lot address where the vehicle can be picked up. Provided by the towing companies. Details remain on the site for 14 days.\nPublic is encouraged to check here before reporting a vehicle stolen. |911- Department of Emergency Communications |"
+    }
+   ],
+   "description": "List of Towed Vehicles",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:neighborhood-mapper",
+   "type": "Service",
+   "label": "Neighborhood Mapper",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 309-309",
+     "excerpt": "Neighborhood Mapper"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Neighborhood Mapper](https://www.arcgis.com/home/webmap/viewer.html?webmap=d3e7884282e74dd19162e6a36c30558e&extent=-77.5575,37.4792,-77.3039,37.5918) |Interactive mapping page that displays neighborhood and council district details |Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Neighborhood Mapper",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:parcel-mapper",
+   "type": "Service",
+   "label": "Parcel Mapper",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 277-277",
+     "excerpt": "Parcel Mapper"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Parcel Mapper](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=c3ed34c0fb38441fb95cd2d2d6a22d48) |Interactive mapping page that allows lookup by Address |Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Parcel Mapper",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:pavement-conditions-index",
+   "type": "Service",
+   "label": "Pavement Conditions Index",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 357-357",
+     "excerpt": "Pavement Conditions Index"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Pavement Conditions Index](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=30c7084e3a2242a9beb47f75dd18c4db) |Link to an interactive map that will be updated as paving projects are completed.\n ... \nThe PCI Rating is one of several tools the City of Richmond now uses to prioritize and track its paving program and other infrastructure work. |Department of Public Works Paving Divisi"
+    }
+   ],
+   "description": "Pavement Conditions Index",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:permit-portal-energov",
+   "type": "Service",
+   "label": "Permit Portal - Energov",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 325-325",
+     "excerpt": "Permit Portal - Energov"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Permit Portal - Energov](https://energov.richmondgov.com/EnerGov_Prod/selfservice#/home) |Link to online portal where users can look up current permit information.\n|Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Permit Portal - Energov",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:property-search",
+   "type": "Service",
+   "label": "Property Search",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 389-389",
+     "excerpt": "Property Search"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Parcel Mapper](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=c3ed34c0fb38441fb95cd2d2d6a22d48) |Interactive mapping page that allows lookup by Address |Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Property Search",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "medium",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:public-works-services-finder",
+   "type": "Service",
+   "label": "Public Works Services Finder",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 373-373",
+     "excerpt": "Public Works Services Finder"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Public Works Services Finder](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=87ec8fd7358149dbb7db2e3e8ae1951a) |Link to interactive map where user can enter address to find trash collection schedule |Department of Public Works Solid Waste Division |"
+    }
+   ],
+   "description": "Public Works Services Finder",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:speed-tables-planned",
+   "type": "Service",
+   "label": "Speed Tables Planned",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 421-421",
+     "excerpt": "Speed Tables Planned"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "Pavement Conditions Index](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=30c7084e3a2242a9beb47f75dd18c4db) |Link to an interactive map that will be updated as paving projects are completed.\n ... \nThe PCI Rating is one of several tools the City of Richmond now uses to prioritize and track its paving program and other infrastructure work. |Department of Public Works Paving Divisi"
+    }
+   ],
+   "description": "Speed Tables Planned",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "medium",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:vision-zero-dashboard",
+   "type": "Service",
+   "label": "Vision Zero Dashboard",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 405-405",
+     "excerpt": "Vision Zero Dashboard"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[List of Towed Vehicles](https://apps.richmondgov.com/applications/towviewing) |Listing of vehicles towed within the city of Richmond, and lot address where the vehicle can be picked up. Provided by the towing companies. Details remain on the site for 14 days.\nPublic is encouraged to check here before reporting a vehicle stolen. |911- Department of Emergency Communications |"
+    }
+   ],
+   "description": "Vision Zero Dashboard",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "n:service:zoning-mapper",
+   "type": "Service",
+   "label": "Zoning Mapper",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 293-293",
+     "excerpt": "Zoning Mapper"
+    },
+    {
+     "sourceDoc": "https://www.rva.gov/citizen-service-and-response/rva-311-helpful-links",
+     "sourceLocation": "cited in post-event research",
+     "excerpt": "|[Zoning Mapper](https://cor.maps.arcgis.com/apps/webappviewer/index.html?id=cf5282d10b6f40fcb361cde85dcc6fe4) |Interactive mapping page that displays zone details based on address lookup |Department of Planning and Development Review |"
+    }
+   ],
+   "description": "Zoning Mapper",
+   "attrs": {
+    "origin": "post-event research",
+    "kind": "tool",
+    "section": "related_interactive_maps_and_tools",
+    "confidence": "high",
+    "citationCount": 1
+   },
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   }
  ],
  "edges": [
@@ -689,7 +1377,61 @@
      "excerpt": "rva.gov publishes a sitemap.xml that can be used to discover all department and service pages"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:06ac69389d58",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:a-significant-trust-barrier-for-immigrant-communities-is-the-fear-that-personal-",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 48-48",
+     "excerpt": "A significant trust barrier for immigrant communities is the fear that personal information provided to access city services could be shared with federal immigration enforcement agencies. This concern discourages engagement with government digital portals and services, as individuals worry that their data might be used against them or their families in immigration proceedings. Building trust requires clear data use limitations and explicit policies against sharing information for immigration enforcement purposes."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:08b6733578bd",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:the-research-into-the-procurement-technology-of-these-nine-mid-sized-cities-high",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q1-regional.md",
+     "sourceLocation": "lines 446-446",
+     "excerpt": "The research into the procurement technology of these nine mid-sized cities highlights several common challenges and limitations that hinder modernization, particularly in the context of cross-jurisdictional contract discovery:\n\n*   **Data Fragmentation and Silos:** The primary challenge is the severe fragmentation of procurement data. Each city operates its own e-procurement system (e.g., OpenGov, Bonfire, Workday, BRASS), which is inherently siloed. These platforms are not designed to interoperate with systems from neighboring cities, counties, or state and federal agencies, making a unified search impossible with current tools.\n\n*   **Systemic Gaps in Functionality:** There is a fundamental gap between the procurement staff's need to find external, compliant contracts and the capabilities of the implemented software. The existing platforms are designed for internal process management—posting bids, managing vendor registration, and processing purchase orders—not for external market intelligence or contract discovery.\n\n*   **Disjointed Compliance Management:** The need for separate, third-party compliance systems, as seen with B2Gnow in Richmond and Baltimore, demonstrates that core procurement and ERP platforms often lack robust, integrated modules for tracking supplier diversity and compliance. This forces procurement and compliance officers to work across multiple, disconnected systems, increasing administrative burden and the risk of data inconsistencies.\n\n*   **Inferred Budget and Resource Constraints:** The complete absence of publicly documented AI-powered analysis tools, aggregation dashboards, or advanced OCR projects suggests that mid-sized cities likely face significant budget and resource constraints. They appear to prioritize foundational e-procurement capabilities over investing in more advanced, and often costly, intelligence and analytics technologies."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:177cb4cd1bd2",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:city-tree-map",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "City Tree Map"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:1980a269c81b",
@@ -707,7 +1449,43 @@
      "excerpt": "rva.gov search URL pattern: /search?search={query}&page={n}&f[0]=business_unit:{id}"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:2a9ba5dd732f",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:public-works-services-finder",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Public Works Services Finder"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:3adbb8de9c75",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:code-enforcement-cases",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Code Enforcement Cases"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:44f3e54b844c",
@@ -725,7 +1503,7 @@
      "excerpt": "City Contracts Socrata (xqn7-jvv2) SODA API returns only 8 of 9 columns (known bug)"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:466da79adece",
@@ -743,7 +1521,7 @@
      "excerpt": "VITA statewide contracts at vita.cobblestonesystems.com/public/ — web only, no API"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:54df54b7f1d0",
@@ -761,7 +1539,61 @@
      "excerpt": "Pete Briel is Director of 311 at Richmond City"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:5bc67fa103c0",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:speed-tables-planned",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Speed Tables Planned"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:5be20bf3c88d",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:list-of-towed-vehicles",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "List of Towed Vehicles"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:6bd388e83cff",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:permit-portal-energov",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Permit Portal - Energov"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:7c300658add5",
@@ -779,7 +1611,169 @@
      "excerpt": "There are over 40 department slugs accessible via the business_unit facet parameter in rva.gov search"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:818e97205fbb",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:property-search",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Property Search"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:a364ec7abf31",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:the-primary-reasons-civic-tech-solutions-fail-and-the-main-barriers-to-their-ado",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 5-5",
+     "excerpt": "The primary reasons civic tech solutions fail and the main barriers to their adoption are multifaceted, spanning technical, data, design, governance, and trust issues.\n\n*   **Technical Failures and Unreliability**: AI-powered tools have demonstrated significant reliability issues. The most notable example is NYC's MyCity chatbot, which 'hallucinated' and provided users with confident but incorrect and even unlawful guidance, such as advising businesses to break labor laws. This illustrates risks of inadequate authoritative grounding, insufficient guardrails, and a lack of human review, ultimately leading to legal exposure and reputational damage.\n*   **Data Bias**: A core failure mode is the over-reliance on resident-initiated 311 complaint data as a proxy for community need. Research shows this data is not neutral; complaint behavior is socio-spatially uneven, with higher-resource, more tech-savvy neighborhoods often overrepresented. This creates feedback loops that can lead to the misallocation of city services, systematically underserving lower-income and minority communities.\n*   **Design, Usability, and Accessibility Barriers**: Many solutions are designed with a digitally advantaged user in mind. 'App-first' strategies favor English speakers with modern smartphones and data plans. Text-heavy interfaces are hostile to smartphone-only users and those with low literacy. Furthermore, many government web and mobile tools fail to comply with accessibility standards like WCAG 2.1 AA, effectively excluding users with disabilities who rely on screen readers, keyboard navigation, and other assistive technologies.\n*   **Governance and Operational Barriers**: The success of integrated service navigation tools depends on overcoming internal governmental silos. Audits, such as one by the LA Controller, highlight that achieving a 'no wrong door' approach is often stymied by cross-departmental resistance to unified contact management and a lack of sustained executive leadership. Without clear accountability and a customer-first mandate, adoption and performance stagnate.\n*   **Lack of Trust**: Trust is a critical and fragile component. Visible failures, like the NYC chatbot, quickly erode public confidence. For immigrant communities, a significant barrier is the fear that data provided to government portals could be used for immigration enforcement or affect their public charge status. This 'chilling effect' leads to avoidance of necessary services, even when individuals are eligible."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:ae92b3834fab",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:a-significant-gap-in-home-broadband-access-exists-disproportionately-affecting-l",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 25-25",
+     "excerpt": "A significant gap in home broadband access exists, disproportionately affecting lower-income households. According to a 2021 analysis, approximately 43% of adults with lower incomes do not have home broadband services. This lack of reliable, high-speed internet at home creates a major barrier to accessing online government services, which often require stable connections for complex applications or information retrieval."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:b011a14295b4",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:seeclickfix-sample-data-aug-2014-to-aug-2015",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 219-219",
+     "excerpt": "SeeClickFix Sample Data Aug 2014 to Aug 2015"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:b47e128c2b5d",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:the-adoption-of-new-procurement-technologies-is-frequently-impeded-by-significan",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q3-equity.md",
+     "sourceLocation": "lines 15-15",
+     "excerpt": "The adoption of new procurement technologies is frequently impeded by significant human-centric barriers among government staff. A primary obstacle is a general resistance to change, coupled with specific fears about the impact of automation. Staff may fear job displacement as tasks become automated, or they may be risk-averse and fear the personal and professional consequences of a failed technology implementation [4]. There is also a documented fear of “radical transparency,” where new digital systems might expose past mistakes or current inefficiencies, leading to reluctance from those accustomed to more opaque processes [4].\n\nBeyond psychological resistance, there are practical barriers related to skills and existing workflows. Procurement professionals may lack the digital skills necessary to operate new systems effectively. The introduction of AI tools creates an even wider expertise gap, as staff may not be equipped to audit or monitor the algorithms, and the added oversight requirements can erase the promised “efficiency” gains [4, 5]. Insufficient training and inadequate change management are implied as major contributors to this challenge.\n\nFurthermore, deeply ingrained paper-first practices create significant friction that slows down buy-in and participation from both internal users and external vendors. When processes still require bids to be submitted in sealed envelopes, physically delivered, and logged by hand, it creates a logistical burden that discourages participation and makes a transition to a fully digital workflow difficult. This inertia of traditional processes can undermine the value proposition of new digital tools, as the pace of work remains dictated by physical logistics rather than digital urgency [9]."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:b944f6ddf4ac",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:vision-zero-dashboard",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Vision Zero Dashboard"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:bca209e921da",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:neighborhood-mapper",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Neighborhood Mapper"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:bfe839bf2082",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:zoning-mapper",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Zoning Mapper"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:c6e91f11bdaa",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:parcel-mapper",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Parcel Mapper"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:d21be1988e11",
@@ -797,7 +1791,25 @@
      "excerpt": "City Contracts CSV full download URL: data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:da1b4015e9f7",
+   "source": "n:proposal:parallel-research",
+   "target": "n:service:pavement-conditions-index",
+   "type": "ADDRESSES",
+   "description": "Tool identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+     "sourceLocation": "lines 242-242",
+     "excerpt": "Pavement Conditions Index"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:dbcd5bd172e5",
@@ -815,7 +1827,7 @@
      "excerpt": "Virginia eVA procurement data is available as a CSV download on data.virginia.gov"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   },
   {
    "id": "e:eae1ed325c57",
@@ -833,7 +1845,61 @@
      "excerpt": "rva.gov uses Drupal Search API with Facets module"
     }
    ],
-   "extractedAt": "2026-08-02T10:11:50.916Z"
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:eca939e10c43",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:residents-with-limited-english-proficiency-lep-encounter-substantial-barriers-wh",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 44-44",
+     "excerpt": "Residents with Limited English Proficiency (LEP) encounter substantial barriers when trying to access civic services, largely due to inadequate language support in both traditional and digital channels. A primary challenge is the inconsistent or complete lack of translation for vital documents and interpretation services, which persists despite legal mandates requiring them. This gap between policy and practice effectively blocks LEP individuals from understanding and obtaining necessary services. The increasing reliance on digital and mobile-first solutions, such as 311 apps, exacerbates this exclusion. These platforms are often designed with an 'English-centric' approach, favoring tech-savvy, native-language speakers and failing to provide multilingual entry points or content. Common design failures include text-heavy interfaces that are difficult for users with low literacy to navigate and a general lack of multilingual training data for AI-powered tools. Consequently, LEP residents are often left behind by the so-called 'app revolution' in civic tech, unable to navigate complex government systems and report issues as effectively as their English-speaking counterparts."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:ecdc0b546b1e",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:systemic-and-organizational-challenges-within-government-create-a-difficult-envi",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/procurement-q3-equity.md",
+     "sourceLocation": "lines 23-23",
+     "excerpt": "Systemic and organizational challenges within government create a difficult environment for adopting new procurement technologies. A major barrier is the presence of outdated legacy IT infrastructure and a lack of interoperability standards. Procurement offices are often siloed and disconnected from policy and IT departments, making integrated digital transformation difficult [4]. This is compounded by a lack of comprehensive, well-supported, and documented APIs for procured software, which creates significant barriers to connecting different vendor solutions and programmatically using data [5].\n\nThe very process of acquiring new technology is often a barrier itself. Many governments use non-competitive pathways like “piggybacking” on other jurisdictions' contracts or using “cooperative purchasing” agreements. These methods often allow governments to bypass competitive solicitations and crucial contract negotiations. As a result, AI-specific terms related to data rights, fairness, and performance are not included, and cities find they lack leverage with vendors [6, 8]. This practice entrenches an ecosystem of traditional government contractors and deepens vendor lock-in [5].\n\nData governance is another systemic weakness. The lack of a shared understanding among users on how data should be entered and the reliance on free-text fields leads to uneven data quality. This fundamentally limits the effectiveness of automated tools and AI, which depend on systematic, structured data to function reliably [2].\n\nFinally, convoluted and paper-based procurement processes create systemic equity gaps. Opaque processes, unreadable documentation, and the sheer effort required to participate in paper-based bidding disproportionately affect smaller, local, and minority/women-owned businesses (MBE/MWBE/SWaM), discouraging them from competing [3, 9]. Slow payment cycles further disadvantage these firms, which have less capital to absorb delays, making government contracts less appealing [3]."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
+  },
+  {
+   "id": "e:f31349f6e9e1",
+   "source": "n:proposal:parallel-research",
+   "target": "n:problem:deploying-ai-in-civic-engagement-presents-significant-risks-and-challenges-that-",
+   "type": "ADDRESSES",
+   "description": "Systemic identified by post-event research for this project",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+     "sourceLocation": "lines 178-178",
+     "excerpt": "Deploying AI in civic engagement presents significant risks and challenges that can undermine public trust and create inequities. A primary concern is the accuracy of AI-powered tools, as demonstrated by the NYC MyCity chatbot, which produced 'hallucinations' and confidently gave incorrect and even illegal advice, creating legal exposure and harming residents. This erodes public trust. Another major challenge is algorithmic bias, which can arise from the data used to train these systems. For instance, over-relying on 311 complaint data can reinforce existing inequalities, as complaint behavior is socio-spatially uneven, leading to resource misallocation that favors higher-resource neighborhoods. This is compounded by the digital divide; app-first or web-centric tools can exclude lower-income individuals, those with lower educational attainment, and the elderly, who are less likely to have home broadband and more likely to be smartphone-only users, making complex online tasks difficult. Furthermore, these tools often fail to meet accessibility standards (like WCAG 2.1 AA) and language access requirements (mandated by laws like Title VI and local ordinances), effectively excluding users with disabilities and residents with limited English proficiency. Trust is a further barrier, particularly for immigrant communities who may fear that their data could be used for immigration enforcement, leading to avoidance of essential services. Effective implementation requires robust governance, including clear accountability, sustained leadership to overcome inter-departmental resistance, and significant human-in-the-loop oversight to validate AI outputs and manage high-risk queries. Without addressing these technical, data, design, and governance challenges, AI tools risk failing their mission and harming the communities they are meant to serve."
+    }
+   ],
+   "extractedAt": "2026-08-02T10:51:43.138Z"
   }
  ],
  "financialFlows": []
