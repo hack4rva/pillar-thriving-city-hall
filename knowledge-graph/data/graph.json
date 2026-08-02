@@ -1,0 +1,840 @@
+{
+ "meta": {
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-02T10:11:50.916Z",
+  "repos": [
+   "pillar-thriving-city-hall"
+  ],
+  "pillarName": "A Thriving City Hall",
+  "shortName": "A Thriving City Hall",
+  "description": "Evidence and source graph for the A Thriving City Hall pillar, built from the repository's evidence log and source inventory. This corpus contains no financial dataset, so there is no funding layer.",
+  "counts": {
+   "nodes": 28,
+   "edges": 9,
+   "financialFlows": 0
+  }
+ },
+ "nodes": [
+  {
+   "id": "n:dataset:arcgis-richmond-layers",
+   "type": "Dataset",
+   "label": "ArcGIS Richmond Layers",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=9",
+     "excerpt": "ArcGIS Richmond Layers"
+    }
+   ],
+   "description": "Specific Richmond layer IDs need verification",
+   "attrs": {
+    "inventoryId": "9",
+    "owner": "",
+    "url": "https://www.arcgis.com/",
+    "urlRaw": "https://www.arcgis.com/",
+    "accessMode": "ArcGIS REST API",
+    "verificationStatus": "Needs verification",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:city-contracts-csv-full-download",
+   "type": "Dataset",
+   "label": "City Contracts CSV full download",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=3",
+     "excerpt": "City Contracts CSV full download"
+    }
+   ],
+   "description": "Use this instead of SODA API to get all columns",
+   "attrs": {
+    "inventoryId": "3",
+    "owner": "",
+    "url": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+    "urlRaw": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+    "accessMode": "Direct download",
+    "verificationStatus": "Yes",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:city-contracts-socrata-xqn7-jvv2",
+   "type": "Dataset",
+   "label": "City Contracts Socrata (xqn7-jvv2)",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=2",
+     "excerpt": "City Contracts Socrata (xqn7-jvv2)"
+    }
+   ],
+   "description": "API returns only 8 of 9 columns (known bug). Use CSV: data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+   "attrs": {
+    "inventoryId": "2",
+    "owner": "",
+    "url": "https://data.richmondgov.com/resource/xqn7-jvv2.json",
+    "urlRaw": "https://data.richmondgov.com/resource/xqn7-jvv2.json",
+    "accessMode": "SODA REST API (bug) or CSV download",
+    "verificationStatus": "Yes",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:eva-virginia-procurement",
+   "type": "Dataset",
+   "label": "eVA Virginia Procurement",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=5",
+     "excerpt": "eVA Virginia Procurement"
+    }
+   ],
+   "description": "Search data.virginia.gov for current eVA procurement CSV dataset",
+   "attrs": {
+    "inventoryId": "5",
+    "owner": "",
+    "url": "https://data.virginia.gov/",
+    "urlRaw": "https://data.virginia.gov/",
+    "accessMode": "Portal download",
+    "verificationStatus": "Needs verification",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:richmond-open-data-portal",
+   "type": "Dataset",
+   "label": "Richmond Open Data Portal",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=10",
+     "excerpt": "Richmond Open Data Portal"
+    }
+   ],
+   "description": "Primary open data portal for Richmond city datasets",
+   "attrs": {
+    "inventoryId": "10",
+    "owner": "",
+    "url": "https://data.richmondgov.com/",
+    "urlRaw": "https://data.richmondgov.com/",
+    "accessMode": "SODA REST API",
+    "verificationStatus": "Yes",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:rva-gov-drupal-search-api",
+   "type": "Dataset",
+   "label": "rva.gov Drupal Search API",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=7",
+     "excerpt": "rva.gov Drupal Search API"
+    }
+   ],
+   "description": "URL pattern: /search?search={query}&page={n}&f[0]=business_unit:{id}. Over 40 dept slugs.",
+   "attrs": {
+    "inventoryId": "7",
+    "owner": "",
+    "url": "https://www.rva.gov/search",
+    "urlRaw": "https://www.rva.gov/search",
+    "accessMode": "HTTP GET (Drupal Search API)",
+    "verificationStatus": "Needs verification",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:rva311-historical-socrata-vgg4-hjn8",
+   "type": "Dataset",
+   "label": "RVA311 Historical Socrata (vgg4-hjn8)",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=1",
+     "excerpt": "RVA311 Historical Socrata (vgg4-hjn8)"
+    }
+   ],
+   "description": "SeeClickFix era only: Jan 2014–Aug 2015. Current AvePoint platform has no public API.",
+   "attrs": {
+    "inventoryId": "1",
+    "owner": "",
+    "url": "https://data.richmondgov.com/resource/vgg4-hjn8.json",
+    "urlRaw": "https://data.richmondgov.com/resource/vgg4-hjn8.json",
+    "accessMode": "SODA REST API",
+    "verificationStatus": "Yes",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:sam-gov-api",
+   "type": "Dataset",
+   "label": "SAM.gov API",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=4",
+     "excerpt": "SAM.gov API"
+    }
+   ],
+   "description": "Register for free API key at sam.gov before hackathon",
+   "attrs": {
+    "inventoryId": "4",
+    "owner": "",
+    "url": "https://api.sam.gov/",
+    "urlRaw": "https://api.sam.gov/",
+    "accessMode": "REST API (free key required)",
+    "verificationStatus": "Needs verification",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:usaspending-gov-api",
+   "type": "Dataset",
+   "label": "USASpending.gov API",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=8",
+     "excerpt": "USASpending.gov API"
+    }
+   ],
+   "description": "No API key required for basic queries. Good for vendor spend history.",
+   "attrs": {
+    "inventoryId": "8",
+    "owner": "",
+    "url": "https://api.usaspending.gov/",
+    "urlRaw": "https://api.usaspending.gov/",
+    "accessMode": "REST API (no key required)",
+    "verificationStatus": "Yes",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:dataset:vita-statewide-contracts",
+   "type": "Dataset",
+   "label": "VITA Statewide Contracts",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "data/source_inventory.csv",
+     "sourceLocation": "row id=6",
+     "excerpt": "VITA Statewide Contracts"
+    }
+   ],
+   "description": "No API. Web-only access. No programmatic interface confirmed.",
+   "attrs": {
+    "inventoryId": "6",
+    "owner": "",
+    "url": "https://vita.cobblestonesystems.com/public/",
+    "urlRaw": "https://vita.cobblestonesystems.com/public/",
+    "accessMode": "Manual browse or scrape",
+    "verificationStatus": "Yes (web accessible)",
+    "keyFields": "",
+    "available": true
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-001",
+   "type": "Evidence",
+   "label": "E-001: RVA311 historical Socrata dataset (vgg4-hjn8) contains SeeClickFix …",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 9-9",
+     "excerpt": "RVA311 historical Socrata dataset (vgg4-hjn8) contains SeeClickFix data from Jan 2014–Aug 2015"
+    }
+   ],
+   "description": "RVA311 historical Socrata dataset (vgg4-hjn8) contains SeeClickFix data from Jan 2014–Aug 2015",
+   "attrs": {
+    "evidenceLogId": "E-001",
+    "logStatus": "likely",
+    "url": "https://data.richmondgov.com/d/vgg4-hjn8",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-002",
+   "type": "Evidence",
+   "label": "E-002: AvePoint Citizen Services (RVA311 current platform) has no public API",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 10-10",
+     "excerpt": "AvePoint Citizen Services (RVA311 current platform) has no public API"
+    }
+   ],
+   "description": "AvePoint Citizen Services (RVA311 current platform) has no public API",
+   "attrs": {
+    "evidenceLogId": "E-002",
+    "logStatus": "likely",
+    "url": "https://www.avepoint.com/case-studies/rva311",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-003",
+   "type": "Evidence",
+   "label": "E-003: RVA311 launched June 15, 2018 replacing SeeClickFix",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 11-11",
+     "excerpt": "RVA311 launched June 15, 2018 replacing SeeClickFix"
+    }
+   ],
+   "description": "RVA311 launched June 15, 2018 replacing SeeClickFix",
+   "attrs": {
+    "evidenceLogId": "E-003",
+    "logStatus": "unverified",
+    "url": null,
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-004",
+   "type": "Evidence",
+   "label": "E-004: 2025 RVA311 volume: 208,216 total requests",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 12-12",
+     "excerpt": "2025 RVA311 volume: 208,216 total requests"
+    }
+   ],
+   "description": "2025 RVA311 volume: 208,216 total requests",
+   "attrs": {
+    "evidenceLogId": "E-004",
+    "logStatus": "likely",
+    "url": "https://richmondva.legistar.com/View.ashx?GUID=C050E3F8-7CC4-4663-BA8F-362608460B56&ID=13777233&M=F",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-005",
+   "type": "Evidence",
+   "label": "E-005: rva.gov uses Drupal 8+ on Acquia, developed by Tech Dynamism",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 13-13",
+     "excerpt": "rva.gov uses Drupal 8+ on Acquia, developed by Tech Dynamism"
+    }
+   ],
+   "description": "rva.gov uses Drupal 8+ on Acquia, developed by Tech Dynamism",
+   "attrs": {
+    "evidenceLogId": "E-005",
+    "logStatus": "unverified",
+    "url": null,
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-006",
+   "type": "Evidence",
+   "label": "E-006: rva.gov search URL pattern: /search?search={query}&page={n}&f[0]=bu…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 14-14",
+     "excerpt": "rva.gov search URL pattern: /search?search={query}&page={n}&f[0]=business_unit:{id}"
+    }
+   ],
+   "description": "rva.gov search URL pattern: /search?search={query}&page={n}&f[0]=business_unit:{id}",
+   "attrs": {
+    "evidenceLogId": "E-006",
+    "logStatus": "likely",
+    "url": "https://www.rva.gov/?search=permits",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-007",
+   "type": "Evidence",
+   "label": "E-007: rva.gov supports 36 languages via Google Translate widget",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 15-15",
+     "excerpt": "rva.gov supports 36 languages via Google Translate widget"
+    }
+   ],
+   "description": "rva.gov supports 36 languages via Google Translate widget",
+   "attrs": {
+    "evidenceLogId": "E-007",
+    "logStatus": "unverified",
+    "url": null,
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-008",
+   "type": "Evidence",
+   "label": "E-008: City Contracts Socrata (xqn7-jvv2) SODA API returns only 8 of 9 col…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 16-16",
+     "excerpt": "City Contracts Socrata (xqn7-jvv2) SODA API returns only 8 of 9 columns (known bug)"
+    }
+   ],
+   "description": "City Contracts Socrata (xqn7-jvv2) SODA API returns only 8 of 9 columns (known bug)",
+   "attrs": {
+    "evidenceLogId": "E-008",
+    "logStatus": "likely",
+    "url": "https://data.richmondgov.com/Procurement/City-Contracts/xqn7-jvv2",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-009",
+   "type": "Evidence",
+   "label": "E-009: City Contracts CSV full download URL: data.richmondgov.com/api/view…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 17-17",
+     "excerpt": "City Contracts CSV full download URL: data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD"
+    }
+   ],
+   "description": "City Contracts CSV full download URL: data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+   "attrs": {
+    "evidenceLogId": "E-009",
+    "logStatus": "likely",
+    "url": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-010",
+   "type": "Evidence",
+   "label": "E-010: VITA statewide contracts at vita.cobblestonesystems.com/public/ — w…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 18-18",
+     "excerpt": "VITA statewide contracts at vita.cobblestonesystems.com/public/ — web only, no API"
+    }
+   ],
+   "description": "VITA statewide contracts at vita.cobblestonesystems.com/public/ — web only, no API",
+   "attrs": {
+    "evidenceLogId": "E-010",
+    "logStatus": "unverified",
+    "url": null,
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-011",
+   "type": "Evidence",
+   "label": "E-011: Pete Briel is Director of 311 at Richmond City",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 19-19",
+     "excerpt": "Pete Briel is Director of 311 at Richmond City"
+    }
+   ],
+   "description": "Pete Briel is Director of 311 at Richmond City",
+   "attrs": {
+    "evidenceLogId": "E-011",
+    "logStatus": "likely",
+    "url": "https://www.rva.gov/citizen-service-and-response",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-012",
+   "type": "Evidence",
+   "label": "E-012: Integration chain: Citizen → RVA311 (Dynamics 365) → Microsoft BizT…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 20-20",
+     "excerpt": "Integration chain: Citizen → RVA311 (Dynamics 365) → Microsoft BizTalk → Trimble Cityworks"
+    }
+   ],
+   "description": "Integration chain: Citizen → RVA311 (Dynamics 365) → Microsoft BizTalk → Trimble Cityworks",
+   "attrs": {
+    "evidenceLogId": "E-012",
+    "logStatus": "likely",
+    "url": "https://www.avepoint.com/case-studies/rva311",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-013",
+   "type": "Evidence",
+   "label": "E-013: RVA311 has ~50+ request types across 7 department groups",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 21-21",
+     "excerpt": "RVA311 has ~50+ request types across 7 department groups"
+    }
+   ],
+   "description": "RVA311 has ~50+ request types across 7 department groups",
+   "attrs": {
+    "evidenceLogId": "E-013",
+    "logStatus": "unverified",
+    "url": null,
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-014",
+   "type": "Evidence",
+   "label": "E-014: SAM.gov provides free API key with contract and debarment data",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 22-22",
+     "excerpt": "SAM.gov provides free API key with contract and debarment data"
+    }
+   ],
+   "description": "SAM.gov provides free API key with contract and debarment data",
+   "attrs": {
+    "evidenceLogId": "E-014",
+    "logStatus": "likely",
+    "url": "https://open.gsa.gov/api/entity-api/",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-015",
+   "type": "Evidence",
+   "label": "E-015: rva.gov uses Drupal Search API with Facets module",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 23-23",
+     "excerpt": "rva.gov uses Drupal Search API with Facets module"
+    }
+   ],
+   "description": "rva.gov uses Drupal Search API with Facets module",
+   "attrs": {
+    "evidenceLogId": "E-015",
+    "logStatus": "likely",
+    "url": "https://www.rva.gov/search?search=permits",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-016",
+   "type": "Evidence",
+   "label": "E-016: rva.gov publishes a sitemap.xml that can be used to discover all de…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 24-24",
+     "excerpt": "rva.gov publishes a sitemap.xml that can be used to discover all department and service pages"
+    }
+   ],
+   "description": "rva.gov publishes a sitemap.xml that can be used to discover all department and service pages",
+   "attrs": {
+    "evidenceLogId": "E-016",
+    "logStatus": "likely",
+    "url": "https://www.rva.gov/sitemap.xml",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-017",
+   "type": "Evidence",
+   "label": "E-017: There are over 40 department slugs accessible via the business_unit…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 25-25",
+     "excerpt": "There are over 40 department slugs accessible via the business_unit facet parameter in rva.gov search"
+    }
+   ],
+   "description": "There are over 40 department slugs accessible via the business_unit facet parameter in rva.gov search",
+   "attrs": {
+    "evidenceLogId": "E-017",
+    "logStatus": "likely",
+    "url": "https://www.rva.gov/?search=a",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "n:evidence:e-018",
+   "type": "Evidence",
+   "label": "E-018: Virginia eVA procurement data is available as a CSV download on dat…",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "reported_but_unverified",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 26-26",
+     "excerpt": "Virginia eVA procurement data is available as a CSV download on data.virginia.gov"
+    }
+   ],
+   "description": "Virginia eVA procurement data is available as a CSV download on data.virginia.gov",
+   "attrs": {
+    "evidenceLogId": "E-018",
+    "logStatus": "likely",
+    "url": "https://data.virginia.gov/dataset/570f4ddb-7dca-4e2f-a329-ffad0e295e7a",
+    "source": null
+   },
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e:00604c48d743",
+   "source": "n:evidence:e-016",
+   "target": "n:dataset:rva-gov-drupal-search-api",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 24-24",
+     "excerpt": "rva.gov publishes a sitemap.xml that can be used to discover all department and service pages"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:1980a269c81b",
+   "source": "n:evidence:e-006",
+   "target": "n:dataset:rva-gov-drupal-search-api",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 14-14",
+     "excerpt": "rva.gov search URL pattern: /search?search={query}&page={n}&f[0]=business_unit:{id}"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:44f3e54b844c",
+   "source": "n:evidence:e-008",
+   "target": "n:dataset:city-contracts-socrata-xqn7-jvv2",
+   "type": "SUPPORTED_BY",
+   "description": "Claim names the inventoried source \"City Contracts Socrata (xqn7-jvv2)\"",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 16-16",
+     "excerpt": "City Contracts Socrata (xqn7-jvv2) SODA API returns only 8 of 9 columns (known bug)"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:466da79adece",
+   "source": "n:evidence:e-010",
+   "target": "n:dataset:vita-statewide-contracts",
+   "type": "SUPPORTED_BY",
+   "description": "Claim names the inventoried source \"VITA Statewide Contracts\"",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "medium",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 18-18",
+     "excerpt": "VITA statewide contracts at vita.cobblestonesystems.com/public/ — web only, no API"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:54df54b7f1d0",
+   "source": "n:evidence:e-011",
+   "target": "n:dataset:rva-gov-drupal-search-api",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 19-19",
+     "excerpt": "Pete Briel is Director of 311 at Richmond City"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:7c300658add5",
+   "source": "n:evidence:e-017",
+   "target": "n:dataset:rva-gov-drupal-search-api",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 25-25",
+     "excerpt": "There are over 40 department slugs accessible via the business_unit facet parameter in rva.gov search"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:d21be1988e11",
+   "source": "n:evidence:e-009",
+   "target": "n:dataset:city-contracts-csv-full-download",
+   "type": "SUPPORTED_BY",
+   "description": "Claim and inventoried source share the URL https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "high",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 17-17",
+     "excerpt": "City Contracts CSV full download URL: data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:dbcd5bd172e5",
+   "source": "n:evidence:e-018",
+   "target": "n:dataset:eva-virginia-procurement",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites data.virginia.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 26-26",
+     "excerpt": "Virginia eVA procurement data is available as a CSV download on data.virginia.gov"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  },
+  {
+   "id": "e:eae1ed325c57",
+   "source": "n:evidence:e-015",
+   "target": "n:dataset:rva-gov-drupal-search-api",
+   "type": "ASSOCIATED_WITH",
+   "description": "Claim cites rva.gov, the same publisher domain as this inventoried source",
+   "repo": "pillar-thriving-city-hall",
+   "evidenceStatus": "documented",
+   "confidence": "low",
+   "provenance": [
+    {
+     "sourceDoc": "admin/evidence_log.md",
+     "sourceLocation": "lines 23-23",
+     "excerpt": "rva.gov uses Drupal Search API with Facets module"
+    }
+   ],
+   "extractedAt": "2026-08-02T10:11:50.916Z"
+  }
+ ],
+ "financialFlows": []
+}
