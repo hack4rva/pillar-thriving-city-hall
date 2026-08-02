@@ -1,9 +1,13 @@
 {
- "generatedAt": "2026-08-02T10:51:43.138Z",
+ "generatedAt": "2026-08-02T14:50:53.708Z",
  "repo": "pillar-thriving-city-hall",
  "filesExamined": [
   "admin/evidence_log.md",
-  "data/source_inventory.csv"
+  "data/source_inventory.csv",
+  "post-event-research/_parallel-research/procurement-q1-regional.md",
+  "post-event-research/_parallel-research/procurement-q3-equity.md",
+  "post-event-research/_parallel-research/svc-nav-q2-data.md",
+  "post-event-research/_parallel-research/svc-nav-q3-equity.md"
  ],
  "provenanceVerification": {
   "exact": 0,
