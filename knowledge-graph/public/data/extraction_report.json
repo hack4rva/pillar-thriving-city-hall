@@ -1,11 +1,13 @@
 {
- "generatedAt": "2026-08-02T23:12:26.351Z",
+ "generatedAt": "2026-08-03T01:24:07.866Z",
  "repo": "pillar-thriving-city-hall",
  "filesExamined": [
   "admin/evidence_log.md",
   "data/source_inventory.csv",
   "post-event-research/_parallel-research/procurement-q1-regional.md",
+  "post-event-research/_parallel-research/procurement-q3-equity.md",
   "post-event-research/_parallel-research/svc-nav-q2-data.md",
+  "post-event-research/_parallel-research/svc-nav-q3-equity.md",
   "research/00_pillar_summary_context.md",
   "research/90_top_10_research_questions.md",
   "research/91_top_10_hypotheses_to_test.md",
@@ -110,12 +112,12 @@
   "external": 0
  },
  "warnings": [
-  "[demote] 8 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[demote] 9 sentence-shaped Problem/Need nodes moved to the evidence layer",
   "[corpus] dropped 0 stale-anchor, 107 unresolved-endpoint, 0 not-an-organization and 108 not-a-name records"
  ],
  "metrics": {
-  "totalNodes": 831,
-  "totalEdges": 2034,
+  "totalNodes": 833,
+  "totalEdges": 2033,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -134,11 +136,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 432,
+  "reportedButUnverifiedRelationships": 431,
   "brokenReferences": 0,
-  "duplicateCandidates": 36,
-  "reviewQueueSize": 36,
-  "evidenceRecords": 667,
+  "duplicateCandidates": 21,
+  "reviewQueueSize": 21,
+  "evidenceRecords": 668,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,

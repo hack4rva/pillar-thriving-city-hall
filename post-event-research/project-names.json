@@ -1,0 +1,34 @@
+{
+  "city-activity-transparency-system": {
+    "name": "City Activity Transparency System",
+    "fullTitle": "City Activity Transparency System"
+  },
+  "civicpulse-ai": {
+    "name": "CivicPulse AI",
+    "fullTitle": "CivicPulse AI — Smart Procurement Intelligence Hub"
+  },
+  "hey804": {
+    "name": "Hey804",
+    "fullTitle": "Hey804 — One Front Door to City Hall"
+  },
+  "mira": {
+    "name": "Mira",
+    "fullTitle": "Mira — AI Procurement Intelligence Dashboard"
+  },
+  "rva-contract-lens": {
+    "name": "RVA Contract Lens",
+    "fullTitle": "RVA Contract Lens — Federated AI Procurement Intelligence"
+  },
+  "rva-help": {
+    "name": "RVA Help",
+    "fullTitle": "RVA Help — AI-Assisted 311 Request System"
+  },
+  "text-311": {
+    "name": "Text 311",
+    "fullTitle": "Text 311"
+  },
+  "vendor-contract-mgmt": {
+    "name": "Vendor & Contract Management Web App",
+    "fullTitle": "Vendor & Contract Management Web App"
+  }
+}

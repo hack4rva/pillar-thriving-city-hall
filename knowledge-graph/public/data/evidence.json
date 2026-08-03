@@ -11483,6 +11483,27 @@
  },
  {
   "id": "ev:P-4",
+  "claim": "The dataset is a static, historical sample and is not updated with current information. The official update frequency is listed as 'Manual'. — Impact: The data is over a decade old and does not reflect current 311 operations, service request types, or departmental performance. It is unsuitable for real-time analysis, trend monitoring, or integration with current city service systems. Its utility is limited to historical research of the 2014-2015 period.",
+  "status": "unverified",
+  "source": "post-event research",
+  "url": null,
+  "repo": "pillar-thriving-city-hall",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+    "sourceLocation": "lines 222-222",
+    "excerpt": "The dataset is a static, historical sample and is not updated with current information. The official update frequency is listed as 'Manual'."
+   },
+   {
+    "sourceDoc": "https://data.richmondgov.com/d/vgg4-hjn8",
+    "sourceLocation": "cited in post-event research",
+    "excerpt": "Data Last Updated\nSeptember 2, 2015"
+   }
+  ],
+  "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
+ },
+ {
+  "id": "ev:P-5",
   "claim": "The primary reasons civic tech solutions fail and the main barriers to their adoption are multifaceted, spanning technical, data, design, governance, and trust issues.\n\n*   **Technical Failures and Unreliability**: AI-powered tools have demonstrated significant reliability issues. The most notable example is NYC's MyCity chatbot, which 'hallucinated' and provided users with confident but incorrect and even unlawful guidance, such as advising businesses to break labor laws. This illustrates risks of inadequate authoritative grounding, insufficient guardrails, and a lack of human review, ultimately leading to legal exposure and reputational damage.\n*   **Data Bias**: A core failure mode is the over-reliance on resident-initiated 311 complaint data as a proxy for community need. Research shows this data is not neutral; complaint behavior is socio-spatially uneven, with higher-resource, more",
   "status": "unverified",
   "source": "post-event research",
@@ -11513,8 +11534,8 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-5",
-  "claim": "A significant gap in home broadband access exists, disproportionately affecting lower-income households. According to a 2021 analysis, approximately 43% of adults with lower incomes do not have home broadband services. This lack of reliable, high-speed internet at home creates a major barrier to accessing online government services, which often require stable connections for complex applications or information retrieval.",
+  "id": "ev:P-6",
+  "claim": "Disparities persist in the ownership of desktop or laptop computers, which are often better suited for complex tasks like filling out forms or accessing detailed information than smartphones. A 2021 study found that 41% of adults with lower incomes do not own a desktop or laptop computer. This 'device gap' means a substantial portion of the population may be unable to effectively use civic tech platforms that are not designed with a mobile-first, simplified interface.",
   "status": "unverified",
   "source": "post-event research",
   "url": null,
@@ -11523,7 +11544,7 @@
    {
     "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
     "sourceLocation": "lines 28-28",
-    "excerpt": "A significant gap in home broadband access exists, disproportionately affecting lower-income households. According to a 2021 analysis, approximately 43% of adults with lower incomes do not have home broadband services. This lack of reliable, high-speed internet at home creates a major barrier to accessing online government services, which often require stable connections for complex applications or information retrieval."
+    "excerpt": "Disparities persist in the ownership of desktop or laptop computers, which are often better suited for complex tasks like filling out forms or accessing detailed information than smartphones. A 2021 study found that 41% of adults with lower incomes do not own a desktop or laptop computer. This 'device gap' means a substantial portion of the population may be unable to effectively use civic tech platforms that are not designed with a mobile-first, simplified interface."
    },
    {
     "sourceDoc": "https://www.pewresearch.org/short-reads/2021/06/22/digital-divide-persists-even-as-americans-with-lower-incomes-make-gains-in-tech-adoption/",
@@ -11544,7 +11565,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-6",
+  "id": "ev:P-7",
   "claim": "Residents with Limited English Proficiency (LEP) encounter substantial barriers when trying to access civic services, largely due to inadequate language support in both traditional and digital channels. A primary challenge is the inconsistent or complete lack of translation for vital documents and interpretation services, which persists despite legal mandates requiring them. This gap between policy and practice effectively blocks LEP individuals from understanding and obtaining necessary services. The increasing reliance on digital and mobile-first solutions, such as 311 apps, exacerbates this exclusion. These platforms are often designed with an 'English-centric' approach, favoring tech-savvy, native-language speakers and failing to provide multilingual entry points or content. Common design failures include text-heavy interfaces that are difficult for users with low literacy to navigat",
   "status": "unverified",
   "source": "post-event research",
@@ -11575,7 +11596,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-7",
+  "id": "ev:P-8",
   "claim": "A significant trust barrier for immigrant communities is the fear that personal information provided to access city services could be shared with federal immigration enforcement agencies. This concern discourages engagement with government digital portals and services, as individuals worry that their data might be used against them or their families in immigration proceedings. Building trust requires clear data use limitations and explicit policies against sharing information for immigration enforcement purposes.",
   "status": "unverified",
   "source": "post-event research",
@@ -11606,7 +11627,7 @@
   "notes": "Recorded as a problem statement in post-event research. Held as a claim rather than an entity because it is phrased as a finding."
  },
  {
-  "id": "ev:P-8",
+  "id": "ev:P-9",
   "claim": "Deploying AI in civic engagement presents significant risks and challenges that can undermine public trust and create inequities. A primary concern is the accuracy of AI-powered tools, as demonstrated by the NYC MyCity chatbot, which produced 'hallucinations' and confidently gave incorrect and even illegal advice, creating legal exposure and harming residents. This erodes public trust. Another major challenge is algorithmic bias, which can arise from the data used to train these systems. For instance, over-relying on 311 complaint data can reinforce existing inequalities, as complaint behavior is socio-spatially uneven, leading to resource misallocation that favors higher-resource neighborhoods. This is compounded by the digital divide; app-first or web-centric tools can exclude lower-income individuals, those with lower educational attainment, and the elderly, who are less likely to hav",
   "status": "unverified",
   "source": "post-event research",

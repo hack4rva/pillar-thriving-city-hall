@@ -20,7 +20,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:constituentgroup:city-hall-persona",
@@ -54,7 +54,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:constituentgroup:pete-breil",
@@ -76,7 +76,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:constituentgroup:public-information-officers",
@@ -127,7 +127,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:constituentgroup:richmond-city-staff",
@@ -161,7 +161,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:contract:munis-contract",
@@ -195,7 +195,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:contract:tyler-munis-agreement",
@@ -229,7 +229,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:contract:vita-statewide-contracts",
@@ -255,7 +255,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:18f-de-risking-government-technology-guide",
@@ -306,7 +306,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:2014-dataset",
@@ -336,7 +336,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:2016-audit",
@@ -367,7 +367,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:2023-american-community-survey-acs-5-year-estimates",
@@ -393,7 +393,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:2026-community-survey",
@@ -428,7 +428,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:311-cases-by-category-request-type",
@@ -451,7 +451,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:311-service-requests",
@@ -501,7 +501,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:about-rva311",
@@ -524,7 +524,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:api-catalog",
@@ -550,7 +550,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:api-field-names",
@@ -573,7 +573,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:arcgis-richmond-layers",
@@ -599,7 +599,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:census-data",
@@ -625,7 +625,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:chicago-s-2026-oig-audit",
@@ -648,7 +648,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-awards",
@@ -671,7 +671,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-budget-general-fund",
@@ -694,7 +694,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-contracts-csv-full-download",
@@ -720,7 +720,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-contracts-data",
@@ -762,7 +762,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-contracts-dataset",
@@ -814,7 +814,7 @@
    "claimCount": 14,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-contracts-socrata-dataset",
@@ -853,7 +853,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-contracts-socrata-xqn7-jvv2",
@@ -879,7 +879,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-odata",
@@ -921,7 +921,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-of-richmond-online-permit-portal-user-guide",
@@ -944,7 +944,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-of-richmond-s-open-socrata-datasets",
@@ -970,7 +970,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-s-open-data-portal",
@@ -1012,7 +1012,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:city-s-racial-and-social-equity-index",
@@ -1038,7 +1038,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:civicplus-roi",
@@ -1061,7 +1061,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:ckan",
@@ -1084,7 +1084,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:cobblestone-rest-docs",
@@ -1107,7 +1107,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:computed-region-m85f-c8dc",
@@ -1138,7 +1138,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:computed-region-mcva-69mv",
@@ -1169,7 +1169,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:contract-awards-api",
@@ -1192,7 +1192,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:contracts-api",
@@ -1235,7 +1235,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:councildistrict",
@@ -1258,7 +1258,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:css-api-2-0",
@@ -1281,7 +1281,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:csv-export",
@@ -1307,7 +1307,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:current-contract-list",
@@ -1330,7 +1330,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:data-dictionary",
@@ -1372,7 +1372,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:datasf",
@@ -1411,7 +1411,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:devpost-judging-criteria",
@@ -1444,7 +1444,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:digital-cities-survey",
@@ -1470,7 +1470,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:duns",
@@ -1493,7 +1493,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:dynamodb",
@@ -1516,7 +1516,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:entity-management-api",
@@ -1559,7 +1559,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva",
@@ -1611,7 +1611,7 @@
    "claimCount": 10,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-2024-dataset",
@@ -1654,7 +1654,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-portal",
@@ -1685,7 +1685,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-procurement",
@@ -1711,7 +1711,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-procurement-data-2024-virginia",
@@ -1753,7 +1753,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-procurement-data-for-2024",
@@ -1779,7 +1779,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-public-apis",
@@ -1813,7 +1813,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:eva-virginia-procurement",
@@ -1839,7 +1839,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:excluded-parties-list-system",
@@ -1865,7 +1865,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:exclusions-api-v4",
@@ -1916,7 +1916,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:floating-timestamps",
@@ -1939,7 +1939,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:gds-4-kpis",
@@ -1968,7 +1968,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:gestisoft-311-crm-explainer",
@@ -1991,7 +1991,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:get-opportunities-api",
@@ -2014,7 +2014,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:helpful-numbers-guide",
@@ -2040,7 +2040,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:id3-decision-tree-algorithm",
@@ -2091,7 +2091,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:llm-extraction",
@@ -2117,7 +2117,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:munis-audit",
@@ -2143,7 +2143,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:naics",
@@ -2174,7 +2174,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:neighborhood",
@@ -2213,7 +2213,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:nist-ai-risk-management-framework",
@@ -2247,7 +2247,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:nyc-s-24m-row-dataset",
@@ -2281,7 +2281,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:oem-digital-government-index",
@@ -2307,7 +2307,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:omb-trust-metrics",
@@ -2333,7 +2333,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:open-data-portal",
@@ -2384,7 +2384,7 @@
    "claimCount": 9,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:open-procure",
@@ -2407,7 +2407,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:open311-api",
@@ -2450,7 +2450,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:open311-data-structures",
@@ -2473,7 +2473,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:open311-reports",
@@ -2496,7 +2496,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:opengov-award-metadata",
@@ -2519,7 +2519,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:payment-register",
@@ -2553,7 +2553,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:payment-register-fy16",
@@ -2576,7 +2576,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:peoplesoft-system",
@@ -2610,7 +2610,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:philly-controller-audit",
@@ -2633,7 +2633,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:property-search-database",
@@ -2656,7 +2656,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:psc-codes",
@@ -2682,7 +2682,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rating",
@@ -2713,7 +2713,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:reporterdisplayname",
@@ -2736,7 +2736,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:request-catalog",
@@ -2762,7 +2762,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:requesttypeanswers",
@@ -2793,7 +2793,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rest-api",
@@ -2828,7 +2828,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:richmond-open-data-portal",
@@ -2854,7 +2854,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:richmond-s-official-city-contracts-dataset",
@@ -2903,7 +2903,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:richmond-s-open-data-portal",
@@ -2946,7 +2946,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-311-dataset",
@@ -2987,7 +2987,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov",
@@ -3040,7 +3040,7 @@
    "claimCount": 34,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-911-page",
@@ -3066,7 +3066,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-about-rva-311-page",
@@ -3092,7 +3092,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-drupal-search-api",
@@ -3118,7 +3118,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-internal-search",
@@ -3152,7 +3152,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-service-pages",
@@ -3196,7 +3196,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva-gov-sitemap-structure",
@@ -3219,7 +3219,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva311-api",
@@ -3245,7 +3245,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva311-com",
@@ -3271,7 +3271,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva311-historical-socrata-dataset",
@@ -3322,7 +3322,7 @@
    "claimCount": 10,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva311-historical-socrata-vgg4-hjn8",
@@ -3348,7 +3348,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:rva311-public-api",
@@ -3371,7 +3371,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-entity-exclusions-extracts-download-api",
@@ -3397,7 +3397,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-exclusions",
@@ -3420,7 +3420,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-gov-api",
@@ -3446,7 +3446,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-gov-apis",
@@ -3489,7 +3489,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-gov-get-opportunities-public-api",
@@ -3515,7 +3515,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sam-gov-training-materials",
@@ -3538,7 +3538,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:sector",
@@ -3561,7 +3561,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:seeclickfix",
@@ -3610,7 +3610,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:seeclickfix-dataset",
@@ -3636,7 +3636,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:seeclickfix-era-311-requests",
@@ -3662,7 +3662,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:service-definition",
@@ -3685,7 +3685,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:service-list",
@@ -3708,7 +3708,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:single-audit",
@@ -3739,7 +3739,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:socrata-311-dataset",
@@ -3762,7 +3762,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:socrata-api",
@@ -3788,7 +3788,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:socrata-datasets",
@@ -3840,7 +3840,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:socrata-odata",
@@ -3875,7 +3875,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:socrata-records",
@@ -3906,7 +3906,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:soda-api",
@@ -3945,7 +3945,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:spot-referral-report",
@@ -3968,7 +3968,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:standard-location-object",
@@ -3999,7 +3999,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:supplier-contracts-dataset",
@@ -4034,7 +4034,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:system-for-award-management-sam",
@@ -4085,7 +4085,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:tf-idf-paired-with-svm",
@@ -4111,7 +4111,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:the-rva-gov-website",
@@ -4145,7 +4145,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:twitter-reports",
@@ -4168,7 +4168,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:uei",
@@ -4191,7 +4191,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:unique-entity-identifier-uei",
@@ -4217,7 +4217,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:unique-entity-identifiers",
@@ -4251,7 +4251,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:usaspending",
@@ -4298,7 +4298,7 @@
    "claimCount": 7,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:usaspending-gov-api",
@@ -4324,7 +4324,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:usds-playbook",
@@ -4347,7 +4347,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:vita-cobblestone",
@@ -4398,7 +4398,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:vita-statewide-contract-data",
@@ -4440,7 +4440,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:dataset:vita-statewide-contracts",
@@ -4466,7 +4466,7 @@
    "keyFields": "",
    "available": true
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-001",
@@ -4488,7 +4488,7 @@
    "url": "https://data.richmondgov.com/d/vgg4-hjn8",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-002",
@@ -4510,7 +4510,7 @@
    "url": "https://www.avepoint.com/case-studies/rva311",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-003",
@@ -4532,7 +4532,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-004",
@@ -4554,7 +4554,7 @@
    "url": "https://richmondva.legistar.com/View.ashx?GUID=C050E3F8-7CC4-4663-BA8F-362608460B56&ID=13777233&M=F",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-005",
@@ -4576,7 +4576,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-006",
@@ -4598,7 +4598,7 @@
    "url": "https://www.rva.gov/?search=permits",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-007",
@@ -4620,7 +4620,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-008",
@@ -4642,7 +4642,7 @@
    "url": "https://data.richmondgov.com/Procurement/City-Contracts/xqn7-jvv2",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-009",
@@ -4664,7 +4664,7 @@
    "url": "https://data.richmondgov.com/api/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-010",
@@ -4686,7 +4686,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-011",
@@ -4708,7 +4708,7 @@
    "url": "https://www.rva.gov/citizen-service-and-response",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-012",
@@ -4730,7 +4730,7 @@
    "url": "https://www.avepoint.com/case-studies/rva311",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-013",
@@ -4752,7 +4752,7 @@
    "url": null,
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-014",
@@ -4774,7 +4774,7 @@
    "url": "https://open.gsa.gov/api/entity-api/",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-015",
@@ -4796,7 +4796,7 @@
    "url": "https://www.rva.gov/search?search=permits",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-016",
@@ -4818,7 +4818,7 @@
    "url": "https://www.rva.gov/sitemap.xml",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-017",
@@ -4840,7 +4840,7 @@
    "url": "https://www.rva.gov/?search=a",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:evidence:e-018",
@@ -4862,7 +4862,87 @@
    "url": "https://data.virginia.gov/dataset/570f4ddb-7dca-4e2f-a329-ffad0e295e7a",
    "source": null
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
+ },
+ {
+  "id": "n:evidence:parallel-research-procurement-q1-regional",
+  "type": "Evidence",
+  "label": "Procurement Q1 Regional",
+  "repo": "pillar-thriving-city-hall",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/_parallel-research/procurement-q1-regional.md",
+    "sourceLocation": "lines 1-1",
+    "excerpt": "The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized b"
+   }
+  ],
+  "description": "Post-event research report (_parallel-research/procurement-q1-regional.md). The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized by the adoption of dedicated e-procurement portals for managing solicitations and vendor relationships. Platforms such as OpenGov, Bonfire (Euna), and Workday are prevalent, supplemented by city-specific portals like New Orleans' BRASS system. A significant and universal finding is the absence of technology designed to help staff identify and validate contracts across different jurisdictions (city, state, federal). There is no public evidence that any of these cities have implemented AI-powered contract analysis, OCR-based data extraction, or procurement intelligence dashboards for aggregating external contract sources. While most cities offer some level of searchability for their own contracts, these functions are confined to their internal systems. Vendor compliance checking is addressed in a minority of cases through specialized third-party systems like B2Gnow (used by Richmond and Baltimore), indicating that this function is often separate from the core procurement platform. All identified systems are currently live and operational.",
+  "attrs": {
+   "origin": "post-event research",
+   "report": "_parallel-research/procurement-q1-regional.md"
+  },
+  "extractedAt": "2026-08-03T01:24:07.866Z"
+ },
+ {
+  "id": "n:evidence:parallel-research-procurement-q3-equity",
+  "type": "Evidence",
+  "label": "Procurement Q3 Equity",
+  "repo": "pillar-thriving-city-hall",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/_parallel-research/procurement-q3-equity.md",
+    "sourceLocation": "lines 1-1",
+    "excerpt": "Civic technology solutions for government procurement face significant documented challenges, including common failure modes, substantial barriers to adoption, and persistent equity gaps. A primary fa"
+   }
+  ],
+  "description": "Post-event research report (_parallel-research/procurement-q3-equity.md). Civic technology solutions for government procurement face significant documented challenges, including common failure modes, substantial barriers to adoption, and persistent equity gaps. A primary failure mode is the tendency to simply “digitalize paper” without simplifying underlying processes, leading to projects with cost overruns, delays, and low adoption. The effectiveness of AI and automated analytics is severely constrained by poor data quality, a lack of data standards, and reliance on free-text fields. Vendor lock-in presents a major risk, exacerbated by proprietary data formats, limited APIs, and non-competitive procurement practices like 'piggybacking,' which reduce a government's leverage and ability to ensure performance and transparency. Adoption is further hindered by staff-level barriers, including resistance to change, fear of job displacement, risk aversion, and a lack of digital skills to oversee complex AI systems. Systemic and organizational barriers are also pervasive, including siloed procurement offices, outdated legacy infrastructure, and a lack of interoperability standards. These issues disproportionately impact small, minority, and women-owned businesses (MBE/MWBE/SWaM), who already face inequities from opaque processes and slow payment cycles. Opportunities for success lie in adopting open standards, pursuing modular e-procurement architectures, ensuring robust data governance, and intentionally designing for equity. Successful implementations, like Ukraine's Prozorro system, demonstrate that automated monitoring can work when built on quality data and continuous refinement, while cautionary cases highlight the need for user-centered design and strong contractual safeguards.",
+  "attrs": {
+   "origin": "post-event research",
+   "report": "_parallel-research/procurement-q3-equity.md"
+  },
+  "extractedAt": "2026-08-03T01:24:07.866Z"
+ },
+ {
+  "id": "n:evidence:parallel-research-svc-nav-q2-data",
+  "type": "Evidence",
+  "label": "Service Navigation Q2 Data",
+  "repo": "pillar-thriving-city-hall",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
+    "sourceLocation": "lines 1-1",
+    "excerpt": "Public data sources in Richmond, Virginia, for resident service navigation are centered around the operational RVA311 system and the city's primary website, RVA.gov. The main channel for submitting an"
+   }
+  ],
+  "description": "Post-event research report (_parallel-research/svc-nav-q2-data.md). Public data sources in Richmond, Virginia, for resident service navigation are centered around the operational RVA311 system and the city's primary website, RVA.gov. The main channel for submitting and tracking service requests is the RVA311 portal and its associated mobile apps, which function as a real-time operational system but do not offer a public developer API for third-party integration. The city's Open Data Portal (data.richmondgov.com), built on the Socrata platform, hosts only one relevant but legacy dataset: a sample of SeeClickFix reports from 2014-2015, which is not current. The RVA.gov website itself serves as the city's service catalog and department directory, organizing services by category and providing contact information. There is no public documentation indicating the use of an Open311-compatible API or identifying the specific CRM platform vendor for the current RVA311 system.",
+  "attrs": {
+   "origin": "post-event research",
+   "report": "_parallel-research/svc-nav-q2-data.md"
+  },
+  "extractedAt": "2026-08-03T01:24:07.866Z"
+ },
+ {
+  "id": "n:evidence:parallel-research-svc-nav-q3-equity",
+  "type": "Evidence",
+  "label": "Service Navigation Q3 Equity",
+  "repo": "pillar-thriving-city-hall",
+  "evidenceStatus": "reported_but_unverified",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/_parallel-research/svc-nav-q3-equity.md",
+    "sourceLocation": "lines 1-1",
+    "excerpt": "Civic technology solutions designed to help residents navigate city government services face significant documented failure modes, adoption barriers, and equity gaps. A prominent failure is the unreli"
+   }
+  ],
+  "description": "Post-event research report (_parallel-research/svc-nav-q3-equity.md). Civic technology solutions designed to help residents navigate city government services face significant documented failure modes, adoption barriers, and equity gaps. A prominent failure is the unreliability of AI chatbots, exemplified by New York City's MyCity bot, which provided incorrect and unlawful guidance, eroding public trust and leading to its termination. A fundamental barrier is the over-reliance on resident-reported 311 data, which is socio-spatially biased and risks misallocating resources to more engaged, higher-resource neighborhoods while underserving areas with greater objective need. Widespread adoption is further hindered by significant equity gaps rooted in the digital divide; app-first and web-based tools often exclude lower-income households with no home broadband, smartphone-only users, the elderly, and people with disabilities who require accessible design. Furthermore, residents with limited English proficiency (LEP) are frequently left behind due to inadequate translation and interpretation services, despite legal mandates under federal Title VI and various local laws. Trust is another major barrier, particularly for immigrant communities who may avoid digital government portals due to fears of data sharing and potential immigration consequences, creating a 'chilling effect' on service access.",
+  "attrs": {
+   "origin": "post-event research",
+   "report": "_parallel-research/svc-nav-q3-equity.md"
+  },
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:fund:14-000-prize-pool",
@@ -4888,7 +4968,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:fund:water-crisis-recovery-fund",
@@ -4911,7 +4991,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:alexandria",
@@ -4942,7 +5022,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:baltimore",
@@ -4965,7 +5045,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:boston",
@@ -4988,7 +5068,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:california",
@@ -5011,7 +5091,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:chesterfield",
@@ -5034,7 +5114,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:chicago",
@@ -5081,7 +5161,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:city-of-austin",
@@ -5115,7 +5195,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:city-of-dallas",
@@ -5149,7 +5229,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:city-of-seattle",
@@ -5199,7 +5279,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:city-office",
@@ -5222,7 +5302,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:city-wide",
@@ -5245,7 +5325,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:denver",
@@ -5268,7 +5348,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:grtc-pulse-stations",
@@ -5294,7 +5374,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:henrico",
@@ -5317,7 +5397,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:houston",
@@ -5340,7 +5420,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:kansas-city",
@@ -5363,7 +5443,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:louisiana",
@@ -5386,7 +5466,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:minneapolis",
@@ -5425,7 +5505,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:new-york",
@@ -5459,7 +5539,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:new-york-city",
@@ -5509,7 +5589,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:newport-news",
@@ -5532,7 +5612,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:norfolk",
@@ -5563,7 +5643,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:nyc",
@@ -5613,7 +5693,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:opelika-al",
@@ -5639,7 +5719,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:richmond",
@@ -5691,7 +5771,7 @@
    "claimCount": 37,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:san-antonio",
@@ -5714,7 +5794,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:san-diego",
@@ -5745,7 +5825,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:san-francisco",
@@ -5795,7 +5875,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:state-of-colorado",
@@ -5821,7 +5901,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:united-states",
@@ -5847,7 +5927,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:geographicregion:virginia-beach",
@@ -5870,7 +5950,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:assessor-of-real-estate",
@@ -5893,7 +5973,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:behavior-detection-officers",
@@ -5927,7 +6007,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:cdc",
@@ -5953,7 +6033,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:citizen-service-response",
@@ -5976,7 +6056,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:city-auditor",
@@ -6028,7 +6108,7 @@
    "claimCount": 7,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:city-auditor-s-reports-page",
@@ -6051,7 +6131,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:city-it",
@@ -6074,7 +6154,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:city-of-richmond",
@@ -6129,7 +6209,7 @@
    "claimCount": 97,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:city-s-finance-division",
@@ -6179,7 +6259,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:code-enforcement",
@@ -6201,7 +6281,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-citizen-service-and-response",
@@ -6243,7 +6323,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-justice",
@@ -6269,7 +6349,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-procurement",
@@ -6316,7 +6396,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-procurement-services",
@@ -6350,7 +6430,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-public-utilities",
@@ -6400,7 +6480,7 @@
    "claimCount": 9,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:department-of-public-works",
@@ -6450,7 +6530,7 @@
    "claimCount": 14,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:deputy-chief-administrative-officer",
@@ -6473,7 +6553,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:director-of-procurement-services",
@@ -6496,7 +6576,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:dot",
@@ -6522,7 +6602,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:fcc",
@@ -6545,7 +6625,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:federal-agencies",
@@ -6568,7 +6648,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:fema",
@@ -6599,7 +6679,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:finance",
@@ -6630,7 +6710,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:finance-and-administration-portfolio",
@@ -6661,7 +6741,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:finance-and-revenue",
@@ -6684,7 +6764,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:government-accountability-office",
@@ -6718,7 +6798,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:gsa",
@@ -6769,7 +6849,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:mayor-s-office",
@@ -6792,7 +6872,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:ministry-for-housing-communities-and-local-government",
@@ -6815,7 +6895,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:new-york-city-comptroller-s-office",
@@ -6841,7 +6921,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:office-of-information-technology",
@@ -6875,7 +6955,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:office-of-inspector-general",
@@ -6901,7 +6981,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:office-of-strategic-communications",
@@ -6943,7 +7023,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:office-of-the-city-auditor",
@@ -6994,7 +7074,7 @@
    "claimCount": 9,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:patent-trial-and-appeal-board",
@@ -7036,7 +7116,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:planning-and-development",
@@ -7067,7 +7147,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:planning-and-development-review",
@@ -7090,7 +7170,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:police",
@@ -7129,7 +7209,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:procurement-services",
@@ -7163,7 +7243,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:public-utilities",
@@ -7210,7 +7290,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:public-works",
@@ -7260,7 +7340,7 @@
    "claimCount": 8,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:richmond-city-council-legistar",
@@ -7286,7 +7366,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:sam-gov",
@@ -7339,7 +7419,7 @@
    "claimCount": 27,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:san-francisco-controller-s-office",
@@ -7365,7 +7445,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:sba",
@@ -7391,7 +7471,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:social-services",
@@ -7438,7 +7518,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:stormwater-mgmt",
@@ -7463,7 +7543,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:technology-services",
@@ -7486,7 +7566,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:transportation-security-administration",
@@ -7520,7 +7600,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:uk-government-digital-service",
@@ -7546,7 +7626,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:us-office-of-management-and-budget",
@@ -7596,7 +7676,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:virginia-information-technologies-agency",
@@ -7646,7 +7726,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:virginia-open-data-portal",
@@ -7688,7 +7768,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:virginia-s-department-of-general-services",
@@ -7714,7 +7794,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:governmentagency:vita",
@@ -7764,7 +7844,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislation:article-viii-of-the-city-code",
@@ -7790,7 +7870,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislation:city-code-chapter-21",
@@ -7813,7 +7893,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislation:plain-writing-act-of-2010",
@@ -7844,7 +7924,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislation:title-vi",
@@ -7867,7 +7947,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislation:virginia-public-procurement-act",
@@ -7918,7 +7998,7 @@
    "claimCount": 12,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:legislativebody:city-council",
@@ -7968,7 +8048,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:nonprofit:american-civil-liberties-union",
@@ -8002,7 +8082,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:nonprofit:code-for-america",
@@ -8041,7 +8121,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:211virginia",
@@ -8064,7 +8144,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:acquia",
@@ -8110,7 +8190,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:amazon-kendra",
@@ -8133,7 +8213,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:avepoint",
@@ -8163,7 +8243,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:avepoint-citizen-services-on-dynamics-365",
@@ -8205,7 +8285,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:avepoint-public-sector-inc",
@@ -8227,7 +8307,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:azure-cognitive-search",
@@ -8250,7 +8330,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:carahsoft",
@@ -8280,7 +8360,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:center-for-digital-government",
@@ -8306,7 +8386,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:city-authority",
@@ -8332,7 +8412,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:city-partners",
@@ -8355,7 +8435,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:cloudflare",
@@ -8386,7 +8466,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:digital-gov",
@@ -8409,7 +8489,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:dominion-energy",
@@ -8440,7 +8520,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:ferguson-enterprises-inc",
@@ -8463,7 +8543,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:ferguson-us-holdings-inc",
@@ -8486,7 +8566,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:github",
@@ -8517,7 +8597,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:government-finance-officers-association",
@@ -8543,7 +8623,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:govex",
@@ -8566,7 +8646,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:granicus-legistar",
@@ -8605,7 +8685,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:grtc",
@@ -8639,7 +8719,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:it",
@@ -8662,7 +8742,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:lumin8-technologies-services-llc",
@@ -8685,7 +8765,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:lumin8-transportation-technologies-llc",
@@ -8708,7 +8788,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:microsoft",
@@ -8739,7 +8819,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:nigp",
@@ -8773,7 +8853,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:open-contracting-partnership",
@@ -8815,7 +8895,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:opensearch",
@@ -8838,7 +8918,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:paypal",
@@ -8861,7 +8941,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:plainlanguage-gov",
@@ -8884,7 +8964,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:public-safety-answering-point",
@@ -8910,7 +8990,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:rva-gov-on-acquia-drupal",
@@ -8945,7 +9025,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:rva311-contact-center",
@@ -8971,7 +9051,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:service-content-guild",
@@ -8994,7 +9074,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:shi",
@@ -9017,7 +9097,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:socrata",
@@ -9068,7 +9148,7 @@
    "claimCount": 15,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:tech-dynamism",
@@ -9099,7 +9179,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:uk-open-government-partnership",
@@ -9125,7 +9205,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:venmo",
@@ -9148,7 +9228,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:organization:world-commerce-contracting",
@@ -9190,7 +9270,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:outcome:city-of-austin-pipeline-failure",
@@ -9213,7 +9293,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:outcome:fema-deobligated-805-630",
@@ -9236,7 +9316,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:10-day-inspection-target",
@@ -9259,7 +9339,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:2024-2027-strategic-plan",
@@ -9301,7 +9381,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:21-74",
@@ -9335,7 +9415,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:21-75",
@@ -9369,7 +9449,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:7-business-day-response-sla",
@@ -9403,7 +9483,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:article-5",
@@ -9438,7 +9518,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:article-6",
@@ -9473,7 +9553,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:bpmn-2-0",
@@ -9496,7 +9576,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:city-s-language-access-plan-lap",
@@ -9522,7 +9602,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:city-slas",
@@ -9545,7 +9625,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:consent-to-enter-and-release-of-liability-agreement",
@@ -9579,7 +9659,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:devpost-s-civic-tech-hackathon-2025-rubric",
@@ -9605,7 +9685,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:digital-equity-implementation-plan",
@@ -9647,7 +9727,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:federal-acquisition-regulation-far-9-404",
@@ -9681,7 +9761,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:federal-supply-schedule-ordering-procedures",
@@ -9707,7 +9787,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:foia",
@@ -9733,7 +9813,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:in-edu-guidelines",
@@ -9764,7 +9844,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:json-schemas",
@@ -9799,7 +9879,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:master-plan",
@@ -9825,7 +9905,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:mayor-danny-avula-s-action-plan",
@@ -9851,7 +9931,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:monday-saturday-operating-hours",
@@ -9874,7 +9954,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:oecd-digital-government-policy-framework",
@@ -9900,7 +9980,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:omb-circular-a-11-section-280",
@@ -9950,7 +10030,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:open311-georeport-v2-standard",
@@ -10000,7 +10080,7 @@
    "claimCount": 6,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:open311-standard",
@@ -10023,7 +10103,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:richmond-city-code-chapter-21",
@@ -10075,7 +10155,7 @@
    "claimCount": 6,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:richmond-s-language-access-plan",
@@ -10117,7 +10197,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:rva311-s-privacy-policy",
@@ -10143,7 +10223,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:technical-ly-s-guidelines",
@@ -10169,7 +10249,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:policy:wcag",
@@ -10195,7 +10275,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:population:120-200-city-owned-trees",
@@ -10218,7 +10298,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:population:federal-grant-recipients",
@@ -10241,7 +10321,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:population:limited-english-proficiency-lep-users",
@@ -10267,7 +10347,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:population:richmond-residents",
@@ -10317,35 +10397,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
- },
- {
-  "id": "n:problem:seeclickfix-sample-data-aug-2014-to-aug-2015",
-  "type": "Problem",
-  "label": "SeeClickFix Sample Data Aug 2014 to Aug 2015",
-  "repo": "pillar-thriving-city-hall",
-  "evidenceStatus": "reported_but_unverified",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/_parallel-research/svc-nav-q2-data.md",
-    "sourceLocation": "lines 222-222",
-    "excerpt": "SeeClickFix Sample Data Aug 2014 to Aug 2015"
-   },
-   {
-    "sourceDoc": "https://data.richmondgov.com/d/vgg4-hjn8",
-    "sourceLocation": "cited in post-event research",
-    "excerpt": "Data Last Updated\nSeptember 2, 2015"
-   }
-  ],
-  "description": "SeeClickFix Sample Data Aug 2014 to Aug 2015 — Impact: The data is over a decade old and does not reflect current 311 operations, service request types, or departmental performance. It is unsuitable for real-time analysis, trend monitoring, or integration with current city service systems. Its utility is limited to historical research of the 2014-2015 period.",
-  "attrs": {
-   "origin": "post-event research",
-   "kind": "systemic",
-   "section": "data_source_limitations",
-   "confidence": "medium",
-   "citationCount": 1
-  },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:311-crm",
@@ -10371,7 +10423,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:311-intents",
@@ -10397,7 +10449,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:311-ivr-system",
@@ -10423,7 +10475,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:311-s-public-facing-platforms",
@@ -10449,7 +10501,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:a-thriving-city-hall",
@@ -10472,7 +10524,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:acquia-search-config-module",
@@ -10495,7 +10547,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:affordable-connectivity-program",
@@ -10521,7 +10573,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:ask-indiana",
@@ -10560,7 +10612,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:austin-s-finance-online-portal",
@@ -10586,7 +10638,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:austin-s-open-data-portal",
@@ -10612,7 +10664,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:avepoint-citizen-services-platform",
@@ -10638,7 +10690,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:avepoint-e311",
@@ -10661,7 +10713,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:avepoint-service-request-management-system",
@@ -10694,7 +10746,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:aws-lambda",
@@ -10717,7 +10769,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:bills-taxes",
@@ -10740,7 +10792,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:bloomberg-philanthropies-what-works-cities-certification",
@@ -10767,7 +10819,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:browse-by-department",
@@ -10793,7 +10845,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:checkbook-nyc",
@@ -10843,7 +10895,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:city-of-tempe-s-procurement-contracts-dashboard",
@@ -10869,7 +10921,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:city-portals",
@@ -10895,7 +10947,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:cityworks",
@@ -10934,7 +10986,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:code-refresh-page",
@@ -10965,7 +11017,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:construction",
@@ -10988,7 +11040,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:cooperative-purchasing-program",
@@ -11019,7 +11071,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:department-of-finance-forms-page",
@@ -11045,7 +11097,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:department-of-justice-s-contracting-opportunities-dashboard",
@@ -11071,7 +11123,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:departments",
@@ -11115,7 +11167,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:disaster-purchasing-program",
@@ -11146,7 +11198,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:drupal",
@@ -11196,7 +11248,7 @@
    "claimCount": 6,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:employment",
@@ -11219,7 +11271,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:enterprise-voice-of-customer-voc-platform",
@@ -11245,7 +11297,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:facet-api-module",
@@ -11268,7 +11320,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:for-businesses",
@@ -11291,7 +11343,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:forms",
@@ -11314,7 +11366,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:getcalfresh",
@@ -11353,7 +11405,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:gov-uk",
@@ -11384,7 +11436,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:government-transparency-dashboard",
@@ -11410,7 +11462,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:harvard-kennedy-school-bloomberg-harvard-city-leadership-initiative",
@@ -11433,7 +11485,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:homepage",
@@ -11483,7 +11535,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:honolulu-answers",
@@ -11514,7 +11566,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:ibm-watsonx-assistant",
@@ -11540,7 +11592,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:ipaas",
@@ -11566,7 +11618,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:legal",
@@ -11589,7 +11641,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:lex-kendra",
@@ -11623,7 +11675,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:lifeline",
@@ -11646,7 +11698,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:mayor-avula-s-thriving-city-hall-initiative",
@@ -11688,7 +11740,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:microsoft-biztalk",
@@ -11738,7 +11790,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:microsoft-dynamics-365",
@@ -11780,7 +11832,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:mnbenefits",
@@ -11819,7 +11871,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:model-a",
@@ -11842,7 +11894,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:multiple-award-schedule",
@@ -11877,7 +11929,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:municipal-homepages",
@@ -11900,7 +11952,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:mycity-chatbot",
@@ -11942,7 +11994,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:news",
@@ -11965,7 +12017,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:nyc-311",
@@ -11991,7 +12043,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:nyc-s-checkbook",
@@ -12017,7 +12069,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:open-data",
@@ -12040,7 +12092,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:open-data-mini-hackathon",
@@ -12082,7 +12134,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:open311",
@@ -12133,7 +12185,7 @@
    "claimCount": 6,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:opencomm-platform",
@@ -12156,7 +12208,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:opengov",
@@ -12206,7 +12258,7 @@
    "claimCount": 11,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:oracle-ebusiness-suite",
@@ -12232,7 +12284,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:patent-prosecution",
@@ -12258,7 +12310,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:paving",
@@ -12281,7 +12333,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:permits-planning",
@@ -12304,7 +12356,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:philadelphia-s-311-system",
@@ -12338,7 +12390,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:plain-language-311-helper",
@@ -12363,7 +12415,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:procurement-transparency-dashboard",
@@ -12413,7 +12465,7 @@
    "claimCount": 7,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:procurement-transparency-initiatives",
@@ -12444,7 +12496,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:property-search",
@@ -12475,7 +12527,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:property-transfer",
@@ -12506,7 +12558,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:public-safety",
@@ -12529,7 +12581,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:quick-start-requests",
@@ -12552,7 +12604,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rapids",
@@ -12602,7 +12654,7 @@
    "claimCount": 7,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:recreation-education",
@@ -12625,7 +12677,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:richmond-civic-hackathon",
@@ -12672,7 +12724,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:richmond-service-navigation-tool",
@@ -12723,7 +12775,7 @@
    "claimCount": 8,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva-311",
@@ -12774,7 +12826,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva-burger-menu",
@@ -12800,7 +12852,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva-stay-gap-grant-program",
@@ -12850,7 +12902,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva311",
@@ -12908,7 +12960,7 @@
    "claimCount": 48,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva311-mobile-applications",
@@ -12951,7 +13003,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva311-portal",
@@ -12990,7 +13042,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva311-service-request-management-system",
@@ -13023,7 +13075,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:rva311-system",
@@ -13049,7 +13101,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:san-diego-get-it-done",
@@ -13072,7 +13124,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:san-diego-s-get-it-done",
@@ -13095,7 +13147,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:screening-of-passengers-by-observation-techniques",
@@ -13137,7 +13189,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:seeclickfix-311-crm",
@@ -13160,7 +13212,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:seeclickfix-workflows",
@@ -13182,7 +13234,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:service-pathway-mapper",
@@ -13208,7 +13260,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:services-hub",
@@ -13259,7 +13311,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:services-support",
@@ -13282,7 +13334,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:snap",
@@ -13308,7 +13360,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:solid-waste",
@@ -13358,7 +13410,7 @@
    "claimCount": 5,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:taiwan-presidential-hackathon",
@@ -13397,7 +13449,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:thriving-city-hall",
@@ -13420,7 +13472,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:transportation",
@@ -13443,7 +13495,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:trimble-cityworks",
@@ -13477,7 +13529,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:urban-forestry",
@@ -13524,7 +13576,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:utilities",
@@ -13547,7 +13599,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:va-gov-design-system",
@@ -13570,7 +13622,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:view-all-requests",
@@ -13593,7 +13645,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:program:vita-cobblestone-portal",
@@ -13619,27 +13671,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
- },
- {
-  "id": "n:proposal:parallel-research",
-  "type": "Proposal",
-  "label": " Parallel-Research",
-  "repo": "pillar-thriving-city-hall",
-  "evidenceStatus": "proposed",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/_parallel-research/procurement-q1-regional.md",
-    "sourceLocation": "lines 1-1",
-    "excerpt": "The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized b"
-   }
-  ],
-  "description": "The procurement technology landscape across the nine surveyed mid-sized US cities—Richmond, Baltimore, Pittsburgh, Louisville, Norfolk, Raleigh, Durham, Chattanooga, and New Orleans—is characterized by the adoption of dedicated e-procurement portals for managing solicitations and vendor relationships. Platforms such as OpenGov, Bonfire (Euna), and Workday are prevalent, supplemented by city-specific portals like New Orleans' BRASS system. A significant and universal finding is the absence of technology designed to help staff identify and validate contracts across different jurisdictions (city, state, federal). There is no public evidence that any of these cities have implemented AI-powered contract analysis, OCR-based data extraction, or procurement intelligence dashboards for aggregating external contract sources. While most cities offer some level of searchability for their own contracts, these functions are confined to their internal systems. Vendor compliance checking is addressed in a minority of cases through specialized third-party systems like B2Gnow (used by Richmond and Baltimore), indicating that this function is often separate from the core procurement platform. All identified systems are currently live and operational.",
-  "attrs": {
-   "origin": "post-event research",
-   "project": "_parallel-research"
-  },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:risk:class-1-misdemeanor",
@@ -13678,7 +13710,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:3-1-1",
@@ -13720,7 +13752,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:311",
@@ -13759,7 +13791,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:311-phone-line",
@@ -13786,7 +13818,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:311-systems",
@@ -13812,7 +13844,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:911",
@@ -13854,7 +13886,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:address",
@@ -13877,7 +13909,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:advanced-metering-infrastructure",
@@ -13903,7 +13935,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:arcgis-property-search",
@@ -13926,7 +13958,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:bulk-and-brush",
@@ -13960,7 +13992,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:bulk-brush",
@@ -14002,7 +14034,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:city-auditor-s-webpage",
@@ -14025,7 +14057,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:city-of-richmond-procurement-transparency-page",
@@ -14051,7 +14083,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:city-s-official-language-access-interpreters",
@@ -14077,7 +14109,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:city-tree-map",
@@ -14105,7 +14137,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:civicready",
@@ -14128,7 +14160,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:code-enforcement-cases",
@@ -14156,7 +14188,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:customer-information-system",
@@ -14182,7 +14214,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:dpu-customer-care-center",
@@ -14205,7 +14237,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:energov-online-permit-portal",
@@ -14231,7 +14263,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:foia-contact",
@@ -14270,7 +14302,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:google-translate",
@@ -14317,7 +14349,7 @@
    "claimCount": 10,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:google-translate-widget",
@@ -14343,7 +14375,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:graffiti",
@@ -14374,7 +14406,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:homeowners-residential-building-permit-process-guide",
@@ -14396,7 +14428,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:infrastructure",
@@ -14419,7 +14451,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:leaf-collection",
@@ -14458,7 +14490,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:list-of-towed-vehicles",
@@ -14486,7 +14518,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:neighborhood-mapper",
@@ -14514,7 +14546,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:online-permit-portal",
@@ -14537,7 +14569,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:online-permit-portal-user-guide",
@@ -14559,7 +14591,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:opengov-links",
@@ -14582,7 +14614,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:opengov-procurement",
@@ -14605,7 +14637,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:parcel-mapper",
@@ -14633,7 +14665,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:parking-application",
@@ -14656,7 +14688,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:pavement-conditions-index",
@@ -14684,7 +14716,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:pdf-guides",
@@ -14707,7 +14739,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:permit-portal-energov",
@@ -14735,7 +14767,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:permits-inspections-pages",
@@ -14758,7 +14790,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:phone",
@@ -14781,7 +14813,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:potholes",
@@ -14828,7 +14860,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:property-search",
@@ -14856,7 +14888,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:public-works-services-finder",
@@ -14884,7 +14916,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:remit-online",
@@ -14907,7 +14939,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:request-handicap-parking-sign",
@@ -14930,7 +14962,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:request-residential-parking-permit",
@@ -14953,7 +14985,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:richmond-311-system",
@@ -15005,7 +15037,7 @@
    "claimCount": 12,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:rva311-category-deep-links",
@@ -15036,7 +15068,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:rvapay",
@@ -15059,7 +15091,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:services-directory",
@@ -15082,7 +15114,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:sidewalks",
@@ -15113,7 +15145,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:snow-removal",
@@ -15136,7 +15168,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:speed-tables-planned",
@@ -15164,7 +15196,7 @@
    "confidence": "medium",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:trash",
@@ -15195,7 +15227,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:trash-bulk-pick-ups",
@@ -15230,7 +15262,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:trash-debris",
@@ -15264,7 +15296,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:utilities-finance",
@@ -15287,7 +15319,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:vision-zero-dashboard",
@@ -15315,7 +15347,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:service:zoning-mapper",
@@ -15343,7 +15375,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:12onyourside-com-236b5f62",
@@ -15370,7 +15402,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:aclu-org-ee4b0a94",
@@ -15397,7 +15429,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:acquisition-gov-f4cc59a0",
@@ -15424,7 +15456,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:alumio-com-c51964e3",
@@ -15451,7 +15483,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:api-usaspending-gov-40a12b86",
@@ -15478,7 +15510,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:apnews-com-48f773ed",
@@ -15513,7 +15545,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:apps-apple-com-a8cac9eb",
@@ -15540,7 +15572,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:assets-publishing-service-gov-uk-77d561e1",
@@ -15567,7 +15599,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:assets-vpm-org-4cb25204",
@@ -15594,7 +15626,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:austintexas-gov-4fa193d0",
@@ -15621,7 +15653,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:avepoint-com-22754258",
@@ -15656,7 +15688,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:aws-amazon-com-3db7d7e4",
@@ -15683,7 +15715,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:bidenwhitehouse-archives-gov-3699838f",
@@ -15710,7 +15742,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:boston-gov-6ffad98b",
@@ -15737,7 +15769,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:catalog-data-gov-44688e65",
@@ -15764,7 +15796,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:catalog-data-gov-b0cc98e7",
@@ -15791,7 +15823,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:cdn-avepoint-com-c063e588",
@@ -15818,7 +15850,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:cdt-org-9b384175",
@@ -15845,7 +15877,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:checkbooknyc-com-3b87d231",
@@ -15872,7 +15904,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:checkbooknyc-com-c3041d20",
@@ -15899,7 +15931,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:citibot-io-faff4fd5",
@@ -15926,7 +15958,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:civic-hacks-devpost-com-b598711d",
@@ -15953,7 +15985,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:civicplus-com-63eb9371",
@@ -15980,7 +16012,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:civicplus-com-d9b586e6",
@@ -16007,7 +16039,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:civicplus-help-e8eec353",
@@ -16034,7 +16066,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:civilized-ai-a30c37d9",
@@ -16069,7 +16101,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:codeforamerica-org-7c606e01",
@@ -16096,7 +16128,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:codeforamerica-org-7f43e082",
@@ -16123,7 +16155,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:codeforamerica-org-83e14de4",
@@ -16150,7 +16182,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:codeforamerica-org-f9298ec9",
@@ -16177,7 +16209,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:codeforamerica-org-f9716241",
@@ -16204,7 +16236,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:community-openai-com-aa9eadd7",
@@ -16231,7 +16263,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:content-cityleadership-harvard-edu-4f79fe04",
@@ -16258,7 +16290,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:controller-phila-gov-d10aa5b2",
@@ -16285,7 +16317,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:council-nyc-gov-35e1cc88",
@@ -16312,7 +16344,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dallascityhall-com-9d778e74",
@@ -16339,7 +16371,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-census-gov-174b7d10",
@@ -16366,7 +16398,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-census-gov-5eb4e2a9",
@@ -16393,7 +16425,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-cityofchicago-org-c03c4e36",
@@ -16420,7 +16452,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-cityofnewyork-us-a943bb47",
@@ -16447,7 +16479,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-00be4f6b",
@@ -16509,7 +16541,7 @@
    ],
    "claimCount": 28
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-0c18742f",
@@ -16536,12 +16568,12 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-144baf11",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…urce/xqn7-jvv2.json?$select=supplier,%20count(1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16563,7 +16595,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-27d08bf5",
@@ -16590,12 +16622,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-2a541c1b",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/resource/xqn7-jvv2.csv",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16637,7 +16669,7 @@
    ],
    "claimCount": 13
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-2f2e488c",
@@ -16664,7 +16696,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-30a24fa5",
@@ -16691,12 +16723,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-41eb1026",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…-jvv2.json?$select=type_of_solicitation,count(1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16718,12 +16750,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-4855c53c",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/resource/vgg4-hjn8.json?$limit=1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16745,12 +16777,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-4af81762",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/api/views/xqn7-jvv2/r...",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16771,12 +16803,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-6a5d70b9",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/api/views/vgg4-hjn8/r...",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16811,7 +16843,7 @@
    ],
    "claimCount": 10
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-6aed9edf",
@@ -16838,7 +16870,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-75505f4f",
@@ -16865,7 +16897,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-7b583ee3",
@@ -16892,7 +16924,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-85e87dc2",
@@ -16919,7 +16951,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-8e05dadd",
@@ -16946,12 +16978,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-8f3498d9",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/resource/xqn7-jvv2.json?$select=count(",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -16973,7 +17005,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-9d019a98",
@@ -17000,12 +17032,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-9f579eba",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/api/views/xqn7-jvv2.json",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17027,12 +17059,12 @@
    ],
    "claimCount": 12
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-a6a8d3fd",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…4-hjn8.json?$select=reportedusingmobile,count(1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17054,12 +17086,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-b7ef8def",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/resource/vgg4-hjn8.json?$select=count(1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17081,7 +17113,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-cd0f0f1e",
@@ -17108,12 +17140,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-ce6a2a20",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com/api/views/vgg4-hjn8",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17135,12 +17167,12 @@
    ],
    "claimCount": 9
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-e300070e",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…esource/xqn7-jvv2.json?$select=supplier,count(1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17162,12 +17194,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-e48798ba",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…pi/views/xqn7-jvv2/rows.csv?accessType=DOWNLOAD",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17189,12 +17221,12 @@
    ],
    "claimCount": 9
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-richmondgov-com-f6ac3275",
   "type": "Evidence",
-  "label": "data.richmondgov.com",
+  "label": "data.richmondgov.com…qn7-jvv2.json?$select=count(distinct%20supplier",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17216,7 +17248,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-sfgov-org-00a2bf57",
@@ -17243,7 +17275,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-sfgov-org-246fc61f",
@@ -17270,7 +17302,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-sfgov-org-8c460e78",
@@ -17297,7 +17329,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-virginia-gov-65ac1fd2",
@@ -17340,12 +17372,12 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-virginia-gov-a0187ed4",
   "type": "Evidence",
-  "label": "data.virginia.gov",
+  "label": "data.virginia.gov…id=25a59527-f14a-475d-b8da-af0155015887&limit=1",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -17367,7 +17399,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:data-virginia-gov-ed1a6f7b",
@@ -17394,7 +17426,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:design-guide-publishing-service-gov-uk-28956ed6",
@@ -17421,7 +17453,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:design-va-gov-1789dfd3",
@@ -17448,7 +17480,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:design-va-gov-8916e1d4",
@@ -17475,7 +17507,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dev-socrata-com-0a3fab6a",
@@ -17502,7 +17534,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dev-socrata-com-5eeb8afa",
@@ -17529,7 +17561,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dev-socrata-com-71858724",
@@ -17556,7 +17588,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:developers-openai-com-80bb051d",
@@ -17583,7 +17615,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dgs-virginia-gov-3252bb7f",
@@ -17610,7 +17642,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:digital-gov-5cc7a4a0",
@@ -17637,7 +17669,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:digital-gov-b97f4f73",
@@ -17664,7 +17696,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:digital-gov-cd63bb87",
@@ -17691,7 +17723,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:digitalgovernmenthub-org-4453330c",
@@ -17718,7 +17750,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:docs-acquia-com-c0c123ba",
@@ -17745,7 +17777,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:docs-acquia-com-f4cf5131",
@@ -17772,7 +17804,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:docs-fcc-gov-065bae73",
@@ -17799,7 +17831,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:docs-publishing-service-gov-uk-8640ce9d",
@@ -17826,7 +17858,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:docs-unstructured-io-2858f206",
@@ -17853,7 +17885,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dodprocurementtoolbox-com-a8a6f396",
@@ -17880,7 +17912,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dodprocurementtoolbox-com-ab522a5a",
@@ -17915,7 +17947,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:dol-gov-82875cbf",
@@ -17942,7 +17974,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:drupal-org-78e03eea",
@@ -17969,7 +18001,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:electriccitizen-com-89308857",
@@ -17996,7 +18028,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:epo-org-900429e4",
@@ -18023,7 +18055,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:eva-virginia-gov-2b69e3a7",
@@ -18050,7 +18082,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:eva-virginia-gov-96ed889e",
@@ -18077,7 +18109,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:eva-virginia-gov-99d04496",
@@ -18104,7 +18136,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:financeonline-austintexas-gov-f4536c43",
@@ -18131,7 +18163,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:frends-com-38a3be66",
@@ -18158,7 +18190,7 @@
    ],
    "claimCount": 11
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gds-blog-gov-uk-46ceb058",
@@ -18185,7 +18217,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gds-blog-gov-uk-b1f813b5",
@@ -18212,7 +18244,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gestisoft-com-1bdff954",
@@ -18239,7 +18271,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gfoa-org-e488dbff",
@@ -18266,7 +18298,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gis-tempe-gov-429f6218",
@@ -18293,7 +18325,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gist-github-com-0bc5a796",
@@ -18320,7 +18352,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-1ff9a5f0",
@@ -18347,12 +18379,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-23a021ae",
   "type": "Evidence",
-  "label": "usaspending-api/usaspendingapi/apicontracts/searchfilters.md at master · fedspendingtransparency/usaspending-api · GitHu",
+  "label": "usaspending-api/usaspendingapi/apicontracts/searchfilters.md at master · fedspendingtransparency/usaspending-api · GitH…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -18374,7 +18406,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-43103070",
@@ -18401,7 +18433,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-86512d66",
@@ -18428,12 +18460,12 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-9000bb78",
   "type": "Evidence",
-  "label": "GitHub - City-of-Helsinki/palautebot-fb-messenger: A Facebook messenger bot that posts service feedback over Open311 · G",
+  "label": "GitHub - City-of-Helsinki/palautebot-fb-messenger: A Facebook messenger bot that posts service feedback over Open311 ·…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -18455,7 +18487,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:github-com-a48aabbd",
@@ -18482,7 +18514,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gov-uk-a8f9d5d5",
@@ -18509,7 +18541,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gov-uk-f12357fe",
@@ -18536,7 +18568,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govconapi-com-350bc00d",
@@ -18563,7 +18595,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:governmentjobs-com-1a156fa9",
@@ -18590,7 +18622,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:governmentjobs-com-7faa9799",
@@ -18617,7 +18649,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govex-jhu-edu-ae118c2f",
@@ -18644,7 +18676,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govlaunch-com-e61c23b5",
@@ -18671,7 +18703,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govstack-com-1797543d",
@@ -18698,7 +18730,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govtech-com-25ef68e1",
@@ -18725,7 +18757,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govtech-com-36acb79e",
@@ -18752,7 +18784,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:govtech-com-74853ce8",
@@ -18779,7 +18811,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-18bd3fa8",
@@ -18806,7 +18838,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-3d5c712d",
@@ -18833,7 +18865,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-64411797",
@@ -18860,7 +18892,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-67ae02be",
@@ -18887,7 +18919,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-89fab91b",
@@ -18914,7 +18946,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-8fb33cd1",
@@ -18941,7 +18973,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:gsa-gov-ca5862d6",
@@ -18968,7 +19000,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:guide-mlh-io-daca9db5",
@@ -18995,7 +19027,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:guides-18f-org-46e71597",
@@ -19022,12 +19054,12 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:hack-for-rva-devpost-com-e0336850",
   "type": "Evidence",
-  "label": "Richmond Civic Hackathon: Richmond's best hustlers, hackers, and artists solving the city's toughest challenges. - Devpo",
+  "label": "Richmond Civic Hackathon: Richmond's best hustlers, hackers, and artists solving the city's toughest challenges. - Devp…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -19049,7 +19081,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:ibm-com-811afdef",
@@ -19076,7 +19108,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:ibml-com-98285a2f",
@@ -19103,7 +19135,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:icma-org-730a2346",
@@ -19130,7 +19162,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:igchicago-org-3eb3d512",
@@ -19157,12 +19189,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:igchicago-org-f5648d43",
   "type": "Evidence",
-  "label": "OIG Finds Lack of Clarity, Transparency in the 311 Request Process, Limiting Its Potential to Improve City Services and ",
+  "label": "OIG Finds Lack of Clarity, Transparency in the 311 Request Process, Limiting Its Potential to Improve City Services and…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -19184,7 +19216,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:in-eduproject-eu-7d57c1a6",
@@ -19211,7 +19243,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:indianacapitalchronicle-com-730bd6f0",
@@ -19238,7 +19270,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:info-devpost-com-44aa43c8",
@@ -19265,7 +19297,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:innovation-hub-seattle-gov-63d9ec83",
@@ -19292,7 +19324,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:justice-gov-b9f82bcb",
@@ -19319,7 +19351,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:ktllp-cpa-29ca0f76",
@@ -19346,7 +19378,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:law-lis-virginia-gov-366d466d",
@@ -19373,7 +19405,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:law-lis-virginia-gov-5bde8671",
@@ -19400,7 +19432,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:learn-avepoint-com-bacb7fa5",
@@ -19427,7 +19459,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:library-municode-com-24849104",
@@ -19454,7 +19486,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:mcclibraryweb-azurewebsites-us-4ca60e48",
@@ -19489,7 +19521,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:medium-com-8ff5c2f6",
@@ -19516,12 +19548,12 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:mobile311-sfgov-org-e4c8861e",
   "type": "Evidence",
-  "label": "mobile311.sfgov.org",
+  "label": "mobile311.sfgov.org/open311/v2/services.json",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -19543,7 +19575,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:mysociety-org-e4654bd0",
@@ -19570,7 +19602,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nextgov-com-728bba52",
@@ -19597,7 +19629,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nigp-org-370d7de5",
@@ -19624,7 +19656,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nngroup-com-194b4e72",
@@ -19651,7 +19683,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nngroup-com-a0711d9c",
@@ -19678,7 +19710,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nvlpubs-nist-gov-90cffc51",
@@ -19705,7 +19737,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nvlpubs-nist-gov-b8df5c37",
@@ -19732,7 +19764,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:nyc-gov-ac75ea94",
@@ -19759,7 +19791,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:oecd-org-4536f24e",
@@ -19786,7 +19818,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:oit-colorado-gov-3543ccc8",
@@ -19813,7 +19845,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-contracting-org-5c5f7dd2",
@@ -19840,7 +19872,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-contracting-org-fdcf3d99",
@@ -19867,7 +19899,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-027ae3a0",
@@ -19910,7 +19942,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-0977517d",
@@ -19937,7 +19969,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-930b2f2e",
@@ -19964,7 +19996,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-cdf22fcc",
@@ -20007,7 +20039,7 @@
    ],
    "claimCount": 9
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-d2b7b5dc",
@@ -20034,7 +20066,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-dabff3e0",
@@ -20061,7 +20093,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:open-gsa-gov-e0042902",
@@ -20088,7 +20120,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:opendata-cityofnewyork-us-6a733b63",
@@ -20123,7 +20155,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:opengovpartnership-org-170c2dda",
@@ -20150,7 +20182,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:opensource-com-650ad312",
@@ -20177,7 +20209,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:optasy-com-f587c20b",
@@ -20204,7 +20236,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:osc-colorado-gov-c2c397d0",
@@ -20231,7 +20263,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:papersplease-org-9cdff79e",
@@ -20258,7 +20290,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:patents-stackexchange-com-fded3493",
@@ -20285,7 +20317,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:play-google-com-19eee951",
@@ -20312,7 +20344,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:playbook-usds-gov-d9a21a4c",
@@ -20339,7 +20371,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:pmc-ncbi-nlm-nih-gov-4181223b",
@@ -20366,7 +20398,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:portal-cops-usdoj-gov-232629d6",
@@ -20393,7 +20425,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:portland-gov-59879170",
@@ -20420,7 +20452,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:praveenax-medium-com-c8ff4aa0",
@@ -20447,7 +20479,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:ptablitigationblog-com-f0eef9d0",
@@ -20474,7 +20506,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:pymupdf-readthedocs-io-b9123d42",
@@ -20501,7 +20533,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:reddit-com-969faa57",
@@ -20528,7 +20560,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:reddit-com-a18883a0",
@@ -20555,7 +20587,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:reddit-com-c4fa3897",
@@ -20582,7 +20614,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:repository-rit-edu-12b66f4c",
@@ -20609,7 +20641,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:researchgate-net-4b49666d",
@@ -20636,7 +20668,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:researchgate-net-75fb6928",
@@ -20663,7 +20695,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:reuters-com-e07bc28f",
@@ -20690,7 +20722,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:richmonder-org-3e2d4af7",
@@ -20717,7 +20749,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:richmondfed-org-8d0ed299",
@@ -20744,7 +20776,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:richmondva-legistar-com-1e44f624",
@@ -20771,7 +20803,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:richmondva-legistar-com-d0fa9254",
@@ -20798,7 +20830,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rictoday-6amcity-com-6b1fc6d3",
@@ -20825,7 +20857,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-005b39d3",
@@ -20852,7 +20884,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-02c047ac",
@@ -20879,7 +20911,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-0576bd5f",
@@ -20906,7 +20938,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-07120d28",
@@ -20933,7 +20965,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-07691dd3",
@@ -20960,7 +20992,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-0ce161d2",
@@ -20987,7 +21019,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-0fc004f0",
@@ -21022,7 +21054,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-158d6a91",
@@ -21049,7 +21081,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-19133ea5",
@@ -21076,7 +21108,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-1a035c2e",
@@ -21111,7 +21143,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-1f240bed",
@@ -21146,7 +21178,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-20aa95c1",
@@ -21173,7 +21205,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-28ac53ee",
@@ -21200,7 +21232,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-2a62bf8f",
@@ -21243,7 +21275,7 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-2b4c39ed",
@@ -21270,7 +21302,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-2b5028fa",
@@ -21297,7 +21329,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-2f92659d",
@@ -21324,7 +21356,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-32e0d964",
@@ -21351,7 +21383,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-37242b3e",
@@ -21378,7 +21410,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-401f80c5",
@@ -21405,7 +21437,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-4c8315cf",
@@ -21432,7 +21464,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-4f12eff3",
@@ -21467,7 +21499,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-5159ffb9",
@@ -21494,7 +21526,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-52581dbe",
@@ -21521,7 +21553,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-58b0f3bd",
@@ -21548,7 +21580,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-59dbe6ef",
@@ -21575,7 +21607,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-5bc3fed0",
@@ -21602,7 +21634,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-65a0cd84",
@@ -21637,7 +21669,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-6b6d7ee6",
@@ -21664,7 +21696,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-6c64d321",
@@ -21707,7 +21739,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-6d93da68",
@@ -21750,7 +21782,7 @@
    ],
    "claimCount": 9
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-7c3811b5",
@@ -21777,7 +21809,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-83a63e3e",
@@ -21804,7 +21836,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-87157668",
@@ -21831,7 +21863,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-8b747b39",
@@ -21858,7 +21890,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-8ec68dc2",
@@ -21885,7 +21917,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-906dfa6a",
@@ -21928,7 +21960,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-90824803",
@@ -21955,7 +21987,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-931913b9",
@@ -21990,7 +22022,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-94ba713d",
@@ -22017,7 +22049,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-952e425c",
@@ -22044,7 +22076,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-974825d8",
@@ -22079,7 +22111,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-99206d2d",
@@ -22106,7 +22138,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-999808cb",
@@ -22141,7 +22173,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-9b0bfc65",
@@ -22168,7 +22200,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-a4b2654e",
@@ -22203,7 +22235,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-a5c18c77",
@@ -22238,12 +22270,12 @@
    ],
    "claimCount": 7
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-a63eb12d",
   "type": "Evidence",
-  "label": "rva.gov",
+  "label": "rva.gov…0Richmond%20Language%20Access%20Plan%202025.pdf",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "externally_verified",
   "provenance": [
@@ -22265,7 +22297,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-ab08a4f3",
@@ -22292,7 +22324,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-ab72a054",
@@ -22319,7 +22351,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-b3d1a334",
@@ -22384,7 +22416,7 @@
    ],
    "claimCount": 40
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-b6750888",
@@ -22411,7 +22443,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-bf1b955f",
@@ -22438,7 +22470,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c1232b93",
@@ -22465,7 +22497,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c1396b7a",
@@ -22500,7 +22532,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c26e1bac",
@@ -22535,7 +22567,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c300a228",
@@ -22562,7 +22594,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c4b54e10",
@@ -22589,7 +22621,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c83ac648",
@@ -22616,7 +22648,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-c8db25ec",
@@ -22667,7 +22699,7 @@
    ],
    "claimCount": 13
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-d6c947b7",
@@ -22694,7 +22726,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-d6e234d6",
@@ -22721,7 +22753,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-d97b502d",
@@ -22748,7 +22780,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-de4585b5",
@@ -22775,7 +22807,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-df2e1943",
@@ -22802,7 +22834,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-ea331f2b",
@@ -22829,7 +22861,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-eb589786",
@@ -22864,7 +22896,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-ecb60467",
@@ -22891,7 +22923,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-f53b1f82",
@@ -22951,7 +22983,7 @@
    ],
    "claimCount": 14
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-f9724d55",
@@ -22978,7 +23010,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva-gov-fcd72fe8",
@@ -23005,12 +23037,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva311-com-53896950",
   "type": "Evidence",
-  "label": "rva311.com",
+  "label": "rva311.com/rvaone",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23040,12 +23072,12 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rva311-com-e57759f9",
   "type": "Evidence",
-  "label": "rva311.com",
+  "label": "rva311.com/rvaone",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23067,7 +23099,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rvahub-com-2ecfc689",
@@ -23094,7 +23126,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rvahub-com-9713b258",
@@ -23121,7 +23153,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:rvapay-rva-gov-150201a4",
@@ -23148,7 +23180,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sam-gov-17231f6c",
@@ -23175,7 +23207,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sandiego-gov-3061cffc",
@@ -23202,12 +23234,12 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sandiegouniontribune-com-584ae15a",
   "type": "Evidence",
-  "label": "New audit says San Diego’s Get It Done app often gives inaccurate, incomplete or confusing information – San Diego Union",
+  "label": "New audit says San Diego’s Get It Done app often gives inaccurate, incomplete or confusing information – San Diego Unio…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23229,7 +23261,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sba-gov-1ce87549",
@@ -23256,7 +23288,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sciencedirect-com-68a4d7b1",
@@ -23283,12 +23315,12 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:scispace-com-33ddd4dc",
   "type": "Evidence",
-  "label": "the-usability-and-content-accessibility-of-the-e-government",
+  "label": "The usability and content accessibility of the e government",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23310,7 +23342,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:search-211virginia-org-afdc80c5",
@@ -23337,7 +23369,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:socrata-github-io-626bcdb7",
@@ -23364,7 +23396,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:stackoverflow-com-17d11c13",
@@ -23391,7 +23423,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:stackoverflow-com-5d2617fa",
@@ -23418,7 +23450,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:support-socrata-com-e1496cbc",
@@ -23445,7 +23477,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:sweetspot-so-7818db7f",
@@ -23472,7 +23504,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:taikai-network-4ae21bc4",
@@ -23499,12 +23531,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:tandfonline-com-612b2c7c",
   "type": "Evidence",
-  "label": "Open innovation in the public sector: creating public value through civic hackathons: Public Management Review: Vol 23, ",
+  "label": "Open innovation in the public sector: creating public value through civic hackathons: Public Management Review: Vol 23,…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23526,7 +23558,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:techdynamism-com-0e437536",
@@ -23553,7 +23585,7 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:technology-blog-gov-uk-5e0c4f25",
@@ -23580,12 +23612,12 @@
    ],
    "claimCount": 2
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:thecity-nyc-eef6fb07",
   "type": "Evidence",
-  "label": "Malfunctioning NYC AI Chatbot Still Active Despite Widespread Evidence It’s Encouraging Illegal Behavior | THE CITY — NY",
+  "label": "Malfunctioning NYC AI Chatbot Still Active Despite Widespread Evidence It’s Encouraging Illegal Behavior | THE CITY — N…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -23615,7 +23647,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:thecity-nyc-ff0f533d",
@@ -23642,7 +23674,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:theintercept-com-ab4b51c2",
@@ -23669,7 +23701,7 @@
    ],
    "claimCount": 10
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:themarkup-org-00a633f8",
@@ -23712,7 +23744,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:themarkup-org-38e7fa0b",
@@ -23747,7 +23779,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:transportation-gov-2dafe577",
@@ -23774,7 +23806,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:twilio-com-2221ffbc",
@@ -23801,7 +23833,7 @@
    ],
    "claimCount": 4
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:uscis-gov-1040db60",
@@ -23828,7 +23860,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:uspto-gov-4fdb7690",
@@ -23855,7 +23887,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:virginiamercury-com-363b135d",
@@ -23882,7 +23914,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:vita-cobblestonesystems-com-619685d3",
@@ -23909,7 +23941,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:vita-virginia-gov-dea44e2e",
@@ -23936,7 +23968,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:vita-virginia-gov-e7f91333",
@@ -23971,7 +24003,7 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:vml-org-625654be",
@@ -23998,7 +24030,7 @@
    ],
    "claimCount": 9
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:vpm-org-9994f68f",
@@ -24025,12 +24057,12 @@
    ],
    "claimCount": 3
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:whatworkscities-bloomberg-org-c7d0e23a",
   "type": "Evidence",
-  "label": "Results for America Awards 12 New Cities With Bloomberg Philanthropies What Works Cities Certification for Exceptional U",
+  "label": "Results for America Awards 12 New Cities With Bloomberg Philanthropies What Works Cities Certification for Exceptional…",
   "repo": "pillar-thriving-city-hall",
   "evidenceStatus": "reported_but_unverified",
   "provenance": [
@@ -24052,7 +24084,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:whatworkscities-bloomberg-org-e6e1b02b",
@@ -24079,7 +24111,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wiki-cobblestonesoftware-com-735cc551",
@@ -24106,7 +24138,7 @@
    ],
    "claimCount": 5
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wiki-open311-org-89d1a547",
@@ -24133,7 +24165,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wiki-open311-org-fc1f0491",
@@ -24160,7 +24192,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:worldcc-com-468c80ff",
@@ -24187,7 +24219,7 @@
    ],
    "claimCount": 6
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wric-com-8bdd72ed",
@@ -24214,7 +24246,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wric-com-985da7e7",
@@ -24241,7 +24273,7 @@
    ],
    "claimCount": 1
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:wric-com-de0e1550",
@@ -24284,7 +24316,7 @@
    ],
    "claimCount": 14
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:source:www2-procurementexpress-com-17ae6d8b",
@@ -24311,7 +24343,7 @@
    ],
    "claimCount": 8
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:acquia-search",
@@ -24358,7 +24390,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:arcgis",
@@ -24381,7 +24413,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:avepoint-citizen-services",
@@ -24428,7 +24460,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:biztalk",
@@ -24451,7 +24483,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:citibot",
@@ -24490,7 +24522,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:cobblestone-contract-insight",
@@ -24524,7 +24556,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:cobblestone-systems",
@@ -24547,7 +24579,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:dynamics-365",
@@ -24578,7 +24610,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:gpt-4o-mini",
@@ -24609,7 +24641,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:invoicecloud",
@@ -24632,7 +24664,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:lunr-js",
@@ -24655,7 +24687,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:pymupdf",
@@ -24686,7 +24718,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:r-shiny",
@@ -24717,7 +24749,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:remitonline",
@@ -24740,7 +24772,7 @@
    "claimCount": 1,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:tableau",
@@ -24790,7 +24822,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:tableau-public",
@@ -24821,7 +24853,7 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:twilio",
@@ -24868,7 +24900,7 @@
    "claimCount": 4,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:tyler-munis",
@@ -24910,7 +24942,7 @@
    "claimCount": 3,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  },
  {
   "id": "n:vendor:unstructured",
@@ -24941,6 +24973,6 @@
    "claimCount": 2,
    "origin": "research corpus"
   },
-  "extractedAt": "2026-08-02T23:12:26.351Z"
+  "extractedAt": "2026-08-03T01:24:07.866Z"
  }
 ]
