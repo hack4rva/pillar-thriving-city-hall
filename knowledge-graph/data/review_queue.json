@@ -1,1 +1,506 @@
-[]
+[
+ {
+  "id": "r:dup-open-data-portal-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-c1396b7a vs n:source:rva-gov-07691dd3",
+  "sourceExcerpt": "Open Data Portal | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-rva311-com",
+  "itemType": "node",
+  "proposed": "n:source:rva311-com-e57759f9 vs n:source:rva311-com-53896950",
+  "sourceExcerpt": "rva311.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-contracts-open-data-portal-city-of-richmond-virginia",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-00be4f6b vs n:source:data-richmondgov-com-85e87dc2",
+  "sourceExcerpt": "City Contracts | Open Data Portal | City of Richmond, Virginia",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-office-of-the-city-auditor",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-32e0d964 vs n:source:rva-gov-158d6a91",
+  "sourceExcerpt": "Office of the City Auditor",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-citizen-service-and-response-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-94ba713d vs n:source:rva-gov-1a035c2e",
+  "sourceExcerpt": "Citizen Service and Response | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-ce6a2a20",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-b7ef8def",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-4855c53c",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-a6a8d3fd",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-9f579eba",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-contracts-open-data-portal-city-of-richmond-virginia",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-00be4f6b vs n:source:data-richmondgov-com-6aed9edf",
+  "sourceExcerpt": "City Contracts | Open Data Portal | City of Richmond, Virginia",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-e48798ba",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-41eb1026",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-e300070e",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-404-page-not-found-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-87157668 vs n:source:rva-gov-d6e234d6",
+  "sourceExcerpt": "404 Page Not Found | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-search-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-a4b2654e vs n:source:rva-gov-37242b3e",
+  "sourceExcerpt": "Search | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-search-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-a4b2654e vs n:source:rva-gov-ecb60467",
+  "sourceExcerpt": "Search | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-directory",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-58b0f3bd vs n:source:rva-gov-19133ea5",
+  "sourceExcerpt": "Directory",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-2a541c1b",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-f6ac3275",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-144baf11",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-8f3498d9",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-procurement-transparency-dashboard-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-c8db25ec vs n:source:rva-gov-005b39d3",
+  "sourceExcerpt": "Procurement Transparency Dashboard | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-data-richmondgov-com",
+  "itemType": "node",
+  "proposed": "n:source:data-richmondgov-com-6a5d70b9 vs n:source:data-richmondgov-com-4af81762",
+  "sourceExcerpt": "data.richmondgov.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-search-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-a4b2654e vs n:source:rva-gov-401f80c5",
+  "sourceExcerpt": "Search | Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-f53b1f82 vs n:geographicregion:richmond",
+  "sourceExcerpt": "Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-rva-gov",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-a63eb12d vs n:dataset:rva-gov",
+  "sourceExcerpt": "rva.gov",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-public-procurement-act",
+  "itemType": "node",
+  "proposed": "n:source:law-lis-virginia-gov-366d466d vs n:legislation:virginia-public-procurement-act",
+  "sourceExcerpt": "Virginia Public Procurement Act",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-office-of-the-city-auditor",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-32e0d964 vs n:governmentagency:office-of-the-city-auditor",
+  "sourceExcerpt": "Office of the City Auditor",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-property-search",
+  "itemType": "node",
+  "proposed": "n:service:property-search vs n:program:property-search",
+  "sourceExcerpt": "Property Search",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-of-richmond-online-permit-portal-user-guide",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-931913b9 vs n:dataset:city-of-richmond-online-permit-portal-user-guide",
+  "sourceExcerpt": "City of Richmond Online Permit Portal User Guide",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-current-contract-list",
+  "itemType": "node",
+  "proposed": "n:source:financeonline-austintexas-gov-f4536c43 vs n:dataset:current-contract-list",
+  "sourceExcerpt": "Current Contract List",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-homeowners-residential-building-permit-process-guide",
+  "itemType": "node",
+  "proposed": "n:source:rva-gov-83a63e3e vs n:service:homeowners-residential-building-permit-process-guide",
+  "sourceExcerpt": "Homeowners Residential Building Permit Process Guide",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-rva311-com",
+  "itemType": "node",
+  "proposed": "n:source:rva311-com-e57759f9 vs n:dataset:rva311-com",
+  "sourceExcerpt": "RVA311.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-spot-referral-report",
+  "itemType": "node",
+  "proposed": "n:source:papersplease-org-9cdff79e vs n:dataset:spot-referral-report",
+  "sourceExcerpt": "Spot Referral Report",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-vita-statewide-contracts",
+  "itemType": "node",
+  "proposed": "n:dataset:vita-statewide-contracts vs n:contract:vita-statewide-contracts",
+  "sourceExcerpt": "VITA statewide contracts",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ }
+]

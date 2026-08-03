@@ -1,14 +1,107 @@
 {
- "generatedAt": "2026-08-02T21:03:22.976Z",
+ "generatedAt": "2026-08-02T23:12:26.351Z",
  "repo": "pillar-thriving-city-hall",
  "filesExamined": [
   "admin/evidence_log.md",
   "data/source_inventory.csv",
   "post-event-research/_parallel-research/procurement-q1-regional.md",
-  "post-event-research/_parallel-research/procurement-q3-equity.md",
   "post-event-research/_parallel-research/svc-nav-q2-data.md",
-  "post-event-research/_parallel-research/svc-nav-q3-equity.md"
+  "research/00_pillar_summary_context.md",
+  "research/90_top_10_research_questions.md",
+  "research/91_top_10_hypotheses_to_test.md",
+  "research/92_red_flags.md",
+  "research/93_missing_information_gaps.md",
+  "research/A1_problem_landscape_service_navigation.md",
+  "research/A2_problem_landscape_procurement_review.md",
+  "research/A4_problem_landscape_root_causes.md",
+  "research/A5_problem_landscape_government_ux.md",
+  "research/B1_users_resident_service_seeker.md",
+  "research/B3_users_procurement_staff.md",
+  "research/B4_users_stakeholders_map.md",
+  "research/B5_users_digital_equity.md",
+  "research/C1_services_311_landscape.md",
+  "research/C2_services_rvagov_landscape.md",
+  "research/C3_services_procurement_systems.md",
+  "research/C4_services_gaps.md",
+  "research/C5_services_digital.md",
+  "research/D1_data_311_historical.md",
+  "research/D2_data_contracts.md",
+  "research/D3_data_federal_procurement.md",
+  "research/D4_data_rvagov_content.md",
+  "research/D5_data_quality_gaps.md",
+  "research/E1_prior_art_311_tools.md",
+  "research/E2_prior_art_gov_service_nav.md",
+  "research/E3_prior_art_procurement_tools.md",
+  "research/E4_prior_art_failures.md",
+  "research/E5_prior_art_weekend_viable.md",
+  "research/F1_opportunities_ranked.md",
+  "research/F2_opportunities_service_nav.md",
+  "research/F3_opportunities_procurement.md",
+  "research/G1_risks_wrong_routing.md",
+  "research/G2_risks_procurement_compliance.md",
+  "research/G4_risks_data_staleness.md",
+  "research/H1_mvp_48hr_framework.md",
+  "research/H2_mvp_service_navigation.md",
+  "research/H3_mvp_procurement.md",
+  "research/H4_mvp_data_constraints.md",
+  "research/H5_mvp_scope_boundaries.md",
+  "research/I2_demo_service_nav_pitch.md",
+  "research/I3_demo_procurement_pitch.md",
+  "research/I4_demo_credibility.md"
  ],
+ "researchCorpus": {
+  "reportsRead": 42,
+  "reportsOffBrief": [
+   {
+    "file": "research/A3_problem_landscape_compare_statements.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B2_users_311_staff.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F4_opportunities_where_software.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F5_opportunities_do_not_build.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G3_risks_inclusion.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G5_risks_guardrails.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I1_demo_archetypes.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I5_demo_framing.md",
+    "localMentionsPerKWord": 0
+   }
+  ],
+  "reportsWithoutReferences": [
+   {
+    "file": "research/01_master_research_prompt.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/INDEX.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/validation_report.md",
+    "reason": "corpus scaffolding, not findings"
+   }
+  ],
+  "claimsIndexed": 641,
+  "primarySourcesCited": 314
+ },
  "provenanceVerification": {
   "exact": 0,
   "moved": 0,
@@ -16,10 +109,13 @@
   "missing": 0,
   "external": 0
  },
- "warnings": [],
+ "warnings": [
+  "[demote] 8 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[corpus] dropped 0 stale-anchor, 107 unresolved-endpoint, 0 not-an-organization and 108 not-a-name records"
+ ],
  "metrics": {
-  "totalNodes": 50,
-  "totalEdges": 30,
+  "totalNodes": 831,
+  "totalEdges": 2034,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -29,7 +125,7 @@
   "flowsWithUnknownDestination": 0,
   "flowsWithUnknownSource": 0,
   "fundingWithUnknownDestinationUSD": 0,
-  "intendedBeneficiaryNodes": 0,
+  "intendedBeneficiaryNodes": 9,
   "needsTotal": 0,
   "needsWithNoFunding": [],
   "fundingFlowsWithNoDocumentedOutcome": 0,
@@ -38,11 +134,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 21,
+  "reportedButUnverifiedRelationships": 432,
   "brokenReferences": 0,
-  "duplicateCandidates": 0,
-  "reviewQueueSize": 0,
-  "evidenceRecords": 18,
+  "duplicateCandidates": 36,
+  "reviewQueueSize": 36,
+  "evidenceRecords": 667,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
@@ -51,6 +147,8 @@
    "missing": 0,
    "external": 0
   },
+  "questionsDeduplicated": 0,
+  "questionsResolvedSinceLogged": 0,
   "externalResearch": {
    "researchedAt": null,
    "evidenceRecords": 0,
