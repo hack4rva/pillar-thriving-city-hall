@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T01:24:07.866Z",
+ "generatedAt": "2026-08-03T02:19:51.376Z",
  "repo": "pillar-thriving-city-hall",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -113,11 +113,11 @@
  },
  "warnings": [
   "[demote] 9 sentence-shaped Problem/Need nodes moved to the evidence layer",
-  "[corpus] dropped 0 stale-anchor, 107 unresolved-endpoint, 0 not-an-organization and 108 not-a-name records"
+  "[corpus] dropped 0 stale-anchor, 107 unresolved-endpoint, 0 not-an-organization and 110 not-a-name records"
  ],
  "metrics": {
-  "totalNodes": 833,
-  "totalEdges": 2033,
+  "totalNodes": 831,
+  "totalEdges": 2031,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -138,8 +138,8 @@
   "disputedRelationships": 0,
   "reportedButUnverifiedRelationships": 431,
   "brokenReferences": 0,
-  "duplicateCandidates": 21,
-  "reviewQueueSize": 21,
+  "duplicateCandidates": 12,
+  "reviewQueueSize": 12,
   "evidenceRecords": 668,
   "provenanceCoverage": 100,
   "provenanceVerification": {
